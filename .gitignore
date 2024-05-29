@@ -1,2 +1,11 @@
+# San Vitale challenge dataset
 data
-src/.env
+
+# Environments
+.env
+.venv
+
+# Compiled files
+__pycache__/
+*.py[cod]
+*$py.class
