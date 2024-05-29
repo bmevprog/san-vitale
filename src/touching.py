@@ -1,3 +1,4 @@
+from polygon import Polygon
 
 class Touching:
 
@@ -9,3 +10,8 @@ class Touching:
     # We overlay these two points on top of each other
     # and find the best relative rotation angle that
     # maximizes the touching score.
+
+  def __init__(self, i, j, score):
+    self.i = i
+    self.j = j
+    self.score = score
