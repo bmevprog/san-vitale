@@ -1,7 +1,6 @@
 import numpy as np
 import cv2
 import random
-from random import randrange
 import copy
 import shapely
 from shapely.geometry import Polygon
@@ -9,6 +8,8 @@ import math
 import sys
 import os
 from dotenv import load_dotenv
+
+from display import Display
 
 load_dotenv()
 
@@ -26,18 +27,6 @@ def clockwiseAngleBetween(p1, p2, p3):
 	angle = math.atan2(det, dot)  # atan2(y, x) or atan2(sin, cos)
 	return angle
 
-### DISPLAY
-def clearImg():
-	img.fill(0)
-
-def drawPoly(poly, color=None):
-	global img
-	if color == None:
-		color = (randrange(256),randrange(256),randrange(256))
-	img = cv2.polylines(img, [np.array(poly.pts, np.int32)], isClosed=False, color=color, thickness=2)
-
-def show():
-	cv2.imshow("", img)
 
 ### POLYGONS
 
@@ -205,11 +194,11 @@ def getBestFit(A, B, count):
 				bestScore = sc
 				if dbgBest:
 
-					clearImg()
-					drawPoly(fitA)
-					drawPoly(B)
+					Display.clear(img)
+					Display.draw(img, fitA)
+					Display.draw(img, B)
 					score(fitA, B, True) # dbg score
-					show()
+					Display.show(img)
 				#cv2.waitKey(1)
 			j+=fittingStep
 		i+=fittingStep
@@ -218,13 +207,13 @@ def getBestFit(A, B, count):
 	return scores[0:count]
 
 def debugFit(f1, f2, fit):
-	clearImg()
+	Display.clear(img)
 	A = copy.deepcopy(f1)
 	A = fitPoly(A, f2, fit[0], fit[1], fittingStep)
-	drawPoly(A)
-	drawPoly(f2)
+	Display.draw(img, A)
+	Display.draw(img, f2)
 	score(A, f2, True)
-	show()
+	Display.show(img)
 	cv2.waitKey(0)
 
 scoreSUM = 0
