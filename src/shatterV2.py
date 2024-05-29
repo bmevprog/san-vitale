@@ -75,7 +75,6 @@ def getBestTouchings(A, B, count):
 
 
 def runScoring(polygons):
-
   for i in range(len(polygons)):
     polygons[i].touchings = [None for _ in range(len(polygons))]
 
