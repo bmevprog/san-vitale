@@ -7,10 +7,15 @@ import shapely
 from shapely.geometry import Polygon
 import math
 import sys
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 img = np.zeros([500,500,3],dtype=np.uint8)
 scale = 0.1
-folder = "C:/Users/akosd/OneDrive/Desktop/prog/svitale/data/track1/" + sys.argv[1]
+folder = os.getenv("DATASET_PATH") + sys.argv[1]
 
 ### MATH
 def clockwiseAngleBetween(p1, p2, p3):
