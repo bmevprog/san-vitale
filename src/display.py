@@ -17,15 +17,15 @@ class Display:
   def clear(self):
     self.img.fill(0)
 
-  def show(self):
+  def show(self, time=0):
     cv2.imshow("", self.img)
-    cv2.waitKey(0)
+    cv2.waitKey(time)
 
   def draw(self, poly: Polygon, color=None):
     color = color or [randrange(256) for _ in range(3)]
     self.img = cv2.polylines(self.img, [np.array(poly.points, np.int32)], isClosed=False, color=color, thickness=2)
 
-  def debugTouching(self, A: Polygon, B: Polygon, touching: Touching, fittingStep):
+  def debugTouching(self, A: Polygon, B: Polygon, touching: Touching, fittingStep, time=0):
     self.clear()
     fittedA = copy.deepcopy(A)
     fittedA.overlay(B, touching.i, touching.j, fittingStep)
@@ -37,6 +37,6 @@ class Display:
       pointDist = shapely.distance(pointB, shapelyA.exterior)
 
     if pointDist < 1.5:
-      self.img = cv2.circle(self.img, (B.points[i][0], B.points[i][1]), 5, (255,0,0), thickness=1, lineType=8, shift=0)
+      self.img = cv2.circle(self.img, (int(B.points[i][0]), int(B.points[i][1])), 5, (255,0,0), thickness=1, lineType=8, shift=0)
    
-    self.show()
+    self.show(time)
