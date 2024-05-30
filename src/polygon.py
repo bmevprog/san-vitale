@@ -1,5 +1,6 @@
 import math
 from shapely.geometry import Polygon as ShapelyPolygon
+from random import randrange
 
 class Polygon:
 
@@ -78,12 +79,12 @@ class Polygon:
 
   def normAverageAround(self, i, stepsize = 1):
     avgx, avgy = 0, 0
-    norms = [(-y, x) for x, y in self.points]
+    norms = [(-y, x) for x, y in self.vectors]
     for t in range(stepsize):
       avgx += norms[(i+t) % self.n][0]
       avgy += norms[(i+t) % self.n][1]
-    avgx /= self.n
-    avgy /= self.n
+    avgx /= stepsize
+    avgy /= stepsize
     return avgx, avgy
 
   def overlay(self, other, i, j, stepsize=1):
@@ -93,8 +94,10 @@ class Polygon:
     self.move(bjx-aix, bjy-aiy)
 
     anormx, anormy = self.normAverageAround(i, stepsize)
-    bnormx, bnormy = self.normAverageAround(j, stepsize)
+    bnormx, bnormy = other.normAverageAround(j, stepsize)
   
     dot = anormx*bnormx + anormy*bnormy
     det = anormx*bnormy - anormy*bnormx
     angle = math.atan2(det, dot)
+
+    self.rotate(angle+3.1415, [bjx, bjy])

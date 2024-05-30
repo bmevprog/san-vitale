@@ -20,7 +20,7 @@ from touching import Touching
 load_dotenv()
 data_path = Path(os.getenv("DATASET_PATH") + sys.argv[1])
 scale = float(os.getenv("SCALE"))
-dbgBest = True
+dbgBest = False
 fittingStep = 1
 maxTouchings = 1
 
@@ -41,10 +41,10 @@ def scorePosition(poly1: Polygon, poly2: Polygon):
 
   score = 0
   if poly1.isIntersecting(poly2):
-    score += p1.intersection(p2).area/fullArea*100
+    score += p1.intersection(p2).area/fullArea*10
 
-  score += unary_union([p1, p2]).convex_hull.area/fullArea
-
+  score += unary_union([p1, p2]).convex_hull.area/fullArea/10
+  """
   for i in range(len(poly2.points)):
     point = poly2.points[i]
     pointDist = shapely.distance(shapely.Point(point), p1.exterior)
@@ -52,7 +52,7 @@ def scorePosition(poly1: Polygon, poly2: Polygon):
       score -= poly2.lengths[i]*10
     if pointDist > 1.5 and pointDist < 5:
       score += poly2.lengths[i]*10
-
+  """
   return score
 
 def getBestTouchings(A, B, count):
@@ -68,7 +68,7 @@ def getBestTouchings(A, B, count):
       if score < bestScore:
         bestScore = score
         if dbgBest:
-          display.debugTouching(fittedA, B, Touching(i, j, score), fittingStep)
+          display.debugTouching(A, B, Touching(i, j, score), fittingStep)
 
   touchings.sort(key= lambda t: t.score)
   return touchings[0:count]
@@ -85,24 +85,23 @@ def runScoring(polygons):
       touchings = getBestTouchings(polygons[i], polygons[j], maxTouchings)
       polygons[i].touchings[j] = touchings
       polygons[j].touchings[i] = [Touching(t.j, t.i, t.score) for t in touchings]
-      
+
       s = 0
       for k in range(maxTouchings):
         display.debugTouching(polygons[i], polygons[j], touchings[k], fittingStep)
         s += touchings[k].score / (k+1)
 
       totalScore += s
-      polygons[i].touchings[j] = s
-      polygons[j].touchings[i] = s
 
   for i in range(len(polygons)):
     print(str(polygons[i].filepath) + ": ")
     for j in range(len(polygons)):
       if i != j:
-        score = polygons[i].touchings[j]
+        score = polygons[i].touchings[j][0].score
         print("	" + str(polygons[j].filepath) + " " + str(score/totalScore))
 
 def main():
+  print("running")
   polygons = []
   polygons = loadPolygons()
   runScoring(polygons)
