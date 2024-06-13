@@ -62,8 +62,8 @@ def create_indicator_constraints(model, polygon, extended_polygon, i, points):
 
   for j, point in enumerate(points):
     px, py = point
-    points_in_poly_i[j] = model.addVar(name=points_in_poly_i[j], vtype=GRB.BINARY)
-    points_in_extended_poly_i[j] = model.addVar(name=points_in_extended_poly_i[j], vtype=GRB.BINARY)
+    points_in_poly_i[j] = model.addVar(name=points_in_poly_i[j], obj=-BIG_NUMBER, vtype=GRB.BINARY)
+    points_in_extended_poly_i[j] = model.addVar(name=points_in_extended_poly_i[j], obj=-BIG_NUMBER, vtype=GRB.BINARY)
 
     print(f"Creating constraints for point {j} and polygon {i}")
     for k in range(len(vertices) - 1):
@@ -120,9 +120,9 @@ def create_ilp_solver(polygons, extended_polygons, points):
     print(f"Creating constraints for point {j}")
     point_j_in_polys = model.addVar(name=f'point_{j}_in_polys', vtype=GRB.BINARY)
     point_j_in_extended_polys = model.addVar(name=f'point_{j}_in_extended_polys', vtype=GRB.BINARY)
-    point_j_bad = model.addVar(name=f'point_{j}_bad', vtype=GRB.BINARY)
+    point_j_bad = model.addVar(name=f'point_{j}_bad', obj=1, vtype=GRB.BINARY)
     point_bads.append(point_j_bad)
-
+    
     model.addConstr(quicksum([points_in_polys[i][j] for i in range(len(polygons))]) == point_j_in_polys)
     # OR(points_in_extended_polys[i][j] for i in range(len(polygons)) == point_j_in_extended_polygons
     for i in range(len(polygons)):
@@ -133,8 +133,8 @@ def create_ilp_solver(polygons, extended_polygons, points):
     model.addConstr(point_j_bad <= point_j_in_extended_polys)
     model.addConstr(point_j_bad <= 2 - point_j_in_polys - point_j_in_extended_polys)
 
-  print("Setting objective")
-  model.setObjective(quicksum(point_bads), GRB.MINIMIZE)
+ # print("Setting objective")
+ # model.setObjective(0, GRB.MINIMIZE)
 
   print("Writing to file")
   model.write("model.lp")
