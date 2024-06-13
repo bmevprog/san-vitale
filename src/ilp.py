@@ -34,73 +34,86 @@ def normalize(polygons, target=200):
     polygons = [translate(poly, xoff=-poly.centroid.x, yoff=-poly.centroid.y) for poly in polygons]
     return polygons
 
-def create_ilp_solver(polygons, target_point):
-    num_polygons = len(polygons)
-    point_x, point_y = target_point
+BIG_NUMBER = 2000000
+def create_indicator_constraints(problem, polygon, i, points):
+  
+  tx, ty, sina, cosa = f'tx_{i}', f'ty_{i}', f'sina_{i}', f'cosa_{i}'
+  sinatx, cosatx, sinaty, cosaty = f'sinatx_{i}', f'cosatx_{i}', f'sinaty_{i}', f'cosaty_{i}'
 
-    # Initialize the CPLEX problem
-    prob = cplex.Cplex()
-    prob.set_problem_type(cplex.Cplex.problem_type.MILP)
+  problem.variables.add(names=[tx, ty, sina, cosa], types=[problem.variables.type.continuous] * 4)
+  problem.variables.add(names=[sinatx, cosatx, sinaty, cosaty], types=[problem.variables.type.continuous] * 4)
+
+  # sina^2 + cosa^2 = 1	
+  problem.quadratic_constraints.add(
+      quad_expr=cplex.SparseTriple(ind1=[sina, cosa], ind2=[sina, cosa], val=[1, 1]),
+      sense='E', rhs=1, name=f'sinacosa_{i}')
+  
+  # sina * tx = sinatx, cosa * tx = cosatx, sina * ty = sinaty, cosa * ty = cosaty
+  eqs = [(sina, tx, sinatx), (cosa, tx, cosatx), (sina, ty, sinaty), (cosa, ty, cosaty)]
+  for a, t, at in eqs:
+    # a * t = at
+    problem.quadratic_constraints.add(
+        quad_expr=cplex.SparseTriple(ind1=[a], ind2=[t], val=[1]),
+        lin_expr=cplex.SparsePair(ind=[at], val=[-1]),
+        sense='E', rhs=0, name=f'{at}')
+      
+
+  vertices = list(polygon.exterior.coords)
+
+  points_in_poly = [f'point_{j}_in_poly_{i}' for j in range(len(points))]
+
+  for j, point in enumerate(points):
+    px, py = point
+
+    pointj_in_polyi = points_in_poly[j]
+    problem.variables.add(names=[pointj_in_polyi], types=[problem.variables.type.binary])
+
+    for i in range(len(vertices) - 1):
+      ax, ay = vertices[i]
+      bx, by = vertices[i+1]
+      nx = ay - by
+      ny = bx - ax
+
+      problem.linear_constraints.add(
+          lin_expr=[
+              cplex.SparsePair(
+                  ind=[sina, cosa, sinatx, sinaty, cosatx, cosaty, pointj_in_polyi],
+                  val=[(nx*(ay-py)-ny*(ax-px)), (nx*(ax-px)+ny*(ay-py)), -ny, nx, nx, ny, BIG_NUMBER]
+              )
+          ],
+          senses=["G"],
+          rhs=[BIG_NUMBER]
+      )
+
+  return tx, ty, sina, cosa, points_in_poly
+
+def create_ilp_solver(polygons, points):
+    problem = cplex.Cplex()
+    problem.set_problem_type(cplex.Cplex.problem_type.MIQCP)
     
-    # Variables translateX and translateY for each polygon
-    translateX = [f'translate_x_{i}' for i in range(num_polygons)]
-    translateY = [f'translate_y_{i}' for i in range(num_polygons)]
+    txs, tys, sinas, cosas, points_in_polys = [], [], [], [], []
+    for i, polygon in enumerate(polygons):
+      tx, ty, sina, cosa, points_in_poly = create_indicator_constraints(problem, polygon, i, points)
+      txs.append(tx)
+      tys.append(ty)
+      sinas.append(sina)
+      cosas.append(cosa)
+      points_in_polys.append(points_in_poly)
+
+    indicators = [p for pp in points_in_polys for p in pp]
+    problem.objective.set_linear([(ind, 1.0) for ind in indicators])
+    problem.objective.set_sense(problem.objective.sense.maximize)
     
-    # Binary variables in_polygon_i
-    in_polygon = [f'in_polygon_{i}' for i in range(num_polygons)]
+    problem.write("problem.lp")
+    problem.solve()
 
-    prob.variables.add(names=translateX, types=[prob.variables.type.continuous] * num_polygons)
-    prob.variables.add(names=translateY, types=[prob.variables.type.continuous] * num_polygons)
-    prob.variables.add(names=in_polygon, types=[prob.variables.type.binary] * num_polygons)
-
-    # Objective: Maximize the sum of in_polygon_i
-    prob.objective.set_sense(prob.objective.sense.maximize)
-    prob.objective.set_linear([(var, 1.0) for var in in_polygon])
-
-    # Constraints: in_polygon_i is 1 if and only if the point is inside the translated polygon
-    for i in range(num_polygons):
-        polygon = polygons[i]
-        vertices = list(polygon.exterior.coords)
-        
-        for j in range(len(vertices) - 1):
-            x1, y1 = vertices[j]
-            x2, y2 = vertices[j+1]
-            nx = y1 - y2
-            ny = x2 - x1
-
-            max_x, max_y = 1000, 1000
-            when_indicator_false = (2*max_x + 2*max_y)**2
-            c = nx * (x1 - point_x) + ny * (y1 - point_y) - when_indicator_false
-
-            print(f"Points: ({x1}, {y1}) -> ({x2}, {y2})")
-            print(f"Normal: ({nx}, {ny}), c: {c}")
-            print(f"Equation: {nx} * x + {ny} * y >= {c}")
-            equation_str = f"{nx} * {translateX[i]} + {ny} * {translateY[i]} >= {c - nx * point_x - ny * point_y} (Indicator: {in_polygon[i]})"
-            print(f"Adding constraint: {equation_str}")
-
-            prob.linear_constraints.add(
-                lin_expr=[
-                    cplex.SparsePair(
-                        ind=[translateX[i], translateY[i], in_polygon[i]],
-                        val=[-nx, -ny, -when_indicator_false]
-                    )
-                ],
-                senses=["G"],
-                rhs=[c]
-            )
-
-    prob.write("prob.lp")
-
-    # Solve the problem
-    prob.solve()
-
-    # Extract solution
-    solution = prob.solution
-    translateX_values = solution.get_values(translateX)
-    translateY_values = solution.get_values(translateY)
-    in_polygon_values = solution.get_values(in_polygon)
-
-    return translateX_values, translateY_values, in_polygon_values
+    solution = problem.solution
+    txs_values = solution.get_values(txs)
+    tys_values = solution.get_values(tys)
+    sina_values = solution.get_values(sinas)
+    cosa_values = solution.get_values(cosas)
+    
+    return txs_values, tys_values, sina_values, cosa_values, indicators
 
 # Load and normalize polygons
 polygon1 = load_polygon("../data/minipoly/1.txt")
@@ -114,18 +127,21 @@ polygons = [polygon1] #, polygon2, polygon3]
 target_point = (20, 10)
 
 # Solve the ILP problem
-translateX_values, translateY_values, in_polygon_values = create_ilp_solver(polygons, target_point)
+txs_values, tys_values, sina_values, cosa_values, indicators = create_ilp_solver(polygons, [target_point])
 
 # Print the results
-print("Translation X values:", translateX_values)
-print("Translation Y values:", translateY_values)
-print("In polygon values:", in_polygon_values)
+print("Translation X values:", txs_values)
+print("Translation Y values:", tys_values)
+print("SinA values:", sina_values)
+print("CosA values:", cosa_values)
+print("In polygon values:", indicators)
 
 # Plot the translated polygons
-translated_polygons = [translate(polygons[i], xoff=translateX_values[i], yoff=translateY_values[i]) for i in range(len(polygons))]
+translated_polygons = [translate(polygons[i], xoff=txs_values[i], yoff=tys_values[i]) for i in range(len(polygons))]
+rotated_polygons = [rotate(translated_polygons[i], angle=np.arcsin(sina_values[i])) for i in range(len(polygons))]
 
 fig, ax = plt.subplots()
-gdf = gpd.GeoDataFrame(geometry=translated_polygons)
+gdf = gpd.GeoDataFrame(geometry=rotated_polygons)
 gdf.plot(ax=ax, cmap='tab10', edgecolor='black')
 plt.scatter(*target_point, color='red')  # Plot the target point
 plt.show()
