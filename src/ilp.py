@@ -36,8 +36,6 @@ def normalize(polygons, target=200):
 
 BIG_NUMBER = 2000000
 def create_indicator_constraints(model, polygon, i, points):
-  
-  sinatx, cosatx, sinaty, cosaty = f'sinatx_{i}', f'cosatx_{i}', f'sinaty_{i}', f'cosaty_{i}'
 
   tx     = model.addVar(name=f'tx_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
   ty     = model.addVar(name=f'ty_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
@@ -94,14 +92,25 @@ def create_ilp_solver(polygons, points):
   indicators = [p for pp in points_in_polys for p in pp]
   model.setObjective(sum(ind for ind in indicators), GRB.MAXIMIZE)
   
+  model.write("model.lp")
   model.optimize()
 
-  txs_values = [model.getVarByName(tx).X for tx in txs]
-  tys_values = [model.getVarByName(ty).X for ty in tys]
-  sina_values = [model.getVarByName(sina).X for sina in sinas]
-  cosa_values = [model.getVarByName(cosa).X for cosa in cosas]
-    
-  return txs_values, tys_values, sina_values, cosa_values, indicators
+  print("----------")
+  print("Result: ", model.objVal)
+  for i in range(len(polygons)):
+    print(f"Polygon {i}:")
+    print(f"Translation: {txs[i].X}, {tys[i].X}")
+    print(f"Angle: sina={sinas[i].X}, cosa={cosas[i].X}, a={np.arcsin(sinas[i].X)}={np.arccos(cosas[i].X)}")
+
+    for j, point in enumerate(points):
+      print(f"Point {point} is in polygon {i}:", points_in_polys[i][j].X)
+  print("----------")
+
+  return \
+    [tx.X for tx in txs], \
+    [ty.X for ty in tys], \
+    [sina.X for sina in sinas], \
+    [cosa.X for cosa in cosas]
 
 # Load and normalize polygons
 polygon1 = load_polygon("../data/minipoly/1.txt")
@@ -115,14 +124,7 @@ polygons = [polygon1] #, polygon2, polygon3]
 target_point = (20, 10)
 
 # Solve the ILP problem
-txs_values, tys_values, sina_values, cosa_values, indicators = create_ilp_solver(polygons, [target_point])
-
-# Print the results
-print("Translation X values:", txs_values)
-print("Translation Y values:", tys_values)
-print("SinA values:", sina_values)
-print("CosA values:", cosa_values)
-print("In polygon values:", indicators)
+txs_values, tys_values, sina_values, cosa_values = create_ilp_solver(polygons, [target_point])
 
 # Plot the translated polygons
 translated_polygons = [translate(polygons[i], xoff=txs_values[i], yoff=tys_values[i]) for i in range(len(polygons))]
