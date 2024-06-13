@@ -35,7 +35,7 @@ def normalize(polygons, target=200):
     return polygons
 
 BIG_NUMBER = 2000000
-def create_indicator_constraints(model, polygon, i, points):
+def create_indicator_constraints(model, polygon, extended_polygon, i, points):
 
   tx     = model.addVar(name=f'tx_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
   ty     = model.addVar(name=f'ty_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
@@ -54,11 +54,15 @@ def create_indicator_constraints(model, polygon, i, points):
   model.addQConstr(cosa * ty == cosaty, name=f'cosaty_{i}')
   
   vertices = list(polygon.exterior.coords)
-  points_in_poly = [f'point_{j}_in_poly_{i}' for j in range(len(points))]
+  extended_vertices = list(extended_polygon.exterior.coords)
+
+  points_in_poly_i = [f'point_{j}_in_poly_{i}' for j in range(len(points))]
+  points_in_extended_poly_i = [f'point_{j}_in_extended_poly_{i}' for j in range(len(points))]
 
   for j, point in enumerate(points):
     px, py = point
-    points_in_poly[j] = model.addVar(name=points_in_poly[j], vtype=GRB.BINARY)
+    points_in_poly_i[j] = model.addVar(name=points_in_poly_i[j], vtype=GRB.BINARY)
+    points_in_extended_poly_i[j] = model.addVar(name=points_in_extended_poly_i[j], vtype=GRB.BINARY)
 
     for i in range(len(vertices) - 1):
       ax, ay = vertices[i]
@@ -72,28 +76,68 @@ def create_indicator_constraints(model, polygon, i, points):
           + nx * cosatx
           + nx * sinaty
           + ny * cosaty
-          + BIG_NUMBER * points_in_poly[j]
+          + BIG_NUMBER * points_in_poly_i[j]
+      )
+    
+    for i in range(len(extended_vertices) - 1):
+      ax, ay = extended_vertices[i]
+      bx, by = extended_vertices[i+1]
+      nx = ay - by
+      ny = bx - ax
+      model.addConstr(BIG_NUMBER <= \
+           (nx * (ay - py) - ny * (ax - px)) * sina \
+          +(nx * (ax - px) + ny * (ay - py)) * cosa \
+          - ny * sinatx
+          + nx * cosatx
+          + nx * sinaty
+          + ny * cosaty
+          + BIG_NUMBER * points_in_extended_poly_i[j]
       )
 
-  return tx, ty, sina, cosa, points_in_poly
+  return tx, ty, sina, cosa, points_in_poly_i, points_in_extended_poly_i
 
-def create_ilp_solver(polygons, points):
+def create_ilp_solver(polygons, extended_polygons, points):
   model = Model("polygons_placement")
 
-  txs, tys, sinas, cosas, points_in_polys = [], [], [], [], []
-  for i, polygon in enumerate(polygons):
-    tx, ty, sina, cosa, points_in_poly = create_indicator_constraints(model, polygon, i, points)
+  txs, tys, sinas, cosas, points_in_polys, points_in_extended_polys = [], [], [], [], [], []
+  for i in range(len(polygons)):
+    prit(f"Creating indicator constraints for polygon {i}")
+    tx, ty, sina, cosa, points_in_poly_i, points_in_extended_poly_i = \
+      create_indicator_constraints(model, polygons[i], extended_polygons[i], i, points)
     txs.append(tx)
     tys.append(ty)
     sinas.append(sina)
     cosas.append(cosa)
-    points_in_polys.append(points_in_poly)
+    points_in_polys.append(points_in_poly_i)
+    points_in_extended_polys.append(points_in_extended_poly_i)
 
-  indicators = [p for pp in points_in_polys for p in pp]
-  model.setObjective(sum(ind for ind in indicators), GRB.MAXIMIZE)
-  
+  point_bads = []
+  for j in range(len(points)):
+    print(f"Creating constraints for point {j}")
+    point_j_in_polys = model.addVar(name=f'point_{j}_in_polys', vtype=GRB.BINARY)
+    point_j_in_extended_polys = model.addVar(name=f'point_{j}_in_extended_polys', vtype=GRB.BINARY)
+    point_j_bad = model.addVar(name=f'point_{j}_bad', vtype=GRB.BINARY)
+    point_bads.append(point_j_bad)
+
+    model.addConstr(sum(points_in_polys[i][j] for i in range(polygons)) == point_j_in_polygons)
+    # OR(points_in_extended_polys[i][j] for i in range(len(polygons)) == point_j_in_extended_polygons
+    for i in range(len(polygons)):
+      model.addConstraint(points_in_extended_polys[i][j] <= point_j_in_extended_polygons)
+    model.addConstr(point_j_in_extended_polygons <= sum(points_in_extended_polys[i][j] for i in range(len(polygons))))
+
+    model.addConstr(point_j_bad >= point_j_in_extended_polygons - point_j_in_polygons)
+    model.addConstr(aux_var <= point_j_in_extended_polygons)
+    model.addConstr(aux_var <= 2 - point_j_in_polygons - point_j_in_extended_polygons)
+
+  print("Setting objective")
+  model.setObjective(sum(point_bad for point_bad in point_bads), GRB.MINIMIZE)
+
+  print("Writing to file")
   model.write("model.lp")
+
+  print("Start optimization")
   model.optimize()
+  print("Done optimization")
 
   print("----------")
   print("Result: ", model.objVal)
@@ -105,6 +149,7 @@ def create_ilp_solver(polygons, points):
 
     for j, point in enumerate(points):
       print(f"Point {point} is in polygon {i}:", points_in_polys[i][j].X)
+      print(f"Point {point} is in extended polygon {i}:", points_in_extended_polys[i][j].X)
   print("----------")
 
   return \
@@ -120,19 +165,20 @@ polygon2 = load_polygon("../data/track1/train/1/480.txt")
 polygon3 = load_polygon("../data/track1/train/1/482.txt")
 polygons = [polygon1, polygon2, polygon3]
 polygons = normalize(polygons)
+extended_polygons = [polygon.buffer(10) for polygon in polygons]
 
 # Define the target point
-target_point = (20, 10)
+points = [(x, y) for x in range(-100, 101, 1) for y in range(-100, 101, 1)]
 
 # Solve the ILP problem
-txs_values, tys_values, sina_values, cosa_values = create_ilp_solver(polygons, [target_point])
+txs_values, tys_values, sina_values, cosa_values = create_ilp_solver(polygons, extended_polygons, points)
 
 # Plot the translated polygons
 translated_polygons = [translate(polygons[i], xoff=txs_values[i], yoff=tys_values[i]) for i in range(len(polygons))]
 rotated_polygons = [rotate(translated_polygons[i], angle=np.arcsin(sina_values[i])) for i in range(len(polygons))]
 
 fig, ax = plt.subplots()
-gdf = gpd.GeoDataFrame(geometry=rotated_polygons)
+gdf = gpd.GeoDataFrame(geometry=extended_polygons + rotated_polygons)
 gdf.plot(ax=ax, cmap='tab10', edgecolor='black')
 plt.scatter(*target_point, color='red')  # Plot the target point
 plt.show()
