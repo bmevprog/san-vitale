@@ -35,14 +35,17 @@ scaled_polygon2 = scale(polygon2, xfact=1.2, yfact=1.2)
 p1 = gpd.GeoSeries(scaled_polygon1)
 p2 = gpd.GeoSeries(scaled_polygon2)
 
-fig, ax = plt.subplots()
-p1.plot(ax=ax, color='blue', edgecolor='black')
-p2.plot(ax=ax, color='red', edgecolor='black')
-plt.show()
+fig1, ax1 = plt.subplots()
+p1.plot(ax=ax1, color='blue', edgecolor='black')
+p2.plot(ax=ax1, color='red', edgecolor='black')
+plt.show(block=False)
 
+# Create a new figure for the combined plot
+fig2, ax2 = plt.subplots()
 # Combine polygons into a GeoDataFrame
 gdf = gpd.GeoDataFrame(geometry=[scaled_polygon1, scaled_polygon2])
 
 # Plot combined GeoDataFrame
-gdf.plot(cmap='tab10', edgecolor='black')
+gdf.plot(ax=ax2, cmap='tab10', edgecolor='black')
 plt.show()
+
