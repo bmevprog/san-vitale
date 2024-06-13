@@ -39,8 +39,8 @@ def create_indicator_constraints(model, polygon, i, points):
 
   tx     = model.addVar(name=f'tx_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
   ty     = model.addVar(name=f'ty_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
-  sina   = model.addVar(name=f'sina_{i}',  vtype=GRB.CONTINUOUS, lb=0,     ub=1)
-  cosa   = model.addVar(name=f'cosa_{i}',  vtype=GRB.CONTINUOUS, lb=0,     ub=1)
+  sina   = model.addVar(name=f'sina_{i}',  vtype=GRB.CONTINUOUS, lb=-1,     ub=1)
+  cosa   = model.addVar(name=f'cosa_{i}',  vtype=GRB.CONTINUOUS, lb=-1,     ub=1)
 
   sinatx = model.addVar(name=f'sinatx_{i}', vtype=GRB.CONTINUOUS)
   cosatx = model.addVar(name=f'cosatx_{i}', vtype=GRB.CONTINUOUS)
@@ -97,10 +97,11 @@ def create_ilp_solver(polygons, points):
 
   print("----------")
   print("Result: ", model.objVal)
+  print()
   for i in range(len(polygons)):
     print(f"Polygon {i}:")
     print(f"Translation: {txs[i].X}, {tys[i].X}")
-    print(f"Angle: sina={sinas[i].X}, cosa={cosas[i].X}, a={np.arcsin(sinas[i].X)}={np.arccos(cosas[i].X)}")
+    print(f"Angle: sina={sinas[i].X}, cosa={cosas[i].X}, a={np.arcsin(sinas[i].X)}={np.arccos(cosas[i].X)}, 1={sinas[i].X**2 + cosas[i].X**2}")
 
     for j, point in enumerate(points):
       print(f"Point {point} is in polygon {i}:", points_in_polys[i][j].X)
@@ -113,12 +114,12 @@ def create_ilp_solver(polygons, points):
     [cosa.X for cosa in cosas]
 
 # Load and normalize polygons
-polygon1 = load_polygon("../data/minipoly/1.txt")
-#polygon1 = load_polygon("../data/track1/train/1/387.txt")
-#polygon2 = load_polygon("../data/track1/train/1/480.txt")
-#polygon3 = load_polygon("../data/track1/train/1/482.txt")
-polygons = [polygon1] #, polygon2, polygon3]
-# polygons = normalize(polygons)
+# polygon1 = load_polygon("../data/minipoly/1.txt")
+polygon1 = load_polygon("../data/track1/train/1/387.txt")
+polygon2 = load_polygon("../data/track1/train/1/480.txt")
+polygon3 = load_polygon("../data/track1/train/1/482.txt")
+polygons = [polygon1, polygon2, polygon3]
+polygons = normalize(polygons)
 
 # Define the target point
 target_point = (20, 10)
