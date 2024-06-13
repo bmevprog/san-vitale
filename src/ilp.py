@@ -1,5 +1,5 @@
 import numpy as np
-import cplex
+from gurobipy import Model, GRB, QuadExpr
 from shapely.geometry import Polygon, Point
 from shapely.affinity import translate, rotate, scale
 from shapely.ops import unary_union
@@ -35,85 +35,73 @@ def normalize(polygons, target=200):
     return polygons
 
 BIG_NUMBER = 2000000
-def create_indicator_constraints(problem, polygon, i, points):
+def create_indicator_constraints(model, polygon, i, points):
   
-  tx, ty, sina, cosa = f'tx_{i}', f'ty_{i}', f'sina_{i}', f'cosa_{i}'
   sinatx, cosatx, sinaty, cosaty = f'sinatx_{i}', f'cosatx_{i}', f'sinaty_{i}', f'cosaty_{i}'
 
-  problem.variables.add(names=[tx, ty, sina, cosa], types=[problem.variables.type.continuous] * 4)
-  problem.variables.add(names=[sinatx, cosatx, sinaty, cosaty], types=[problem.variables.type.continuous] * 4)
+  tx     = model.addVar(name=f'tx_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
+  ty     = model.addVar(name=f'ty_{i}',    vtype=GRB.CONTINUOUS, lb=-1000, ub=1000)
+  sina   = model.addVar(name=f'sina_{i}',  vtype=GRB.CONTINUOUS, lb=0,     ub=1)
+  cosa   = model.addVar(name=f'cosa_{i}',  vtype=GRB.CONTINUOUS, lb=0,     ub=1)
 
-  # sina^2 + cosa^2 = 1	
-  problem.quadratic_constraints.add(
-      quad_expr=cplex.SparseTriple(ind1=[sina, cosa], ind2=[sina, cosa], val=[1, 1]),
-      sense='E', rhs=1, name=f'sinacosa_{i}')
+  sinatx = model.addVar(name=f'sinatx_{i}', vtype=GRB.CONTINUOUS)
+  cosatx = model.addVar(name=f'cosatx_{i}', vtype=GRB.CONTINUOUS)
+  sinaty = model.addVar(name=f'sinaty_{i}', vtype=GRB.CONTINUOUS)
+  cosaty = model.addVar(name=f'cosaty_{i}', vtype=GRB.CONTINUOUS)
+
+  model.addQConstr(sina * sina + cosa * cosa == 1, name=f'sinacosa_{i}')
+  model.addQConstr(sina * tx == sinatx, name=f'sinatx_{i}')
+  model.addQConstr(cosa * tx == cosatx, name=f'cosatx_{i}')
+  model.addQConstr(sina * ty == sinaty, name=f'sinaty_{i}')
+  model.addQConstr(cosa * ty == cosaty, name=f'cosaty_{i}')
   
-  # sina * tx = sinatx, cosa * tx = cosatx, sina * ty = sinaty, cosa * ty = cosaty
-  eqs = [(sina, tx, sinatx), (cosa, tx, cosatx), (sina, ty, sinaty), (cosa, ty, cosaty)]
-  for a, t, at in eqs:
-    # a * t = at
-    problem.quadratic_constraints.add(
-        quad_expr=cplex.SparseTriple(ind1=[a], ind2=[t], val=[1]),
-        lin_expr=cplex.SparsePair(ind=[at], val=[-1]),
-        sense='E', rhs=0, name=f'{at}')
-      
-
   vertices = list(polygon.exterior.coords)
-
   points_in_poly = [f'point_{j}_in_poly_{i}' for j in range(len(points))]
 
   for j, point in enumerate(points):
     px, py = point
-
-    pointj_in_polyi = points_in_poly[j]
-    problem.variables.add(names=[pointj_in_polyi], types=[problem.variables.type.binary])
+    points_in_poly[j] = model.addVar(name=points_in_poly[j], vtype=GRB.BINARY)
 
     for i in range(len(vertices) - 1):
       ax, ay = vertices[i]
       bx, by = vertices[i+1]
       nx = ay - by
       ny = bx - ax
-
-      problem.linear_constraints.add(
-          lin_expr=[
-              cplex.SparsePair(
-                  ind=[sina, cosa, sinatx, sinaty, cosatx, cosaty, pointj_in_polyi],
-                  val=[(nx*(ay-py)-ny*(ax-px)), (nx*(ax-px)+ny*(ay-py)), -ny, nx, nx, ny, BIG_NUMBER]
-              )
-          ],
-          senses=["G"],
-          rhs=[BIG_NUMBER]
+      model.addConstr(BIG_NUMBER <= \
+           (nx * (ay - py) - ny * (ax - px)) * sina \
+          +(nx * (ax - px) + ny * (ay - py)) * cosa \
+          - ny * sinatx
+          + nx * cosatx
+          + nx * sinaty
+          + ny * cosaty
+          + BIG_NUMBER * points_in_poly[j]
       )
 
   return tx, ty, sina, cosa, points_in_poly
 
 def create_ilp_solver(polygons, points):
-    problem = cplex.Cplex()
-    problem.set_problem_type(cplex.Cplex.problem_type.MIQCP)
-    
-    txs, tys, sinas, cosas, points_in_polys = [], [], [], [], []
-    for i, polygon in enumerate(polygons):
-      tx, ty, sina, cosa, points_in_poly = create_indicator_constraints(problem, polygon, i, points)
-      txs.append(tx)
-      tys.append(ty)
-      sinas.append(sina)
-      cosas.append(cosa)
-      points_in_polys.append(points_in_poly)
+  model = Model("polygons_placement")
 
-    indicators = [p for pp in points_in_polys for p in pp]
-    problem.objective.set_linear([(ind, 1.0) for ind in indicators])
-    problem.objective.set_sense(problem.objective.sense.maximize)
-    
-    problem.write("problem.lp")
-    problem.solve()
+  txs, tys, sinas, cosas, points_in_polys = [], [], [], [], []
+  for i, polygon in enumerate(polygons):
+    tx, ty, sina, cosa, points_in_poly = create_indicator_constraints(model, polygon, i, points)
+    txs.append(tx)
+    tys.append(ty)
+    sinas.append(sina)
+    cosas.append(cosa)
+    points_in_polys.append(points_in_poly)
 
-    solution = problem.solution
-    txs_values = solution.get_values(txs)
-    tys_values = solution.get_values(tys)
-    sina_values = solution.get_values(sinas)
-    cosa_values = solution.get_values(cosas)
+  indicators = [p for pp in points_in_polys for p in pp]
+  model.setObjective(sum(ind for ind in indicators), GRB.MAXIMIZE)
+  
+  model.optimize()
+
+  txs_values = [model.getVarByName(tx).X for tx in txs]
+  tys_values = [model.getVarByName(ty).X for ty in tys]
+  sina_values = [model.getVarByName(sina).X for sina in sinas]
+  cosa_values = [model.getVarByName(cosa).X for cosa in cosas]
     
-    return txs_values, tys_values, sina_values, cosa_values, indicators
+  return txs_values, tys_values, sina_values, cosa_values, indicators
 
 # Load and normalize polygons
 polygon1 = load_polygon("../data/minipoly/1.txt")
