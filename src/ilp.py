@@ -8,7 +8,127 @@ import matplotlib.pyplot as plt
 import geopandas as gpd
 from pathlib import Path
 
-def load_polygon(filepath) -> Polygon:
+model = Model("san-vitale")
+BIG_NUMBER = 2000000000
+
+class Piece:
+
+  def __init__(self, index, points):
+    global model
+
+    spike_scale = 1.2
+    poly = Polygon(points)
+
+    self.index = None
+    self.polygon = translate(poly, xoff=-poly.centroid.x, yoff=-poly.centroid.y)
+    self.spikes = scale(self.polygon, xfact=spike_scale, yfact=spike_scale)
+
+    self.tx     = model.addVar(name=f'tx_{index}',                vtype=GRB.CONTINUOUS)
+    self.ty     = model.addVar(name=f'ty_{index}',                vtype=GRB.CONTINUOUS)
+    self.sina   = model.addVar(name=f'sina_{index}', lb=-1, ub=1, vtype=GRB.CONTINUOUS)
+    self.cosa   = model.addVar(name=f'cosa_{index}', lb=-1, ub=1, vtype=GRB.CONTINUOUS)
+
+    self.sina_tx = model.addVar(name=f'sina_tx_{index}', vtype=GRB.CONTINUOUS)
+    self.cosa_tx = model.addVar(name=f'cosa_tx_{index}', vtype=GRB.CONTINUOUS)
+    self.sina_ty = model.addVar(name=f'sina_ty_{index}', vtype=GRB.CONTINUOUS)
+    self.cosa_ty = model.addVar(name=f'cosa_ty_{index}', vtype=GRB.CONTINUOUS)
+
+    model.addQConstr(sina * sina + cosa * cosa == 1, name=f'sinacosa_{index}')
+    model.addQConstr(sina * tx == sina_tx, name=f'sina_tx_{index}')
+    model.addQConstr(cosa * tx == cosa_tx, name=f'cosa_tx_{index}')
+    model.addQConstr(sina * ty == sina_ty, name=f'sina_ty_{index}')
+    model.addQConstr(cosa * ty == cosa_ty, name=f'cosa_ty_{index}')
+
+    self.sina_i_sina_j = []
+    self.sina_i_cosa_j = []
+    self.cosa_i_sina_j = []
+    self.cosa_i_cosa_j = []
+    self.sina_i_tx_j = []
+    self.sina_i_ty_j = []
+    self.cosa_i_tx_j = []
+    self.cosa_i_ty_j = []
+
+  def indicator_point_inside_poly(self, other: Piece, pi: number, spike = False):
+    global model
+    
+    indicator_name = f'poly_{other.index}_{"spike_" if exterior else ""}point_{pi}_inside_{self.index}'
+    indicator = model.addVar(name=indicator_name, vtype=GRB.BINARY)
+
+    vertices = list(other.polygon.exterior.coords)
+    n = len(vertices)
+
+    sina = self.sina
+    cosa = self.cosa
+    tx = self.tx
+    ty = self.ty
+
+    if not spike:
+      px, py = other.polygon.exterior.coords[pi]
+    else:
+      px, py = other.spikes.exterior.coords[pi]
+
+    sina_tx = self.sina_tx
+    cosa_tx = self.cosa_tx
+    sina_ty = self.sina_ty
+    cosa_ty = self.cosa_ty
+
+    sina_sinb = self.sina_i_sina_j[other.index]
+    sina_cosb = self.sina_i_cosa_j[other.index]
+    cosa_sinb = self.cosa_i_sina_j[other.index]
+    cosa_cosb = self.cosa_i_cosa_j[other.index]
+    
+    sina_wx = self.sina_i_tx_j[other.index]
+    sina_wy = self.sina_i_ty_j[other.index]
+    cosa_wx = self.cosa_i_tx_j[other.index]
+    cosa_wy = self.cosa_i_ty_j[other.index]
+
+    for k in range(n - 1):
+      ax, ay = vertices[k]
+      bx, by = vertices[k+1]
+      nx = ay - by
+      ny = bx - ax
+      model.addConstr(
+        sina      * (nx * ay - ny * ax)     + \
+        cosa      * (nx * ax + ny * ay)     + \
+        sina_tx   * (-ny)                   + \
+        sina_ty   * nx                      + \
+        cosa_tx   * nx                      + \
+        cosa_ty   * ny                      + \
+        indicator * BIG_NUMBER                \
+                  <=                          \
+        sina_wy   * nx                      + \
+        sina_wx   * (-ny)                   + \
+        cosa_wx   * nx                      + \
+        cosa_wy   * ny                      + \
+        sina_sinb * (nx * px + ny * py)     + \
+        sina_cosb * (nx * py - ny * px)     + \
+        cosa_sinb * (ny * px - nx * py)     + \
+        cosa_cosb * (ny * py + nx * px)     + \
+        BIG_NUMBER                            ,
+        name=f'{indicator_name}_constraint_{k}_true'
+      )
+      model.addConstr(
+        sina_wy   * nx                      + \
+        sina_wx   * (-ny)                   + \
+        cosa_wx   * nx                      + \
+        cosa_wy   * ny                      + \
+        sina_sinb * (nx * px + ny * py)     + \
+        sina_cosb * (nx * py - ny * px)     + \
+        cosa_sinb * (ny * px - nx * py)     + \
+        cosa_cosb * (ny * py + nx * px)     + \
+        indicator * (-BIG_NUMBER)             \
+                  <=                          \
+        sina      * (nx * ay - ny * ax)     + \
+        cosa      * (nx * ax + ny * ay)     + \
+        sina_tx   * (-ny)                   + \
+        sina_ty   * nx                      + \
+        cosa_tx   * nx                      + \
+        cosa_ty   * ny                        ,
+        name=f'{indicator_name}_constraint_{k}_false'
+      )
+      return indicator
+
+  def load(index, filepath) -> Piece:
     print(f"Loading polygon: {filepath}")
     points = []
     with open(filepath) as f:
@@ -16,125 +136,83 @@ def load_polygon(filepath) -> Polygon:
         for line in lines:
             x, y = map(int, line.split("\t"))
             points.append((x, y))
-    return Polygon(points)
+    return Piece(index, points)
 
-def load_all_polygons(dirpath) -> [Polygon]:
-    polygons = []
-    print("Loading polygons from: ", dirpath)
+  def set_cross_variables(pieces: [Piece]):
+    global model
+
+    n = len(pieces)
+    for i in range(n):
+      pieces[i].sina_i_sina_j = [None] * n
+      pieces[i].sina_i_cosa_j = [None] * n
+      pieces[i].cosa_i_sina_j = [None] * n
+      pieces[i].cosa_i_cosa_j = [None] * n
+      pieces[i].sina_i_tx_j = [None] * n
+      pieces[i].sina_i_ty_j = [None] * n
+      pieces[i].cosa_i_tx_j = [None] * n
+      pieces[i].cosa_i_ty_j = [None] * n
+
+    for i in range(len(pieces)):
+      for j in range(i+1, len(pieces)):
+        pieces[i].sina_i_sina_j[j] = model.addVar(name=f'sina_{i}_sina_{j}', vtype=GRB.CONTINUOUS)
+        pieces[i].sina_i_cosa_j[j] = model.addVar(name=f'sina_{i}_cosa_{j}', vtype=GRB.CONTINUOUS)
+        pieces[i].cosa_i_sina_j[j] = model.addVar(name=f'cosa_{i}_sina_{j}', vtype=GRB.CONTINUOUS)
+        pieces[i].cosa_i_cosa_j[j] = model.addVar(name=f'cosa_{i}_cosa_{j}', vtype=GRB.CONTINUOUS)
+
+        model.addQConstr(pieces[i].sina * pieces[j].sina == pieces[i].sina_i_sina_j[j], name=f'sina_{i}_sina_{j}')
+        model.addQConstr(pieces[i].sina * pieces[j].cosa == pieces[i].sina_i_cosa_j[j], name=f'sina_{i}_cosa_{j}')
+        model.addQConstr(pieces[i].cosa * pieces[j].sina == pieces[i].cosa_i_sina_j[j], name=f'cosa_{i}_sina_{j}')
+        model.addQConstr(pieces[i].cosa * pieces[j].cosa == pieces[i].cosa_i_cosa_j[j], name=f'cosa_{i}_cosa_{j}')
+
+        pieces[j].sina_i_sina_j[i] = pieces[i].sina_i_sina_j[j]
+        pieces[j].cosa_i_sina_j[i] = pieces[i].sina_i_cosa_j[j]
+        pieces[j].sina_i_cosa_j[i] = pieces[i].cosa_i_sina_j[j]
+        pieces[j].cosa_i_cosa_j[i] = pieces[i].cosa_i_cosa_j[j]
+
+    for i in range(len(pieces)):
+      for j in range(len(pieces)):
+        if i!=j:
+          pieces[i].sina_i_tx_j[j] = model.addVar(name=f'sina_{i}_tx_{j}', vtype=GRB.CONTINUOUS)
+          pieces[i].sina_i_ty_j[j] = model.addVar(name=f'sina_{i}_ty_{j}', vtype=GRB.CONTINUOUS)
+          pieces[i].cosa_i_tx_j[j] = model.addVar(name=f'cosa_{i}_tx_{j}', vtype=GRB.CONTINUOUS)
+          pieces[i].cosa_i_ty_j[j] = model.addVar(name=f'cosa_{i}_ty_{j}', vtype=GRB.CONTINUOUS)
+
+          model.addConstr(pieces[i].sina * pieces[j].tx == pieces[i].sina_i_tx_j[j], name=f'sina_{i}_tx_{j}')
+          model.addConstr(pieces[i].sina * pieces[j].ty == pieces[i].sina_i_ty_j[j], name=f'sina_{i}_ty_{j}')
+          model.addConstr(pieces[i].cosa * pieces[j].tx == pieces[i].cosa_i_tx_j[j], name=f'cosa_{i}_tx_{j}')
+          model.addConstr(pieces[i].cosa * pieces[j].ty == pieces[i].cosa_i_ty_j[j], name=f'cosa_{i}_ty_{j}')
+
+  def load_dir(dirpath) -> [Piece]:
+    pieces = []
+    print(f"Loading polygons from: {dirpath}")
+    index = 0
     for file in Path(dirpath).glob("*.txt"):
         if "adjacency" != file.stem:
-            polygon = load_polygon(file)
-            polygons.append(polygon)
-    return polygons
+            piece = Piece.load(file)
+            pieces.append(index, piece)
+            index += 1
+    set_cross_variables(pieces)
+    return pieces
 
-def normalize(polygons, target=200):
-    polygons = [translate(poly, xoff=-poly.centroid.x, yoff=-poly.centroid.y) for poly in polygons]
-    union = unary_union(polygons)
-    scale_factor = target / (2*max([abs(bound) for bound in union.bounds]))
-    polygons = [scale(poly, xfact=scale_factor, yfact=scale_factor) for poly in polygons]
-    polygons = [translate(poly, xoff=-poly.centroid.x, yoff=-poly.centroid.y) for poly in polygons]
-    return polygons
+def solve(pieces):
+  global model
 
-BIG_NUMBER = 2000000
-def create_indicator_constraints(model, polygon, extended_polygon, i, points):
+  spike_points = []
+  n = len(pieces)
+  for i in range(n):
+    print(f"Setting constraints for polygon {i}")
+    for j in range(n):
+      if i != j:
+        print(f"With polygon {j}")
+        for k in range(len(pieces[j].polygon.exterior.coords)):
+          indicator = pieces[i].indicator_point_inside_poly(pieces[j], k)
+          model.addConstr(indicator == 1)
+        for k in range(len(pieces[j].spikes.exterior.coords)):
+          indicator = pieces[i].indicator_point_inside_poly(pieces[j], k, spike=True)
+          spike_points.append(indicator)
 
-  tx     = model.addVar(name=f'tx_{i}',    vtype=GRB.CONTINUOUS, lb=-100, ub=100)
-  ty     = model.addVar(name=f'ty_{i}',    vtype=GRB.CONTINUOUS, lb=-100, ub=100)
-  sina   = model.addVar(name=f'sina_{i}',  vtype=GRB.CONTINUOUS, lb=-1,     ub=1)
-  cosa   = model.addVar(name=f'cosa_{i}',  vtype=GRB.CONTINUOUS, lb=-1,     ub=1)
-
-  sinatx = model.addVar(name=f'sinatx_{i}', vtype=GRB.CONTINUOUS)
-  cosatx = model.addVar(name=f'cosatx_{i}', vtype=GRB.CONTINUOUS)
-  sinaty = model.addVar(name=f'sinaty_{i}', vtype=GRB.CONTINUOUS)
-  cosaty = model.addVar(name=f'cosaty_{i}', vtype=GRB.CONTINUOUS)
-
-  model.addQConstr(sina * sina + cosa * cosa == 1, name=f'sinacosa_{i}')
-  model.addQConstr(sina * tx == sinatx, name=f'sinatx_{i}')
-  model.addQConstr(cosa * tx == cosatx, name=f'cosatx_{i}')
-  model.addQConstr(sina * ty == sinaty, name=f'sinaty_{i}')
-  model.addQConstr(cosa * ty == cosaty, name=f'cosaty_{i}')
-  
-  vertices = list(polygon.exterior.coords)
-  extended_vertices = list(extended_polygon.exterior.coords)
-
-  points_in_poly_i = [f'point_{j}_in_poly_{i}' for j in range(len(points))]
-  points_in_extended_poly_i = [f'point_{j}_in_extended_poly_{i}' for j in range(len(points))]
-
-  for j, point in enumerate(points):
-    px, py = point
-    points_in_poly_i[j] = model.addVar(name=points_in_poly_i[j], obj=-BIG_NUMBER, vtype=GRB.BINARY)
-    points_in_extended_poly_i[j] = model.addVar(name=points_in_extended_poly_i[j], obj=-BIG_NUMBER, vtype=GRB.BINARY)
-
-    print(f"Creating constraints for point {j} and polygon {i}")
-    for k in range(len(vertices) - 1):
-      ax, ay = vertices[k]
-      bx, by = vertices[k+1]
-      nx = ay - by
-      ny = bx - ax
-      model.addConstr(- BIG_NUMBER <= \
-           (nx * (ay - py) - ny * (ax - px)) * sina \
-          +(nx * (ax - px) + ny * (ay - py)) * cosa \
-          - ny * sinatx
-          + nx * cosatx
-          + nx * sinaty
-          + ny * cosaty
-          - BIG_NUMBER * points_in_poly_i[j],
-          name = f'point_{j}_in_poly_{i}_constraint_{k}'
-      )
-    
-    for k in range(len(extended_vertices) - 1):
-      ax, ay = extended_vertices[k]
-      bx, by = extended_vertices[k+1]
-      nx = ay - by
-      ny = bx - ax
-      model.addConstr(- BIG_NUMBER <= \
-          (nx * (ay - py) - ny * (ax - px)) * sina \
-         +(nx * (ax - px) + ny * (ay - py)) * cosa \
-         - ny * sinatx
-         + nx * cosatx
-         + nx * sinaty
-         + ny * cosaty
-         - BIG_NUMBER * points_in_extended_poly_i[j],
-         name = f'point_{j}_in_extended_poly_{i}_constraint_{k}'
-      )
-
-  return tx, ty, sina, cosa, points_in_poly_i, points_in_extended_poly_i
-
-def create_ilp_solver(polygons, extended_polygons, points):
-  model = Model("polygons_placement")
-
-  txs, tys, sinas, cosas, points_in_polys, points_in_extended_polys = [], [], [], [], [], []
-  for i in range(len(polygons)):
-    print(f"Creating indicator constraints for polygon {i}")
-    tx, ty, sina, cosa, points_in_poly_i, points_in_extended_poly_i = \
-      create_indicator_constraints(model, polygons[i], extended_polygons[i], i, points)
-    txs.append(tx)
-    tys.append(ty)
-    sinas.append(sina)
-    cosas.append(cosa)
-    points_in_polys.append(points_in_poly_i)
-    points_in_extended_polys.append(points_in_extended_poly_i)
-
-  point_bads = []
-  for j in range(len(points)):
-    print(f"Creating constraints for point {j}")
-    point_j_in_polys = model.addVar(name=f'point_{j}_in_polys', vtype=GRB.BINARY)
-    point_j_in_extended_polys = model.addVar(name=f'point_{j}_in_extended_polys', vtype=GRB.BINARY)
-    point_j_bad = model.addVar(name=f'point_{j}_bad', obj=1, vtype=GRB.BINARY)
-    point_bads.append(point_j_bad)
-    
-    model.addConstr(quicksum([points_in_polys[i][j] for i in range(len(polygons))]) == point_j_in_polys)
-    # OR(points_in_extended_polys[i][j] for i in range(len(polygons)) == point_j_in_extended_polygons
-    for i in range(len(polygons)):
-      model.addConstr(points_in_extended_polys[i][j] <= point_j_in_extended_polys)
-    model.addConstr(point_j_in_extended_polys <= sum(points_in_extended_polys[i][j] for i in range(len(polygons))))
-
-    model.addConstr(point_j_bad >= point_j_in_extended_polys - point_j_in_polys)
-    model.addConstr(point_j_bad <= point_j_in_extended_polys)
-    model.addConstr(point_j_bad <= 2 - point_j_in_polys - point_j_in_extended_polys)
-
- # print("Setting objective")
- # model.setObjective(0, GRB.MINIMIZE)
+  print("Setting objective")
+  model.setObjective(quicksum(spike_points), GRB.MAXIMIZE)
 
   print("Writing to file")
   model.write("model.lp")
@@ -146,56 +224,20 @@ def create_ilp_solver(polygons, extended_polygons, points):
   print("----------")
   print("Result: ", model.objVal)
   print()
-  for i in range(len(polygons)):
-    print(f"Polygon {i}:")
-    print(f"Translation: {txs[i].X}, {tys[i].X}")
-    print(f"Angle: sina={sinas[i].X}, cosa={cosas[i].X}, a={np.arcsin(sinas[i].X)}={np.arccos(cosas[i].X)}, 1={sinas[i].X**2 + cosas[i].X**2}")
+  for piece in pieces:
+    print(f"Polygon {piece.index}:")
+    print(f"Translation: {piece.tx.X}, {piece.ty.Y}")
+    print(f"Angle: sina={piece.sina.X}, cosa={piece.cosa.X}, a={np.arcsin(piece.sina.X)}={np.arccos(piece.cosa.X)}, 1={piece.sina.X**2 + piece.cosa.X**2}")
 
-    for j, point in enumerate(points):
-      print(f"Point {point} is in polygon {i}:", points_in_polys[i][j].X)
-      print(f"Point {point} is in extended polygon {i}:", points_in_extended_polys[i][j].X)
-  print()
-  for j in range(len(points)):
-    print(f"Point {j} is bad:", point_bads[j].X)
-  print("----------")
+pieces = Piece.load_dir("../data/track1/train/1")
+solve(pieces)
 
-  return \
-    [tx.X for tx in txs], \
-    [ty.X for ty in tys], \
-    [sina.X for sina in sinas], \
-    [cosa.X for cosa in cosas]
-
-# Load and normalize polygons
-# polygon1 = load_polygon("../data/minipoly/1.txt")
-polygon1 = load_polygon("../data/track1/train/1/387.txt")
-polygon2 = load_polygon("../data/track1/train/1/480.txt")
-polygon3 = load_polygon("../data/track1/train/1/482.txt")
-polygons = [polygon1, polygon2, polygon3]
-polygons = normalize(polygons)
-
-extended_polygons = [translate(\
-  scale(\
-    translate(poly, xoff=-poly.centroid.x, yoff=-poly.centroid.y),\
-    xfact=1.2, yfact=1.2),\
-  xoff=poly.centroid.x, yoff=poly.centroid.y) \
- for poly in polygons]
-
-# Define the target point
-points =  [(x, y) for x in range(-100, 101, 10) for y in range(-100, 101, 10)]
-
-# Solve the ILP problem
-txs_values, tys_values, sina_values, cosa_values = create_ilp_solver(polygons, extended_polygons, points)
-
-# Plot the translated polygons
-translated_polygons = [translate(polygons[i], xoff=txs_values[i], yoff=tys_values[i]) for i in range(len(polygons))]
-rotated_polygons = [rotate(translated_polygons[i], angle=np.arcsin(sina_values[i])) for i in range(len(polygons))]
-
-translated_extended_polygons = [translate(extended_polygons[i], xoff=txs_values[i], yoff=tys_values[i]) for i in range(len(extended_polygons))]
-rotated_extended_polygons = [rotate(translated_extended_polygons[i], angle=np.arcsin(sina_values[i])) for i in range(len(extended_polygons))]
+polygons_to_plot = [translate(rotate(piece.polygon, angle=np.arcsin(piece.sina.X)), xoff=piece.tx.X, yoff=piece.ty.Y) for piece in pieces]
+spikes_to_plot = [translate(rotate(piece.spikes, angle=np.arcsin(piece.sina.X)), xoff=piece.tx.X, yoff=piece.ty.Y) for piece in pieces]
 
 fig, ax = plt.subplots()
-gdf = gpd.GeoDataFrame(geometry=rotated_extended_polygons + rotated_polygons)
+gdf = gpd.GeoDataFrame(geometry=polygons_to_plot)
 gdf.plot(ax=ax, cmap='tab10', edgecolor='black')
-for point in points:
+for point in spikes_to_plot.exterior.coords:
     plt.scatter(*point, color='red')  # Plot the points
 plt.show()
