@@ -19,7 +19,7 @@ class Piece:
     spike_scale = 1.2
     poly = Polygon(points)
 
-    self.index = None
+    self.index = index
     self.polygon = translate(poly, xoff=-poly.centroid.x, yoff=-poly.centroid.y)
     self.spikes = scale(self.polygon, xfact=spike_scale, yfact=spike_scale)
 
@@ -33,11 +33,11 @@ class Piece:
     self.sina_ty = model.addVar(name=f'sina_ty_{index}', vtype=GRB.CONTINUOUS)
     self.cosa_ty = model.addVar(name=f'cosa_ty_{index}', vtype=GRB.CONTINUOUS)
 
-    model.addQConstr(sina * sina + cosa * cosa == 1, name=f'sinacosa_{index}')
-    model.addQConstr(sina * tx == sina_tx, name=f'sina_tx_{index}')
-    model.addQConstr(cosa * tx == cosa_tx, name=f'cosa_tx_{index}')
-    model.addQConstr(sina * ty == sina_ty, name=f'sina_ty_{index}')
-    model.addQConstr(cosa * ty == cosa_ty, name=f'cosa_ty_{index}')
+    model.addQConstr(self.sina * self.sina + self.cosa * self.cosa == 1, name=f'sinacosa_{index}')
+    model.addQConstr(self.sina * self.tx == self.sina_tx, name=f'sina_tx_{index}')
+    model.addQConstr(self.cosa * self.tx == self.cosa_tx, name=f'cosa_tx_{index}')
+    model.addQConstr(self.sina * self.ty == self.sina_ty, name=f'sina_ty_{index}')
+    model.addQConstr(self.cosa * self.ty == self.cosa_ty, name=f'cosa_ty_{index}')
 
     self.sina_i_sina_j = []
     self.sina_i_cosa_j = []
@@ -48,10 +48,10 @@ class Piece:
     self.cosa_i_tx_j = []
     self.cosa_i_ty_j = []
 
-  def indicator_point_inside_poly(self, other: Piece, pi: number, spike = False):
+  def indicator_point_inside_poly(self, other, pi, spike = False):
     global model
     
-    indicator_name = f'poly_{other.index}_{"spike_" if exterior else ""}point_{pi}_inside_{self.index}'
+    indicator_name = f'poly_{other.index}_{"spike_" if spike else ""}point_{pi}_inside_{self.index}'
     indicator = model.addVar(name=indicator_name, vtype=GRB.BINARY)
 
     vertices = list(other.polygon.exterior.coords)
@@ -128,7 +128,7 @@ class Piece:
       )
       return indicator
 
-  def load(index, filepath) -> Piece:
+  def load(index, filepath):
     print(f"Loading polygon: {filepath}")
     points = []
     with open(filepath) as f:
@@ -138,7 +138,7 @@ class Piece:
             points.append((x, y))
     return Piece(index, points)
 
-  def set_cross_variables(pieces: [Piece]):
+  def set_cross_variables(pieces):
     global model
 
     n = len(pieces)
@@ -182,16 +182,16 @@ class Piece:
           model.addConstr(pieces[i].cosa * pieces[j].tx == pieces[i].cosa_i_tx_j[j], name=f'cosa_{i}_tx_{j}')
           model.addConstr(pieces[i].cosa * pieces[j].ty == pieces[i].cosa_i_ty_j[j], name=f'cosa_{i}_ty_{j}')
 
-  def load_dir(dirpath) -> [Piece]:
+  def load_dir(dirpath):
     pieces = []
     print(f"Loading polygons from: {dirpath}")
     index = 0
     for file in Path(dirpath).glob("*.txt"):
         if "adjacency" != file.stem:
-            piece = Piece.load(file)
-            pieces.append(index, piece)
+            piece = Piece.load(index, file)
+            pieces.append(piece)
             index += 1
-    set_cross_variables(pieces)
+    Piece.set_cross_variables(pieces)
     return pieces
 
 def solve(pieces):
@@ -226,18 +226,19 @@ def solve(pieces):
   print()
   for piece in pieces:
     print(f"Polygon {piece.index}:")
-    print(f"Translation: {piece.tx.X}, {piece.ty.Y}")
+    print(f"Translation: {piece.tx.X}, {piece.ty.X}")
     print(f"Angle: sina={piece.sina.X}, cosa={piece.cosa.X}, a={np.arcsin(piece.sina.X)}={np.arccos(piece.cosa.X)}, 1={piece.sina.X**2 + piece.cosa.X**2}")
 
 pieces = Piece.load_dir("../data/track1/train/1")
 solve(pieces)
 
-polygons_to_plot = [translate(rotate(piece.polygon, angle=np.arcsin(piece.sina.X)), xoff=piece.tx.X, yoff=piece.ty.Y) for piece in pieces]
-spikes_to_plot = [translate(rotate(piece.spikes, angle=np.arcsin(piece.sina.X)), xoff=piece.tx.X, yoff=piece.ty.Y) for piece in pieces]
+polygons_to_plot = [translate(rotate(piece.polygon, angle=np.arcsin(piece.sina.X)), xoff=piece.tx.X, yoff=piece.ty.X) for piece in pieces]
+spikes_to_plot = [translate(rotate(piece.spikes, angle=np.arcsin(piece.sina.X)), xoff=piece.tx.X, yoff=piece.ty.X) for piece in pieces]
 
 fig, ax = plt.subplots()
 gdf = gpd.GeoDataFrame(geometry=polygons_to_plot)
 gdf.plot(ax=ax, cmap='tab10', edgecolor='black')
-for point in spikes_to_plot.exterior.coords:
-    plt.scatter(*point, color='red')  # Plot the points
+for spike in spikes_to_plot:
+  for point in spike.exterior.coords:
+    plt.scatter(*point, color='red')
 plt.show()
