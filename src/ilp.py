@@ -9,7 +9,7 @@ import geopandas as gpd
 from pathlib import Path
 
 model = Model("san-vitale")
-BIG_NUMBER = 2000000000
+BIG_NUMBER = 2000000000000
 
 class Piece:
 
@@ -23,8 +23,8 @@ class Piece:
     self.polygon = translate(poly, xoff=-poly.centroid.x, yoff=-poly.centroid.y)
     self.spikes = scale(self.polygon, xfact=spike_scale, yfact=spike_scale)
 
-    self.tx     = model.addVar(name=f'tx_{index}',                vtype=GRB.CONTINUOUS)
-    self.ty     = model.addVar(name=f'ty_{index}',                vtype=GRB.CONTINUOUS)
+    self.tx     = model.addVar(name=f'tx_{index}', lb=0, ub=10000, vtype=GRB.CONTINUOUS)
+    self.ty     = model.addVar(name=f'ty_{index}', lb=0, ub=10000, vtype=GRB.CONTINUOUS)
     self.sina   = model.addVar(name=f'sina_{index}', lb=-1, ub=1, vtype=GRB.CONTINUOUS)
     self.cosa   = model.addVar(name=f'cosa_{index}', lb=-1, ub=1, vtype=GRB.CONTINUOUS)
 
@@ -82,11 +82,20 @@ class Piece:
     cosa_wx = self.cosa_i_tx_j[other.index]
     cosa_wy = self.cosa_i_ty_j[other.index]
 
+    indicators = []
+
     for k in range(n - 1):
       ax, ay = vertices[k]
       bx, by = vertices[k+1]
       nx = ay - by
       ny = bx - ax
+
+      eq_indicator_name = f'{indicator_name}_constraint_{k}_eq'
+      eq_indicator = model.addVar(name=eq_indicator_name, vtype=GRB.BINARY)
+      indicators.append(eq_indicator)
+
+      model.addConstr(indicator <= eq_indicator)
+
       model.addConstr(
         sina      * (nx * ay - ny * ax)     + \
         cosa      * (nx * ax + ny * ay)     + \
@@ -94,7 +103,7 @@ class Piece:
         sina_ty   * nx                      + \
         cosa_tx   * nx                      + \
         cosa_ty   * ny                      + \
-        indicator * BIG_NUMBER                \
+        eq_indicator * BIG_NUMBER                \
                   <=                          \
         sina_wy   * nx                      + \
         sina_wx   * (-ny)                   + \
@@ -105,7 +114,7 @@ class Piece:
         cosa_sinb * (ny * px - nx * py)     + \
         cosa_cosb * (ny * py + nx * px)     + \
         BIG_NUMBER                            ,
-        name=f'{indicator_name}_constraint_{k}_true'
+        name=f'{eq_indicator_name}_true'
       )
       model.addConstr(
         sina_wy   * nx                      + \
@@ -116,7 +125,7 @@ class Piece:
         sina_cosb * (nx * py - ny * px)     + \
         cosa_sinb * (ny * px - nx * py)     + \
         cosa_cosb * (ny * py + nx * px)     + \
-        indicator * (-BIG_NUMBER)             \
+        eq_indicator * (-BIG_NUMBER)             \
                   <=                          \
         sina      * (nx * ay - ny * ax)     + \
         cosa      * (nx * ax + ny * ay)     + \
@@ -124,8 +133,12 @@ class Piece:
         sina_ty   * nx                      + \
         cosa_tx   * nx                      + \
         cosa_ty   * ny                        ,
-        name=f'{indicator_name}_constraint_{k}_false'
+        name=f'{eq_indicator_name}_false'
       )
+
+      n = len(indicators)
+      model.addConstr(quicksum(indicators) - (n-1)  <= indicator)
+
       return indicator
 
   def load(index, filepath):
@@ -197,6 +210,7 @@ class Piece:
 def solve(pieces):
   global model
 
+  normal_points = []
   spike_points = []
   n = len(pieces)
   for i in range(n):
@@ -206,7 +220,8 @@ def solve(pieces):
         print(f"With polygon {j}")
         for k in range(len(pieces[j].polygon.exterior.coords)):
           indicator = pieces[i].indicator_point_inside_poly(pieces[j], k)
-          model.addConstr(indicator == 1)
+          model.addConstr(indicator == 0)
+          normal_points.append(indicator)
         for k in range(len(pieces[j].spikes.exterior.coords)):
           indicator = pieces[i].indicator_point_inside_poly(pieces[j], k, spike=True)
           spike_points.append(indicator)
@@ -229,7 +244,17 @@ def solve(pieces):
     print(f"Translation: {piece.tx.X}, {piece.ty.X}")
     print(f"Angle: sina={piece.sina.X}, cosa={piece.cosa.X}, a={np.arcsin(piece.sina.X)}={np.arccos(piece.cosa.X)}, 1={piece.sina.X**2 + piece.cosa.X**2}")
 
-pieces = Piece.load_dir("../data/track1/train/1")
+  print("----------")
+  print("Normal points:")
+  for p in normal_points:
+    print(f"{p.varName}: {p.X}")
+  
+  print("Spike points:")
+  for p in spike_points:
+    print(f"{p.varName}: {p.X}")
+  print("----------")
+
+pieces = Piece.load_dir("../data/minipoly")
 solve(pieces)
 
 polygons_to_plot = [translate(rotate(piece.polygon, angle=np.arcsin(piece.sina.X)), xoff=piece.tx.X, yoff=piece.ty.X) for piece in pieces]
@@ -238,7 +263,11 @@ spikes_to_plot = [translate(rotate(piece.spikes, angle=np.arcsin(piece.sina.X)),
 fig, ax = plt.subplots()
 gdf = gpd.GeoDataFrame(geometry=polygons_to_plot)
 gdf.plot(ax=ax, cmap='tab10', edgecolor='black')
-for spike in spikes_to_plot:
-  for point in spike.exterior.coords:
+for j, spike in enumerate(spikes_to_plot):
+  # plot j as text in the center of the polygon
+  ax.text(*spike.centroid.coords[0], f'{j}', fontsize=12, color='black')
+  for k, point in enumerate(spike.exterior.coords):
+    # plot the index of the point
+    ax.text(*point, f'{k}', fontsize=12, color='black')
     plt.scatter(*point, color='red')
 plt.show()

@@ -4,6103 +4,1598 @@ Maximize
   poly_1_spike_point_0_inside_0 + poly_1_spike_point_1_inside_0
    + poly_1_spike_point_2_inside_0 + poly_1_spike_point_3_inside_0
    + poly_1_spike_point_4_inside_0 + poly_1_spike_point_5_inside_0
-   + poly_1_spike_point_6_inside_0 + poly_1_spike_point_7_inside_0
-   + poly_1_spike_point_8_inside_0 + poly_1_spike_point_9_inside_0
-   + poly_1_spike_point_10_inside_0 + poly_1_spike_point_11_inside_0
-   + poly_1_spike_point_12_inside_0 + poly_1_spike_point_13_inside_0
-   + poly_1_spike_point_14_inside_0 + poly_1_spike_point_15_inside_0
-   + poly_1_spike_point_16_inside_0 + poly_1_spike_point_17_inside_0
-   + poly_1_spike_point_18_inside_0 + poly_1_spike_point_19_inside_0
-   + poly_1_spike_point_20_inside_0 + poly_1_spike_point_21_inside_0
-   + poly_1_spike_point_22_inside_0 + poly_1_spike_point_23_inside_0
-   + poly_1_spike_point_24_inside_0 + poly_1_spike_point_25_inside_0
-   + poly_2_spike_point_0_inside_0 + poly_2_spike_point_1_inside_0
-   + poly_2_spike_point_2_inside_0 + poly_2_spike_point_3_inside_0
-   + poly_2_spike_point_4_inside_0 + poly_2_spike_point_5_inside_0
-   + poly_2_spike_point_6_inside_0 + poly_2_spike_point_7_inside_0
-   + poly_2_spike_point_8_inside_0 + poly_2_spike_point_9_inside_0
-   + poly_2_spike_point_10_inside_0 + poly_2_spike_point_11_inside_0
-   + poly_2_spike_point_12_inside_0 + poly_2_spike_point_13_inside_0
-   + poly_2_spike_point_14_inside_0 + poly_2_spike_point_15_inside_0
-   + poly_2_spike_point_16_inside_0 + poly_2_spike_point_17_inside_0
-   + poly_2_spike_point_18_inside_0 + poly_2_spike_point_19_inside_0
-   + poly_2_spike_point_20_inside_0 + poly_2_spike_point_21_inside_0
-   + poly_2_spike_point_22_inside_0 + poly_2_spike_point_23_inside_0
-   + poly_2_spike_point_24_inside_0 + poly_2_spike_point_25_inside_0
-   + poly_2_spike_point_26_inside_0 + poly_2_spike_point_27_inside_0
-   + poly_2_spike_point_28_inside_0 + poly_2_spike_point_29_inside_0
-   + poly_0_spike_point_0_inside_1 + poly_0_spike_point_1_inside_1
-   + poly_0_spike_point_2_inside_1 + poly_0_spike_point_3_inside_1
-   + poly_0_spike_point_4_inside_1 + poly_0_spike_point_5_inside_1
-   + poly_0_spike_point_6_inside_1 + poly_0_spike_point_7_inside_1
-   + poly_0_spike_point_8_inside_1 + poly_0_spike_point_9_inside_1
-   + poly_0_spike_point_10_inside_1 + poly_0_spike_point_11_inside_1
-   + poly_0_spike_point_12_inside_1 + poly_0_spike_point_13_inside_1
-   + poly_0_spike_point_14_inside_1 + poly_0_spike_point_15_inside_1
-   + poly_0_spike_point_16_inside_1 + poly_0_spike_point_17_inside_1
-   + poly_0_spike_point_18_inside_1 + poly_0_spike_point_19_inside_1
-   + poly_0_spike_point_20_inside_1 + poly_0_spike_point_21_inside_1
-   + poly_0_spike_point_22_inside_1 + poly_0_spike_point_23_inside_1
-   + poly_0_spike_point_24_inside_1 + poly_0_spike_point_25_inside_1
-   + poly_0_spike_point_26_inside_1 + poly_0_spike_point_27_inside_1
-   + poly_0_spike_point_28_inside_1 + poly_0_spike_point_29_inside_1
-   + poly_0_spike_point_30_inside_1 + poly_0_spike_point_31_inside_1
-   + poly_0_spike_point_32_inside_1 + poly_0_spike_point_33_inside_1
-   + poly_0_spike_point_34_inside_1 + poly_0_spike_point_35_inside_1
-   + poly_0_spike_point_36_inside_1 + poly_0_spike_point_37_inside_1
-   + poly_0_spike_point_38_inside_1 + poly_0_spike_point_39_inside_1
-   + poly_0_spike_point_40_inside_1 + poly_0_spike_point_41_inside_1
-   + poly_0_spike_point_42_inside_1 + poly_0_spike_point_43_inside_1
-   + poly_0_spike_point_44_inside_1 + poly_0_spike_point_45_inside_1
-   + poly_0_spike_point_46_inside_1 + poly_0_spike_point_47_inside_1
-   + poly_0_spike_point_48_inside_1 + poly_0_spike_point_49_inside_1
-   + poly_0_spike_point_50_inside_1 + poly_2_spike_point_0_inside_1
-   + poly_2_spike_point_1_inside_1 + poly_2_spike_point_2_inside_1
-   + poly_2_spike_point_3_inside_1 + poly_2_spike_point_4_inside_1
-   + poly_2_spike_point_5_inside_1 + poly_2_spike_point_6_inside_1
-   + poly_2_spike_point_7_inside_1 + poly_2_spike_point_8_inside_1
-   + poly_2_spike_point_9_inside_1 + poly_2_spike_point_10_inside_1
-   + poly_2_spike_point_11_inside_1 + poly_2_spike_point_12_inside_1
-   + poly_2_spike_point_13_inside_1 + poly_2_spike_point_14_inside_1
-   + poly_2_spike_point_15_inside_1 + poly_2_spike_point_16_inside_1
-   + poly_2_spike_point_17_inside_1 + poly_2_spike_point_18_inside_1
-   + poly_2_spike_point_19_inside_1 + poly_2_spike_point_20_inside_1
-   + poly_2_spike_point_21_inside_1 + poly_2_spike_point_22_inside_1
-   + poly_2_spike_point_23_inside_1 + poly_2_spike_point_24_inside_1
-   + poly_2_spike_point_25_inside_1 + poly_2_spike_point_26_inside_1
-   + poly_2_spike_point_27_inside_1 + poly_2_spike_point_28_inside_1
-   + poly_2_spike_point_29_inside_1 + poly_0_spike_point_0_inside_2
-   + poly_0_spike_point_1_inside_2 + poly_0_spike_point_2_inside_2
-   + poly_0_spike_point_3_inside_2 + poly_0_spike_point_4_inside_2
-   + poly_0_spike_point_5_inside_2 + poly_0_spike_point_6_inside_2
-   + poly_0_spike_point_7_inside_2 + poly_0_spike_point_8_inside_2
-   + poly_0_spike_point_9_inside_2 + poly_0_spike_point_10_inside_2
-   + poly_0_spike_point_11_inside_2 + poly_0_spike_point_12_inside_2
-   + poly_0_spike_point_13_inside_2 + poly_0_spike_point_14_inside_2
-   + poly_0_spike_point_15_inside_2 + poly_0_spike_point_16_inside_2
-   + poly_0_spike_point_17_inside_2 + poly_0_spike_point_18_inside_2
-   + poly_0_spike_point_19_inside_2 + poly_0_spike_point_20_inside_2
-   + poly_0_spike_point_21_inside_2 + poly_0_spike_point_22_inside_2
-   + poly_0_spike_point_23_inside_2 + poly_0_spike_point_24_inside_2
-   + poly_0_spike_point_25_inside_2 + poly_0_spike_point_26_inside_2
-   + poly_0_spike_point_27_inside_2 + poly_0_spike_point_28_inside_2
-   + poly_0_spike_point_29_inside_2 + poly_0_spike_point_30_inside_2
-   + poly_0_spike_point_31_inside_2 + poly_0_spike_point_32_inside_2
-   + poly_0_spike_point_33_inside_2 + poly_0_spike_point_34_inside_2
-   + poly_0_spike_point_35_inside_2 + poly_0_spike_point_36_inside_2
-   + poly_0_spike_point_37_inside_2 + poly_0_spike_point_38_inside_2
-   + poly_0_spike_point_39_inside_2 + poly_0_spike_point_40_inside_2
-   + poly_0_spike_point_41_inside_2 + poly_0_spike_point_42_inside_2
-   + poly_0_spike_point_43_inside_2 + poly_0_spike_point_44_inside_2
-   + poly_0_spike_point_45_inside_2 + poly_0_spike_point_46_inside_2
-   + poly_0_spike_point_47_inside_2 + poly_0_spike_point_48_inside_2
-   + poly_0_spike_point_49_inside_2 + poly_0_spike_point_50_inside_2
-   + poly_1_spike_point_0_inside_2 + poly_1_spike_point_1_inside_2
-   + poly_1_spike_point_2_inside_2 + poly_1_spike_point_3_inside_2
-   + poly_1_spike_point_4_inside_2 + poly_1_spike_point_5_inside_2
-   + poly_1_spike_point_6_inside_2 + poly_1_spike_point_7_inside_2
-   + poly_1_spike_point_8_inside_2 + poly_1_spike_point_9_inside_2
-   + poly_1_spike_point_10_inside_2 + poly_1_spike_point_11_inside_2
-   + poly_1_spike_point_12_inside_2 + poly_1_spike_point_13_inside_2
-   + poly_1_spike_point_14_inside_2 + poly_1_spike_point_15_inside_2
-   + poly_1_spike_point_16_inside_2 + poly_1_spike_point_17_inside_2
-   + poly_1_spike_point_18_inside_2 + poly_1_spike_point_19_inside_2
-   + poly_1_spike_point_20_inside_2 + poly_1_spike_point_21_inside_2
-   + poly_1_spike_point_22_inside_2 + poly_1_spike_point_23_inside_2
-   + poly_1_spike_point_24_inside_2 + poly_1_spike_point_25_inside_2
+   + poly_1_spike_point_6_inside_0 + poly_2_spike_point_0_inside_0
+   + poly_2_spike_point_1_inside_0 + poly_2_spike_point_2_inside_0
+   + poly_2_spike_point_3_inside_0 + poly_2_spike_point_4_inside_0
+   + poly_2_spike_point_5_inside_0 + poly_2_spike_point_6_inside_0
+   + poly_2_spike_point_7_inside_0 + poly_0_spike_point_0_inside_1
+   + poly_0_spike_point_1_inside_1 + poly_0_spike_point_2_inside_1
+   + poly_0_spike_point_3_inside_1 + poly_0_spike_point_4_inside_1
+   + poly_0_spike_point_5_inside_1 + poly_0_spike_point_6_inside_1
+   + poly_2_spike_point_0_inside_1 + poly_2_spike_point_1_inside_1
+   + poly_2_spike_point_2_inside_1 + poly_2_spike_point_3_inside_1
+   + poly_2_spike_point_4_inside_1 + poly_2_spike_point_5_inside_1
+   + poly_2_spike_point_6_inside_1 + poly_2_spike_point_7_inside_1
+   + poly_0_spike_point_0_inside_2 + poly_0_spike_point_1_inside_2
+   + poly_0_spike_point_2_inside_2 + poly_0_spike_point_3_inside_2
+   + poly_0_spike_point_4_inside_2 + poly_0_spike_point_5_inside_2
+   + poly_0_spike_point_6_inside_2 + poly_1_spike_point_0_inside_2
+   + poly_1_spike_point_1_inside_2 + poly_1_spike_point_2_inside_2
+   + poly_1_spike_point_3_inside_2 + poly_1_spike_point_4_inside_2
+   + poly_1_spike_point_5_inside_2 + poly_1_spike_point_6_inside_2
 Subject To
- poly_1_point_0_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 13735.84570517405 sina_0_sina_1
-   + 1938.645554916507 sina_0_cosa_1 - 1938.645554916507 cosa_0_sina_1
-   + 13735.84570517405 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_0_inside_0
-   <= 2e+09
- poly_1_point_0_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 13735.84570517405 sina_0_sina_1
-   - 1938.645554916507 sina_0_cosa_1 + 1938.645554916507 cosa_0_sina_1
-   - 13735.84570517405 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_0_inside_0 <= 0
- R2: poly_1_point_0_inside_0 = 1
- poly_1_point_1_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 13735.84570517405 sina_0_sina_1
-   + 3103.645554916507 sina_0_cosa_1 - 3103.645554916507 cosa_0_sina_1
-   + 13735.84570517405 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_1_inside_0
-   <= 2e+09
- poly_1_point_1_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 13735.84570517405 sina_0_sina_1
-   - 3103.645554916507 sina_0_cosa_1 + 3103.645554916507 cosa_0_sina_1
-   - 13735.84570517405 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_1_inside_0 <= 0
- R5: poly_1_point_1_inside_0 = 1
- poly_1_point_2_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 4380.845705174053 sina_0_sina_1
-   + 6978.645554916507 sina_0_cosa_1 - 6978.645554916507 cosa_0_sina_1
-   + 4380.845705174053 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_2_inside_0
-   <= 2e+09
- poly_1_point_2_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 4380.845705174053 sina_0_sina_1
-   - 6978.645554916507 sina_0_cosa_1 + 6978.645554916507 cosa_0_sina_1
-   - 4380.845705174053 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_2_inside_0 <= 0
- R8: poly_1_point_2_inside_0 = 1
- poly_1_point_3_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 438.8457051740538 sina_0_sina_1
-   + 8902.645554916508 sina_0_cosa_1 - 8902.645554916508 cosa_0_sina_1
-   + 438.8457051740538 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_3_inside_0
-   <= 2e+09
- poly_1_point_3_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 438.8457051740538 sina_0_sina_1
-   - 8902.645554916508 sina_0_cosa_1 + 8902.645554916508 cosa_0_sina_1
-   - 438.8457051740538 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_3_inside_0 <= 0
- R11: poly_1_point_3_inside_0 = 1
- poly_1_point_4_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 2128.154294825946 sina_0_sina_1
-   + 9711.645554916508 sina_0_cosa_1 - 9711.645554916508 cosa_0_sina_1
-   - 2128.154294825946 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_4_inside_0
-   <= 2e+09
- poly_1_point_4_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 2128.154294825946 sina_0_sina_1
-   - 9711.645554916508 sina_0_cosa_1 + 9711.645554916508 cosa_0_sina_1
-   + 2128.154294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_4_inside_0 <= 0
- R14: poly_1_point_4_inside_0 = 1
- poly_1_point_5_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 2928.154294825946 sina_0_sina_1
-   + 9576.645554916508 sina_0_cosa_1 - 9576.645554916508 cosa_0_sina_1
-   - 2928.154294825946 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_5_inside_0
-   <= 2e+09
- poly_1_point_5_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 2928.154294825946 sina_0_sina_1
-   - 9576.645554916508 sina_0_cosa_1 + 9576.645554916508 cosa_0_sina_1
-   + 2928.154294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_5_inside_0 <= 0
- R17: poly_1_point_5_inside_0 = 1
- poly_1_point_6_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 3683.154294825946 sina_0_sina_1
-   + 9951.645554916508 sina_0_cosa_1 - 9951.645554916508 cosa_0_sina_1
-   - 3683.154294825946 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_6_inside_0
-   <= 2e+09
- poly_1_point_6_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 3683.154294825946 sina_0_sina_1
-   - 9951.645554916508 sina_0_cosa_1 + 9951.645554916508 cosa_0_sina_1
-   + 3683.154294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_6_inside_0 <= 0
- R20: poly_1_point_6_inside_0 = 1
- poly_1_point_7_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 4869.154294825947 sina_0_sina_1
-   + 7383.645554916507 sina_0_cosa_1 - 7383.645554916507 cosa_0_sina_1
-   - 4869.154294825947 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_7_inside_0
-   <= 2e+09
- poly_1_point_7_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 4869.154294825947 sina_0_sina_1
-   - 7383.645554916507 sina_0_cosa_1 + 7383.645554916507 cosa_0_sina_1
-   + 4869.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_7_inside_0 <= 0
- R23: poly_1_point_7_inside_0 = 1
- poly_1_point_8_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 6119.154294825947 sina_0_sina_1
-   + 4478.645554916507 sina_0_cosa_1 - 4478.645554916507 cosa_0_sina_1
-   - 6119.154294825947 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_8_inside_0
-   <= 2e+09
- poly_1_point_8_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 6119.154294825947 sina_0_sina_1
-   - 4478.645554916507 sina_0_cosa_1 + 4478.645554916507 cosa_0_sina_1
-   + 6119.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_8_inside_0 <= 0
- R26: poly_1_point_8_inside_0 = 1
- poly_1_point_9_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 7225.154294825947 sina_0_sina_1
-   + 2040.645554916507 sina_0_cosa_1 - 2040.645554916507 cosa_0_sina_1
-   - 7225.154294825947 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_9_inside_0
-   <= 2e+09
- poly_1_point_9_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 7225.154294825947 sina_0_sina_1
-   - 2040.645554916507 sina_0_cosa_1 + 2040.645554916507 cosa_0_sina_1
-   + 7225.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_9_inside_0 <= 0
- R29: poly_1_point_9_inside_0 = 1
- poly_1_point_10_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 8681.154294825947 sina_0_sina_1
-   - 92.35444508349337 sina_0_cosa_1 + 92.35444508349337 cosa_0_sina_1
-   - 8681.154294825947 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_10_inside_0
-   <= 2e+09
- poly_1_point_10_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 8681.154294825947 sina_0_sina_1
-   + 92.35444508349337 sina_0_cosa_1 - 92.35444508349337 cosa_0_sina_1
-   + 8681.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_10_inside_0 <= 0
- R32: poly_1_point_10_inside_0 = 1
- poly_1_point_11_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 9559.154294825947 sina_0_sina_1
-   - 2276.354445083493 sina_0_cosa_1 + 2276.354445083493 cosa_0_sina_1
-   - 9559.154294825947 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_11_inside_0
-   <= 2e+09
- poly_1_point_11_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 9559.154294825947 sina_0_sina_1
-   + 2276.354445083493 sina_0_cosa_1 - 2276.354445083493 cosa_0_sina_1
-   + 9559.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_11_inside_0 <= 0
- R35: poly_1_point_11_inside_0 = 1
- poly_1_point_12_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 10665.15429482595 sina_0_sina_1
-   - 4714.354445083493 sina_0_cosa_1 + 4714.354445083493 cosa_0_sina_1
-   - 10665.15429482595 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_12_inside_0
-   <= 2e+09
- poly_1_point_12_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 10665.15429482595 sina_0_sina_1
-   + 4714.354445083493 sina_0_cosa_1 - 4714.354445083493 cosa_0_sina_1
-   + 10665.15429482595 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_12_inside_0 <= 0
- R38: poly_1_point_12_inside_0 = 1
- poly_1_point_13_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 11620.15429482595 sina_0_sina_1
-   - 6994.354445083493 sina_0_cosa_1 + 6994.354445083493 cosa_0_sina_1
-   - 11620.15429482595 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_13_inside_0
-   <= 2e+09
- poly_1_point_13_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 11620.15429482595 sina_0_sina_1
-   + 6994.354445083493 sina_0_cosa_1 - 6994.354445083493 cosa_0_sina_1
-   + 11620.15429482595 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_13_inside_0 <= 0
- R41: poly_1_point_13_inside_0 = 1
- poly_1_point_14_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 13143.15429482595 sina_0_sina_1
-   - 9498.354445083492 sina_0_cosa_1 + 9498.354445083492 cosa_0_sina_1
-   - 13143.15429482595 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_14_inside_0
-   <= 2e+09
- poly_1_point_14_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 13143.15429482595 sina_0_sina_1
-   + 9498.354445083492 sina_0_cosa_1 - 9498.354445083492 cosa_0_sina_1
-   + 13143.15429482595 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_14_inside_0 <= 0
- R44: poly_1_point_14_inside_0 = 1
- poly_1_point_15_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 10141.15429482595 sina_0_sina_1
-   - 8872.354445083492 sina_0_cosa_1 + 8872.354445083492 cosa_0_sina_1
-   - 10141.15429482595 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_15_inside_0
-   <= 2e+09
- poly_1_point_15_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 10141.15429482595 sina_0_sina_1
-   + 8872.354445083492 sina_0_cosa_1 - 8872.354445083492 cosa_0_sina_1
-   + 10141.15429482595 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_15_inside_0 <= 0
- R47: poly_1_point_15_inside_0 = 1
- poly_1_point_16_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 7268.154294825947 sina_0_sina_1
-   - 8543.354445083492 sina_0_cosa_1 + 8543.354445083492 cosa_0_sina_1
-   - 7268.154294825947 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_16_inside_0
-   <= 2e+09
- poly_1_point_16_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 7268.154294825947 sina_0_sina_1
-   + 8543.354445083492 sina_0_cosa_1 - 8543.354445083492 cosa_0_sina_1
-   + 7268.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_16_inside_0 <= 0
- R50: poly_1_point_16_inside_0 = 1
- poly_1_point_17_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 4266.154294825947 sina_0_sina_1
-   - 7917.354445083492 sina_0_cosa_1 + 7917.354445083492 cosa_0_sina_1
-   - 4266.154294825947 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_17_inside_0
-   <= 2e+09
- poly_1_point_17_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 4266.154294825947 sina_0_sina_1
-   + 7917.354445083492 sina_0_cosa_1 - 7917.354445083492 cosa_0_sina_1
-   + 4266.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_17_inside_0 <= 0
- R53: poly_1_point_17_inside_0 = 1
- poly_1_point_18_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 - 1190.154294825946 sina_0_sina_1
-   - 7229.354445083493 sina_0_cosa_1 + 7229.354445083493 cosa_0_sina_1
-   - 1190.154294825946 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_18_inside_0
-   <= 2e+09
- poly_1_point_18_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 1190.154294825946 sina_0_sina_1
-   + 7229.354445083493 sina_0_cosa_1 - 7229.354445083493 cosa_0_sina_1
-   + 1190.154294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_18_inside_0 <= 0
- R56: poly_1_point_18_inside_0 = 1
- poly_1_point_19_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 1616.845705174054 sina_0_sina_1
-   - 6483.354445083493 sina_0_cosa_1 + 6483.354445083493 cosa_0_sina_1
-   + 1616.845705174054 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_19_inside_0
-   <= 2e+09
- poly_1_point_19_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 1616.845705174054 sina_0_sina_1
-   + 6483.354445083493 sina_0_cosa_1 - 6483.354445083493 cosa_0_sina_1
-   - 1616.845705174054 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_19_inside_0 <= 0
- R59: poly_1_point_19_inside_0 = 1
- poly_1_point_20_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 3953.845705174054 sina_0_sina_1
-   - 5627.354445083493 sina_0_cosa_1 + 5627.354445083493 cosa_0_sina_1
-   + 3953.845705174054 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_20_inside_0
-   <= 2e+09
- poly_1_point_20_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 3953.845705174054 sina_0_sina_1
-   + 5627.354445083493 sina_0_cosa_1 - 5627.354445083493 cosa_0_sina_1
-   - 3953.845705174054 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_20_inside_0 <= 0
- R62: poly_1_point_20_inside_0 = 1
- poly_1_point_21_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 6005.845705174053 sina_0_sina_1
-   - 4506.354445083493 sina_0_cosa_1 + 4506.354445083493 cosa_0_sina_1
-   + 6005.845705174053 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_21_inside_0
-   <= 2e+09
- poly_1_point_21_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 6005.845705174053 sina_0_sina_1
-   + 4506.354445083493 sina_0_cosa_1 - 4506.354445083493 cosa_0_sina_1
-   - 6005.845705174053 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_21_inside_0 <= 0
- R65: poly_1_point_21_inside_0 = 1
- poly_1_point_22_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 7850.845705174053 sina_0_sina_1
-   - 3401.354445083493 sina_0_cosa_1 + 3401.354445083493 cosa_0_sina_1
-   + 7850.845705174053 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_22_inside_0
-   <= 2e+09
- poly_1_point_22_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 7850.845705174053 sina_0_sina_1
-   + 3401.354445083493 sina_0_cosa_1 - 3401.354445083493 cosa_0_sina_1
-   - 7850.845705174053 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_22_inside_0 <= 0
- R68: poly_1_point_22_inside_0 = 1
- poly_1_point_23_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 9984.845705174053 sina_0_sina_1
-   - 1739.354445083493 sina_0_cosa_1 + 1739.354445083493 cosa_0_sina_1
-   + 9984.845705174053 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_23_inside_0
-   <= 2e+09
- poly_1_point_23_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 9984.845705174053 sina_0_sina_1
-   + 1739.354445083493 sina_0_cosa_1 - 1739.354445083493 cosa_0_sina_1
-   - 9984.845705174053 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_23_inside_0 <= 0
- R71: poly_1_point_23_inside_0 = 1
- poly_1_point_24_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 11455.84570517405 sina_0_sina_1
-   - 601.3544450834934 sina_0_cosa_1 + 601.3544450834934 cosa_0_sina_1
-   + 11455.84570517405 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_24_inside_0
-   <= 2e+09
- poly_1_point_24_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 11455.84570517405 sina_0_sina_1
-   + 601.3544450834934 sina_0_cosa_1 - 601.3544450834934 cosa_0_sina_1
-   - 11455.84570517405 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_24_inside_0 <= 0
- R74: poly_1_point_24_inside_0 = 1
- poly_1_point_25_inside_0_constraint_0_true: - 1938.645554916507 sina_0
-   - 13735.84570517405 cosa_0 - 3 sina_tx_0 + 34 cosa_tx_0 + 34 sina_ty_0
-   + 3 cosa_ty_0 + 13735.84570517405 sina_0_sina_1
-   + 1938.645554916507 sina_0_cosa_1 - 1938.645554916507 cosa_0_sina_1
-   + 13735.84570517405 cosa_0_cosa_1 + 3 sina_0_tx_1 - 34 sina_0_ty_1
-   - 34 cosa_0_tx_1 - 3 cosa_0_ty_1 + 2e+09 poly_1_point_25_inside_0
-   <= 2e+09
- poly_1_point_25_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 13735.84570517405 sina_0_sina_1
-   - 1938.645554916507 sina_0_cosa_1 + 1938.645554916507 cosa_0_sina_1
-   - 13735.84570517405 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_point_25_inside_0 <= 0
- R77: poly_1_point_25_inside_0 = 1
- poly_1_spike_point_0_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 16367.04570517405 sina_0_sina_1 + 2439.745554916507 sina_0_cosa_1
-   - 2439.745554916507 cosa_0_sina_1 + 16367.04570517405 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_0_inside_0 <= 2e+09
- poly_1_spike_point_0_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 16367.04570517405 sina_0_sina_1
-   - 2439.745554916507 sina_0_cosa_1 + 2439.745554916507 cosa_0_sina_1
-   - 16367.04570517405 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_0_inside_0
+ R0: poly_1_point_0_inside_0 - poly_1_point_0_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_1_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 16367.04570517405 sina_0_sina_1 + 3837.745554916506 sina_0_cosa_1
-   - 3837.745554916506 cosa_0_sina_1 + 16367.04570517405 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_1_inside_0 <= 2e+09
- poly_1_spike_point_1_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 16367.04570517405 sina_0_sina_1
-   - 3837.745554916506 sina_0_cosa_1 + 3837.745554916506 cosa_0_sina_1
-   - 16367.04570517405 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_1_inside_0
+ poly_1_point_0_inside_0_constraint_0_eq_true: 0.9761904761904772 sina_0
+   - 4.535714285714287 cosa_0 + sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - cosa_ty_0 + 4.535714285714287 sina_0_sina_1
+   - 0.9761904761904772 sina_0_cosa_1 + 0.9761904761904772 cosa_0_sina_1
+   + 4.535714285714287 cosa_0_cosa_1 - sina_0_tx_1 - 2 sina_0_ty_1
+   - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_point_0_inside_0_constraint_0_eq <= 2e+12
+ poly_1_point_0_inside_0_constraint_0_eq_false: - 0.9761904761904772 sina_0
+   + 4.535714285714287 cosa_0 - sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + cosa_ty_0 - 4.535714285714287 sina_0_sina_1
+   + 0.9761904761904772 sina_0_cosa_1 - 0.9761904761904772 cosa_0_sina_1
+   - 4.535714285714287 cosa_0_cosa_1 + sina_0_tx_1 + 2 sina_0_ty_1
+   + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_point_0_inside_0_constraint_0_eq <= 0
+ R3: - poly_1_point_0_inside_0 + poly_1_point_0_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_2_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 5141.045705174054 sina_0_sina_1 + 8487.745554916508 sina_0_cosa_1
-   - 8487.745554916508 cosa_0_sina_1 + 5141.045705174054 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_2_inside_0 <= 2e+09
- poly_1_spike_point_2_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 5141.045705174054 sina_0_sina_1
-   - 8487.745554916508 sina_0_cosa_1 + 8487.745554916508 cosa_0_sina_1
-   - 5141.045705174054 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_2_inside_0
+ R4: poly_1_point_0_inside_0 = 0
+ R5: poly_1_point_1_inside_0 - poly_1_point_1_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_3_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 410.6457051740538 sina_0_sina_1 + 10796.54555491651 sina_0_cosa_1
-   - 10796.54555491651 cosa_0_sina_1 + 410.6457051740538 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_3_inside_0 <= 2e+09
- poly_1_spike_point_3_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 - 410.6457051740538 sina_0_sina_1
-   - 10796.54555491651 sina_0_cosa_1 + 10796.54555491651 cosa_0_sina_1
-   - 410.6457051740538 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_3_inside_0
+ poly_1_point_1_inside_0_constraint_0_eq_true: 0.9761904761904772 sina_0
+   - 4.535714285714287 cosa_0 + sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - cosa_ty_0 + 4.535714285714287 sina_0_sina_1
+   + 4.023809523809523 sina_0_cosa_1 - 4.023809523809523 cosa_0_sina_1
+   + 4.535714285714287 cosa_0_cosa_1 - sina_0_tx_1 - 2 sina_0_ty_1
+   - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_point_1_inside_0_constraint_0_eq <= 2e+12
+ poly_1_point_1_inside_0_constraint_0_eq_false: - 0.9761904761904772 sina_0
+   + 4.535714285714287 cosa_0 - sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + cosa_ty_0 - 4.535714285714287 sina_0_sina_1
+   - 4.023809523809523 sina_0_cosa_1 + 4.023809523809523 cosa_0_sina_1
+   - 4.535714285714287 cosa_0_cosa_1 + sina_0_tx_1 + 2 sina_0_ty_1
+   + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_point_1_inside_0_constraint_0_eq <= 0
+ R8: - poly_1_point_1_inside_0 + poly_1_point_1_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_4_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 2669.754294825946 sina_0_sina_1 + 11767.3455549165 sina_0_cosa_1
-   - 11767.3455549165 cosa_0_sina_1 - 2669.754294825946 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_4_inside_0 <= 2e+09
- poly_1_spike_point_4_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 2669.754294825946 sina_0_sina_1
-   - 11767.3455549165 sina_0_cosa_1 + 11767.3455549165 cosa_0_sina_1
-   + 2669.754294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_4_inside_0
+ R9: poly_1_point_1_inside_0 = 0
+ R10: poly_1_point_2_inside_0 - poly_1_point_2_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_5_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 3629.754294825946 sina_0_sina_1 + 11605.34555491651 sina_0_cosa_1
-   - 11605.34555491651 cosa_0_sina_1 - 3629.754294825946 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_5_inside_0 <= 2e+09
- poly_1_spike_point_5_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 3629.754294825946 sina_0_sina_1
-   - 11605.34555491651 sina_0_cosa_1 + 11605.34555491651 cosa_0_sina_1
-   + 3629.754294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_5_inside_0
+ poly_1_point_2_inside_0_constraint_0_eq_true: 0.9761904761904772 sina_0
+   - 4.535714285714287 cosa_0 + sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - cosa_ty_0 + 1.535714285714287 sina_0_sina_1
+   + 5.023809523809523 sina_0_cosa_1 - 5.023809523809523 cosa_0_sina_1
+   + 1.535714285714287 cosa_0_cosa_1 - sina_0_tx_1 - 2 sina_0_ty_1
+   - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_point_2_inside_0_constraint_0_eq <= 2e+12
+ poly_1_point_2_inside_0_constraint_0_eq_false: - 0.9761904761904772 sina_0
+   + 4.535714285714287 cosa_0 - sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + cosa_ty_0 - 1.535714285714287 sina_0_sina_1
+   - 5.023809523809523 sina_0_cosa_1 + 5.023809523809523 cosa_0_sina_1
+   - 1.535714285714287 cosa_0_cosa_1 + sina_0_tx_1 + 2 sina_0_ty_1
+   + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_point_2_inside_0_constraint_0_eq <= 0
+ R13: - poly_1_point_2_inside_0 + poly_1_point_2_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_6_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 4535.754294825946 sina_0_sina_1 + 12055.34555491651 sina_0_cosa_1
-   - 12055.34555491651 cosa_0_sina_1 - 4535.754294825946 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_6_inside_0 <= 2e+09
- poly_1_spike_point_6_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 4535.754294825946 sina_0_sina_1
-   - 12055.34555491651 sina_0_cosa_1 + 12055.34555491651 cosa_0_sina_1
-   + 4535.754294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_6_inside_0
+ R14: poly_1_point_2_inside_0 = 0
+ R15: poly_1_point_3_inside_0 - poly_1_point_3_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_7_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 5958.954294825946 sina_0_sina_1 + 8973.745554916506 sina_0_cosa_1
-   - 8973.745554916506 cosa_0_sina_1 - 5958.954294825946 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_7_inside_0 <= 2e+09
- poly_1_spike_point_7_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 5958.954294825946 sina_0_sina_1
-   - 8973.745554916506 sina_0_cosa_1 + 8973.745554916506 cosa_0_sina_1
-   + 5958.954294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_7_inside_0
+ poly_1_point_3_inside_0_constraint_0_eq_true: 0.9761904761904772 sina_0
+   - 4.535714285714287 cosa_0 + sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - cosa_ty_0 - 4.464285714285713 sina_0_sina_1
+   + 2.023809523809523 sina_0_cosa_1 - 2.023809523809523 cosa_0_sina_1
+   - 4.464285714285713 cosa_0_cosa_1 - sina_0_tx_1 - 2 sina_0_ty_1
+   - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_point_3_inside_0_constraint_0_eq <= 2e+12
+ poly_1_point_3_inside_0_constraint_0_eq_false: - 0.9761904761904772 sina_0
+   + 4.535714285714287 cosa_0 - sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + cosa_ty_0 + 4.464285714285713 sina_0_sina_1
+   - 2.023809523809523 sina_0_cosa_1 + 2.023809523809523 cosa_0_sina_1
+   + 4.464285714285713 cosa_0_cosa_1 + sina_0_tx_1 + 2 sina_0_ty_1
+   + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_point_3_inside_0_constraint_0_eq <= 0
+ R18: - poly_1_point_3_inside_0 + poly_1_point_3_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_8_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 7458.954294825946 sina_0_sina_1 + 5487.745554916506 sina_0_cosa_1
-   - 5487.745554916506 cosa_0_sina_1 - 7458.954294825946 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_8_inside_0 <= 2e+09
- poly_1_spike_point_8_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 7458.954294825946 sina_0_sina_1
-   - 5487.745554916506 sina_0_cosa_1 + 5487.745554916506 cosa_0_sina_1
-   + 7458.954294825946 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_8_inside_0
+ R19: poly_1_point_3_inside_0 = 0
+ R20: poly_1_point_4_inside_0 - poly_1_point_4_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_9_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 8786.154294825947 sina_0_sina_1 + 2562.145554916507 sina_0_cosa_1
-   - 2562.145554916507 cosa_0_sina_1 - 8786.154294825947 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_9_inside_0 <= 2e+09
- poly_1_spike_point_9_inside_0_constraint_0_false: 1938.645554916507 sina_0
-   + 13735.84570517405 cosa_0 + 3 sina_tx_0 - 34 cosa_tx_0 - 34 sina_ty_0
-   - 3 cosa_ty_0 + 8786.154294825947 sina_0_sina_1
-   - 2562.145554916507 sina_0_cosa_1 + 2562.145554916507 cosa_0_sina_1
-   + 8786.154294825947 cosa_0_cosa_1 - 3 sina_0_tx_1 + 34 sina_0_ty_1
-   + 34 cosa_0_tx_1 + 3 cosa_0_ty_1 - 2e+09 poly_1_spike_point_9_inside_0
+ poly_1_point_4_inside_0_constraint_0_eq_true: 0.9761904761904772 sina_0
+   - 4.535714285714287 cosa_0 + sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - cosa_ty_0 - 5.464285714285713 sina_0_sina_1
+   - 0.9761904761904772 sina_0_cosa_1 + 0.9761904761904772 cosa_0_sina_1
+   - 5.464285714285713 cosa_0_cosa_1 - sina_0_tx_1 - 2 sina_0_ty_1
+   - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_point_4_inside_0_constraint_0_eq <= 2e+12
+ poly_1_point_4_inside_0_constraint_0_eq_false: - 0.9761904761904772 sina_0
+   + 4.535714285714287 cosa_0 - sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + cosa_ty_0 + 5.464285714285713 sina_0_sina_1
+   + 0.9761904761904772 sina_0_cosa_1 - 0.9761904761904772 cosa_0_sina_1
+   + 5.464285714285713 cosa_0_cosa_1 + sina_0_tx_1 + 2 sina_0_ty_1
+   + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_point_4_inside_0_constraint_0_eq <= 0
+ R23: - poly_1_point_4_inside_0 + poly_1_point_4_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_10_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 10533.35429482595 sina_0_sina_1 + 2.545554916506717 sina_0_cosa_1
-   - 2.545554916506717 cosa_0_sina_1 - 10533.35429482595 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_10_inside_0 <= 2e+09
- poly_1_spike_point_10_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 10533.35429482595 sina_0_sina_1 - 2.545554916506717 sina_0_cosa_1
-   + 2.545554916506717 cosa_0_sina_1 + 10533.35429482595 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_10_inside_0 <= 0
- poly_1_spike_point_11_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 11586.95429482595 sina_0_sina_1 - 2618.254445083493 sina_0_cosa_1
-   + 2618.254445083493 cosa_0_sina_1 - 11586.95429482595 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_11_inside_0 <= 2e+09
- poly_1_spike_point_11_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 11586.95429482595 sina_0_sina_1 + 2618.254445083493 sina_0_cosa_1
-   - 2618.254445083493 cosa_0_sina_1 + 11586.95429482595 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_11_inside_0 <= 0
- poly_1_spike_point_12_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 12914.15429482595 sina_0_sina_1 - 5543.854445083493 sina_0_cosa_1
-   + 5543.854445083493 cosa_0_sina_1 - 12914.15429482595 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_12_inside_0 <= 2e+09
- poly_1_spike_point_12_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 12914.15429482595 sina_0_sina_1 + 5543.854445083493 sina_0_cosa_1
-   - 5543.854445083493 cosa_0_sina_1 + 12914.15429482595 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_12_inside_0 <= 0
- poly_1_spike_point_13_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 14060.15429482595 sina_0_sina_1 - 8279.854445083492 sina_0_cosa_1
-   + 8279.854445083492 cosa_0_sina_1 - 14060.15429482595 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_13_inside_0 <= 2e+09
- poly_1_spike_point_13_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 14060.15429482595 sina_0_sina_1 + 8279.854445083492 sina_0_cosa_1
-   - 8279.854445083492 cosa_0_sina_1 + 14060.15429482595 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_13_inside_0 <= 0
- poly_1_spike_point_14_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 15887.75429482595 sina_0_sina_1 - 11284.65444508349 sina_0_cosa_1
-   + 11284.65444508349 cosa_0_sina_1 - 15887.75429482595 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_14_inside_0 <= 2e+09
- poly_1_spike_point_14_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 15887.75429482595 sina_0_sina_1 + 11284.65444508349 sina_0_cosa_1
-   - 11284.65444508349 cosa_0_sina_1 + 15887.75429482595 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_14_inside_0 <= 0
- poly_1_spike_point_15_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 12285.35429482595 sina_0_sina_1 - 10533.45444508349 sina_0_cosa_1
-   + 10533.45444508349 cosa_0_sina_1 - 12285.35429482595 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_15_inside_0 <= 2e+09
- poly_1_spike_point_15_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 12285.35429482595 sina_0_sina_1 + 10533.45444508349 sina_0_cosa_1
-   - 10533.45444508349 cosa_0_sina_1 + 12285.35429482595 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_15_inside_0 <= 0
- poly_1_spike_point_16_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 8837.754294825945 sina_0_sina_1 - 10138.65444508349 sina_0_cosa_1
-   + 10138.65444508349 cosa_0_sina_1 - 8837.754294825945 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_16_inside_0 <= 2e+09
- poly_1_spike_point_16_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 8837.754294825945 sina_0_sina_1 + 10138.65444508349 sina_0_cosa_1
-   - 10138.65444508349 cosa_0_sina_1 + 8837.754294825945 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_16_inside_0 <= 0
- poly_1_spike_point_17_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 5235.354294825946 sina_0_sina_1 - 9387.454445083493 sina_0_cosa_1
-   + 9387.454445083493 cosa_0_sina_1 - 5235.354294825946 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_17_inside_0 <= 2e+09
- poly_1_spike_point_17_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 5235.354294825946 sina_0_sina_1 + 9387.454445083493 sina_0_cosa_1
-   - 9387.454445083493 cosa_0_sina_1 + 5235.354294825946 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_17_inside_0 <= 0
- poly_1_spike_point_18_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   - 1544.154294825946 sina_0_sina_1 - 8561.854445083492 sina_0_cosa_1
-   + 8561.854445083492 cosa_0_sina_1 - 1544.154294825946 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_18_inside_0 <= 2e+09
- poly_1_spike_point_18_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   + 1544.154294825946 sina_0_sina_1 + 8561.854445083492 sina_0_cosa_1
-   - 8561.854445083492 cosa_0_sina_1 + 1544.154294825946 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_18_inside_0 <= 0
- poly_1_spike_point_19_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 1824.245705174054 sina_0_sina_1 - 7666.654445083494 sina_0_cosa_1
-   + 7666.654445083494 cosa_0_sina_1 + 1824.245705174054 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_19_inside_0 <= 2e+09
- poly_1_spike_point_19_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   - 1824.245705174054 sina_0_sina_1 + 7666.654445083494 sina_0_cosa_1
-   - 7666.654445083494 cosa_0_sina_1 - 1824.245705174054 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_19_inside_0 <= 0
- poly_1_spike_point_20_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 4628.645705174054 sina_0_sina_1 - 6639.454445083494 sina_0_cosa_1
-   + 6639.454445083494 cosa_0_sina_1 + 4628.645705174054 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_20_inside_0 <= 2e+09
- poly_1_spike_point_20_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   - 4628.645705174054 sina_0_sina_1 + 6639.454445083494 sina_0_cosa_1
-   - 6639.454445083494 cosa_0_sina_1 - 4628.645705174054 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_20_inside_0 <= 0
- poly_1_spike_point_21_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 7091.045705174053 sina_0_sina_1 - 5294.254445083494 sina_0_cosa_1
-   + 5294.254445083494 cosa_0_sina_1 + 7091.045705174053 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_21_inside_0 <= 2e+09
- poly_1_spike_point_21_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   - 7091.045705174053 sina_0_sina_1 + 5294.254445083494 sina_0_cosa_1
-   - 5294.254445083494 cosa_0_sina_1 - 7091.045705174053 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_21_inside_0 <= 0
- poly_1_spike_point_22_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 9305.045705174052 sina_0_sina_1 - 3968.254445083493 sina_0_cosa_1
-   + 3968.254445083493 cosa_0_sina_1 + 9305.045705174052 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_22_inside_0 <= 2e+09
- poly_1_spike_point_22_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   - 9305.045705174052 sina_0_sina_1 + 3968.254445083493 sina_0_cosa_1
-   - 3968.254445083493 cosa_0_sina_1 - 9305.045705174052 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_22_inside_0 <= 0
- poly_1_spike_point_23_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 11865.84570517405 sina_0_sina_1 - 1973.854445083493 sina_0_cosa_1
-   + 1973.854445083493 cosa_0_sina_1 + 11865.84570517405 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_23_inside_0 <= 2e+09
- poly_1_spike_point_23_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   - 11865.84570517405 sina_0_sina_1 + 1973.854445083493 sina_0_cosa_1
-   - 1973.854445083493 cosa_0_sina_1 - 11865.84570517405 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_23_inside_0 <= 0
- poly_1_spike_point_24_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 13631.04570517405 sina_0_sina_1 - 608.2544450834932 sina_0_cosa_1
-   + 608.2544450834932 cosa_0_sina_1 + 13631.04570517405 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_24_inside_0 <= 2e+09
- poly_1_spike_point_24_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   - 13631.04570517405 sina_0_sina_1 + 608.2544450834932 sina_0_cosa_1
-   - 608.2544450834932 cosa_0_sina_1 - 13631.04570517405 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_24_inside_0 <= 0
- poly_1_spike_point_25_inside_0_constraint_0_true:
-   - 1938.645554916507 sina_0 - 13735.84570517405 cosa_0 - 3 sina_tx_0
-   + 34 cosa_tx_0 + 34 sina_ty_0 + 3 cosa_ty_0
-   + 16367.04570517405 sina_0_sina_1 + 2439.745554916507 sina_0_cosa_1
-   - 2439.745554916507 cosa_0_sina_1 + 16367.04570517405 cosa_0_cosa_1
-   + 3 sina_0_tx_1 - 34 sina_0_ty_1 - 34 cosa_0_tx_1 - 3 cosa_0_ty_1
-   + 2e+09 poly_1_spike_point_25_inside_0 <= 2e+09
- poly_1_spike_point_25_inside_0_constraint_0_false:
-   1938.645554916507 sina_0 + 13735.84570517405 cosa_0 + 3 sina_tx_0
-   - 34 cosa_tx_0 - 34 sina_ty_0 - 3 cosa_ty_0
-   - 16367.04570517405 sina_0_sina_1 - 2439.745554916507 sina_0_cosa_1
-   + 2439.745554916507 cosa_0_sina_1 - 16367.04570517405 cosa_0_cosa_1
-   - 3 sina_0_tx_1 + 34 sina_0_ty_1 + 34 cosa_0_tx_1 + 3 cosa_0_ty_1
-   - 2e+09 poly_1_spike_point_25_inside_0 <= 0
- poly_2_point_0_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 32810.79248016002 sina_0_sina_2
-   - 32361.77346186771 sina_0_cosa_2 + 32361.77346186771 cosa_0_sina_2
-   + 32810.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_0_inside_0
-   <= 2e+09
- poly_2_point_0_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 32810.79248016002 sina_0_sina_2
-   + 32361.77346186771 sina_0_cosa_2 - 32361.77346186771 cosa_0_sina_2
-   - 32810.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_0_inside_0 <= 0
- R132: poly_2_point_0_inside_0 = 1
- poly_2_point_1_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 32810.79248016002 sina_0_sina_2
-   - 25063.77346186771 sina_0_cosa_2 + 25063.77346186771 cosa_0_sina_2
-   + 32810.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_1_inside_0
-   <= 2e+09
- poly_2_point_1_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 32810.79248016002 sina_0_sina_2
-   + 25063.77346186771 sina_0_cosa_2 - 25063.77346186771 cosa_0_sina_2
-   - 32810.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_1_inside_0 <= 0
- R135: poly_2_point_1_inside_0 = 1
- poly_2_point_2_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 34170.79248016002 sina_0_sina_2
-   - 21641.77346186771 sina_0_cosa_2 + 21641.77346186771 cosa_0_sina_2
-   + 34170.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_2_inside_0
-   <= 2e+09
- poly_2_point_2_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 34170.79248016002 sina_0_sina_2
-   + 21641.77346186771 sina_0_cosa_2 - 21641.77346186771 cosa_0_sina_2
-   - 34170.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_2_inside_0 <= 0
- R138: poly_2_point_2_inside_0 = 1
- poly_2_point_3_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 36159.79248016002 sina_0_sina_2
-   - 16910.77346186771 sina_0_cosa_2 + 16910.77346186771 cosa_0_sina_2
-   + 36159.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_3_inside_0
-   <= 2e+09
- poly_2_point_3_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 36159.79248016002 sina_0_sina_2
-   + 16910.77346186771 sina_0_cosa_2 - 16910.77346186771 cosa_0_sina_2
-   - 36159.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_3_inside_0 <= 0
- R141: poly_2_point_3_inside_0 = 1
- poly_2_point_4_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 39063.79248016002 sina_0_sina_2
-   - 12050.77346186771 sina_0_cosa_2 + 12050.77346186771 cosa_0_sina_2
-   + 39063.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_4_inside_0
-   <= 2e+09
- poly_2_point_4_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 39063.79248016002 sina_0_sina_2
-   + 12050.77346186771 sina_0_cosa_2 - 12050.77346186771 cosa_0_sina_2
-   - 39063.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_4_inside_0 <= 0
- R144: poly_2_point_4_inside_0 = 1
- poly_2_point_5_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 40552.79248016002 sina_0_sina_2
-   - 9543.773461867713 sina_0_cosa_2 + 9543.773461867713 cosa_0_sina_2
-   + 40552.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_5_inside_0
-   <= 2e+09
- poly_2_point_5_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 40552.79248016002 sina_0_sina_2
-   + 9543.773461867713 sina_0_cosa_2 - 9543.773461867713 cosa_0_sina_2
-   - 40552.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_5_inside_0 <= 0
- R147: poly_2_point_5_inside_0 = 1
- poly_2_point_6_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 35123.79248016002 sina_0_sina_2
-   - 4470.773461867713 sina_0_cosa_2 + 4470.773461867713 cosa_0_sina_2
-   + 35123.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_6_inside_0
-   <= 2e+09
- poly_2_point_6_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 35123.79248016002 sina_0_sina_2
-   + 4470.773461867713 sina_0_cosa_2 - 4470.773461867713 cosa_0_sina_2
-   - 35123.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_6_inside_0 <= 0
- R150: poly_2_point_6_inside_0 = 1
- poly_2_point_7_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 27581.79248016002 sina_0_sina_2
-   + 1333.226538132287 sina_0_cosa_2 - 1333.226538132287 cosa_0_sina_2
-   + 27581.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_7_inside_0
-   <= 2e+09
- poly_2_point_7_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 27581.79248016002 sina_0_sina_2
-   - 1333.226538132287 sina_0_cosa_2 + 1333.226538132287 cosa_0_sina_2
-   - 27581.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_7_inside_0 <= 0
- R153: poly_2_point_7_inside_0 = 1
- poly_2_point_8_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 18970.79248016002 sina_0_sina_2
-   + 7082.226538132288 sina_0_cosa_2 - 7082.226538132288 cosa_0_sina_2
-   + 18970.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_8_inside_0
-   <= 2e+09
- poly_2_point_8_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 18970.79248016002 sina_0_sina_2
-   - 7082.226538132288 sina_0_cosa_2 + 7082.226538132288 cosa_0_sina_2
-   - 18970.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_8_inside_0 <= 0
- R156: poly_2_point_8_inside_0 = 1
- poly_2_point_9_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 11954.79248016002 sina_0_sina_2
-   + 11022.22653813229 sina_0_cosa_2 - 11022.22653813229 cosa_0_sina_2
-   + 11954.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_9_inside_0
-   <= 2e+09
- poly_2_point_9_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 11954.79248016002 sina_0_sina_2
-   - 11022.22653813229 sina_0_cosa_2 + 11022.22653813229 cosa_0_sina_2
-   - 11954.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_9_inside_0 <= 0
- R159: poly_2_point_9_inside_0 = 1
- poly_2_point_10_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 3801.792480160019 sina_0_sina_2
-   + 14371.22653813229 sina_0_cosa_2 - 14371.22653813229 cosa_0_sina_2
-   + 3801.792480160019 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_10_inside_0
-   <= 2e+09
- poly_2_point_10_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 3801.792480160019 sina_0_sina_2
-   - 14371.22653813229 sina_0_cosa_2 + 14371.22653813229 cosa_0_sina_2
-   - 3801.792480160019 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_10_inside_0 <= 0
- R162: poly_2_point_10_inside_0 = 1
- poly_2_point_11_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 6276.20751983998 sina_0_sina_2
-   + 18645.22653813229 sina_0_cosa_2 - 18645.22653813229 cosa_0_sina_2
-   - 6276.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_11_inside_0
-   <= 2e+09
- poly_2_point_11_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 6276.20751983998 sina_0_sina_2
-   - 18645.22653813229 sina_0_cosa_2 + 18645.22653813229 cosa_0_sina_2
-   + 6276.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_11_inside_0 <= 0
- R165: poly_2_point_11_inside_0 = 1
- poly_2_point_12_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 16093.20751983998 sina_0_sina_2
-   + 20898.22653813229 sina_0_cosa_2 - 20898.22653813229 cosa_0_sina_2
-   - 16093.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_12_inside_0
-   <= 2e+09
- poly_2_point_12_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 16093.20751983998 sina_0_sina_2
-   - 20898.22653813229 sina_0_cosa_2 + 20898.22653813229 cosa_0_sina_2
-   + 16093.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_12_inside_0 <= 0
- R168: poly_2_point_12_inside_0 = 1
- poly_2_point_13_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 25214.20751983998 sina_0_sina_2
-   + 22627.22653813229 sina_0_cosa_2 - 22627.22653813229 cosa_0_sina_2
-   - 25214.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_13_inside_0
-   <= 2e+09
- poly_2_point_13_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 25214.20751983998 sina_0_sina_2
-   - 22627.22653813229 sina_0_cosa_2 + 22627.22653813229 cosa_0_sina_2
-   + 25214.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_13_inside_0 <= 0
- R171: poly_2_point_13_inside_0 = 1
- poly_2_point_14_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 32632.20751983998 sina_0_sina_2
-   + 22969.22653813229 sina_0_cosa_2 - 22969.22653813229 cosa_0_sina_2
-   - 32632.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_14_inside_0
-   <= 2e+09
- poly_2_point_14_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 32632.20751983998 sina_0_sina_2
-   - 22969.22653813229 sina_0_cosa_2 + 22969.22653813229 cosa_0_sina_2
-   + 32632.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_14_inside_0 <= 0
- R174: poly_2_point_14_inside_0 = 1
- poly_2_point_15_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 38796.20751983998 sina_0_sina_2
-   + 23751.22653813229 sina_0_cosa_2 - 23751.22653813229 cosa_0_sina_2
-   - 38796.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_15_inside_0
-   <= 2e+09
- poly_2_point_15_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 38796.20751983998 sina_0_sina_2
-   - 23751.22653813229 sina_0_cosa_2 + 23751.22653813229 cosa_0_sina_2
-   + 38796.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_15_inside_0 <= 0
- R177: poly_2_point_15_inside_0 = 1
- poly_2_point_16_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 44720.20751983998 sina_0_sina_2
-   + 23849.22653813229 sina_0_cosa_2 - 23849.22653813229 cosa_0_sina_2
-   - 44720.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_16_inside_0
-   <= 2e+09
- poly_2_point_16_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 44720.20751983998 sina_0_sina_2
-   - 23849.22653813229 sina_0_cosa_2 + 23849.22653813229 cosa_0_sina_2
-   + 44720.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_16_inside_0 <= 0
- R180: poly_2_point_16_inside_0 = 1
- poly_2_point_17_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 47454.20751983998 sina_0_sina_2
-   + 20329.22653813229 sina_0_cosa_2 - 20329.22653813229 cosa_0_sina_2
-   - 47454.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_17_inside_0
-   <= 2e+09
- poly_2_point_17_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 47454.20751983998 sina_0_sina_2
-   - 20329.22653813229 sina_0_cosa_2 + 20329.22653813229 cosa_0_sina_2
-   + 47454.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_17_inside_0 <= 0
- R183: poly_2_point_17_inside_0 = 1
- poly_2_point_18_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 49563.20751983998 sina_0_sina_2
-   + 15940.22653813229 sina_0_cosa_2 - 15940.22653813229 cosa_0_sina_2
-   - 49563.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_18_inside_0
-   <= 2e+09
- poly_2_point_18_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 49563.20751983998 sina_0_sina_2
-   - 15940.22653813229 sina_0_cosa_2 + 15940.22653813229 cosa_0_sina_2
-   + 49563.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_18_inside_0 <= 0
- R186: poly_2_point_18_inside_0 = 1
- poly_2_point_19_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 40721.20751983998 sina_0_sina_2
-   + 10080.22653813229 sina_0_cosa_2 - 10080.22653813229 cosa_0_sina_2
-   - 40721.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_19_inside_0
-   <= 2e+09
- poly_2_point_19_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 40721.20751983998 sina_0_sina_2
-   - 10080.22653813229 sina_0_cosa_2 + 10080.22653813229 cosa_0_sina_2
-   + 40721.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_19_inside_0 <= 0
- R189: poly_2_point_19_inside_0 = 1
- poly_2_point_20_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 33080.20751983998 sina_0_sina_2
-   + 5271.226538132287 sina_0_cosa_2 - 5271.226538132287 cosa_0_sina_2
-   - 33080.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_20_inside_0
-   <= 2e+09
- poly_2_point_20_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 33080.20751983998 sina_0_sina_2
-   - 5271.226538132287 sina_0_cosa_2 + 5271.226538132287 cosa_0_sina_2
-   + 33080.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_20_inside_0 <= 0
- R192: poly_2_point_20_inside_0 = 1
- poly_2_point_21_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 25491.20751983998 sina_0_sina_2
-   + 1340.226538132287 sina_0_cosa_2 - 1340.226538132287 cosa_0_sina_2
-   - 25491.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_21_inside_0
-   <= 2e+09
- poly_2_point_21_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 25491.20751983998 sina_0_sina_2
-   - 1340.226538132287 sina_0_cosa_2 + 1340.226538132287 cosa_0_sina_2
-   + 25491.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_21_inside_0 <= 0
- R195: poly_2_point_21_inside_0 = 1
- poly_2_point_22_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 17671.20751983998 sina_0_sina_2
-   - 2701.773461867712 sina_0_cosa_2 + 2701.773461867712 cosa_0_sina_2
-   - 17671.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_22_inside_0
-   <= 2e+09
- poly_2_point_22_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 17671.20751983998 sina_0_sina_2
-   + 2701.773461867712 sina_0_cosa_2 - 2701.773461867712 cosa_0_sina_2
-   + 17671.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_22_inside_0 <= 0
- R198: poly_2_point_22_inside_0 = 1
- poly_2_point_23_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 9060.20751983998 sina_0_sina_2
-   - 8450.773461867713 sina_0_cosa_2 + 8450.773461867713 cosa_0_sina_2
-   - 9060.20751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_23_inside_0
-   <= 2e+09
- poly_2_point_23_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 9060.20751983998 sina_0_sina_2
-   + 8450.773461867713 sina_0_cosa_2 - 8450.773461867713 cosa_0_sina_2
-   + 9060.20751983998 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_23_inside_0 <= 0
- R201: poly_2_point_23_inside_0 = 1
- poly_2_point_24_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 954.2075198399807 sina_0_sina_2
-   - 13672.77346186771 sina_0_cosa_2 + 13672.77346186771 cosa_0_sina_2
-   - 954.2075198399807 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_24_inside_0
-   <= 2e+09
- poly_2_point_24_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 + 954.2075198399807 sina_0_sina_2
-   + 13672.77346186771 sina_0_cosa_2 - 13672.77346186771 cosa_0_sina_2
-   + 954.2075198399807 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_24_inside_0 <= 0
- R204: poly_2_point_24_inside_0 = 1
- poly_2_point_25_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 8725.79248016002 sina_0_sina_2
-   - 19366.77346186771 sina_0_cosa_2 + 19366.77346186771 cosa_0_sina_2
-   + 8725.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_25_inside_0
-   <= 2e+09
- poly_2_point_25_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 8725.79248016002 sina_0_sina_2
-   + 19366.77346186771 sina_0_cosa_2 - 19366.77346186771 cosa_0_sina_2
-   - 8725.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_25_inside_0 <= 0
- R207: poly_2_point_25_inside_0 = 1
- poly_2_point_26_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 17410.79248016002 sina_0_sina_2
-   - 24961.77346186771 sina_0_cosa_2 + 24961.77346186771 cosa_0_sina_2
-   + 17410.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_26_inside_0
-   <= 2e+09
- poly_2_point_26_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 17410.79248016002 sina_0_sina_2
-   + 24961.77346186771 sina_0_cosa_2 - 24961.77346186771 cosa_0_sina_2
-   - 17410.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_26_inside_0 <= 0
- R210: poly_2_point_26_inside_0 = 1
- poly_2_point_27_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 25165.79248016002 sina_0_sina_2
-   - 29730.77346186771 sina_0_cosa_2 + 29730.77346186771 cosa_0_sina_2
-   + 25165.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_27_inside_0
-   <= 2e+09
- poly_2_point_27_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 25165.79248016002 sina_0_sina_2
-   + 29730.77346186771 sina_0_cosa_2 - 29730.77346186771 cosa_0_sina_2
-   - 25165.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_27_inside_0 <= 0
- R213: poly_2_point_27_inside_0 = 1
- poly_2_point_28_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 28861.79248016002 sina_0_sina_2
-   - 31506.77346186771 sina_0_cosa_2 + 31506.77346186771 cosa_0_sina_2
-   + 28861.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_28_inside_0
-   <= 2e+09
- poly_2_point_28_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 28861.79248016002 sina_0_sina_2
-   + 31506.77346186771 sina_0_cosa_2 - 31506.77346186771 cosa_0_sina_2
-   - 28861.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_28_inside_0 <= 0
- R216: poly_2_point_28_inside_0 = 1
- poly_2_point_29_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 32810.79248016002 sina_0_sina_2
-   - 32361.77346186771 sina_0_cosa_2 + 32361.77346186771 cosa_0_sina_2
-   + 32810.79248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_point_29_inside_0
-   <= 2e+09
- poly_2_point_29_inside_0_constraint_0_false: - 32361.77346186771 sina_0
-   + 32810.79248016002 cosa_0 + 37 sina_tx_0 - 77 cosa_tx_0 - 77 sina_ty_0
-   - 37 cosa_ty_0 - 32810.79248016002 sina_0_sina_2
-   + 32361.77346186771 sina_0_cosa_2 - 32361.77346186771 cosa_0_sina_2
-   - 32810.79248016002 cosa_0_cosa_2 - 37 sina_0_tx_2 + 77 sina_0_ty_2
-   + 77 cosa_0_tx_2 + 37 cosa_0_ty_2 - 2e+09 poly_2_point_29_inside_0 <= 0
- R219: poly_2_point_29_inside_0 = 1
- poly_2_spike_point_0_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 40126.89248016002 sina_0_sina_2
-   - 39109.27346186771 sina_0_cosa_2 + 39109.27346186771 cosa_0_sina_2
-   + 40126.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_0_inside_0
-   <= 2e+09
- poly_2_spike_point_0_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 40126.89248016002 sina_0_sina_2 + 39109.27346186771 sina_0_cosa_2
-   - 39109.27346186771 cosa_0_sina_2 - 40126.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_0_inside_0 <= 0
- poly_2_spike_point_1_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 40126.89248016002 sina_0_sina_2
-   - 30351.67346186771 sina_0_cosa_2 + 30351.67346186771 cosa_0_sina_2
-   + 40126.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_1_inside_0
-   <= 2e+09
- poly_2_spike_point_1_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 40126.89248016002 sina_0_sina_2 + 30351.67346186771 sina_0_cosa_2
-   - 30351.67346186771 cosa_0_sina_2 - 40126.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_1_inside_0 <= 0
- poly_2_spike_point_2_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 41758.89248016002 sina_0_sina_2
-   - 26245.27346186771 sina_0_cosa_2 + 26245.27346186771 cosa_0_sina_2
-   + 41758.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_2_inside_0
-   <= 2e+09
- poly_2_spike_point_2_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 41758.89248016002 sina_0_sina_2 + 26245.27346186771 sina_0_cosa_2
-   - 26245.27346186771 cosa_0_sina_2 - 41758.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_2_inside_0 <= 0
- poly_2_spike_point_3_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 44145.69248016002 sina_0_sina_2
-   - 20568.07346186771 sina_0_cosa_2 + 20568.07346186771 cosa_0_sina_2
-   + 44145.69248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_3_inside_0
-   <= 2e+09
- poly_2_spike_point_3_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 44145.69248016002 sina_0_sina_2 + 20568.07346186771 sina_0_cosa_2
-   - 20568.07346186771 cosa_0_sina_2 - 44145.69248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_3_inside_0 <= 0
- poly_2_spike_point_4_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 47630.49248016001 sina_0_sina_2
-   - 14736.07346186771 sina_0_cosa_2 + 14736.07346186771 cosa_0_sina_2
-   + 47630.49248016001 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_4_inside_0
-   <= 2e+09
- poly_2_spike_point_4_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 47630.49248016001 sina_0_sina_2 + 14736.07346186771 sina_0_cosa_2
-   - 14736.07346186771 cosa_0_sina_2 - 47630.49248016001 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_4_inside_0 <= 0
- poly_2_spike_point_5_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 49417.29248016002 sina_0_sina_2
-   - 11727.67346186771 sina_0_cosa_2 + 11727.67346186771 cosa_0_sina_2
-   + 49417.29248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_5_inside_0
-   <= 2e+09
- poly_2_spike_point_5_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 49417.29248016002 sina_0_sina_2 + 11727.67346186771 sina_0_cosa_2
-   - 11727.67346186771 cosa_0_sina_2 - 49417.29248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_5_inside_0 <= 0
- poly_2_spike_point_6_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 42902.49248016001 sina_0_sina_2
-   - 5640.073461867709 sina_0_cosa_2 + 5640.073461867709 cosa_0_sina_2
-   + 42902.49248016001 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_6_inside_0
-   <= 2e+09
- poly_2_spike_point_6_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 42902.49248016001 sina_0_sina_2 + 5640.073461867709 sina_0_cosa_2
-   - 5640.073461867709 cosa_0_sina_2 - 42902.49248016001 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_6_inside_0 <= 0
- poly_2_spike_point_7_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 33852.09248016002 sina_0_sina_2
-   + 1324.72653813229 sina_0_cosa_2 - 1324.72653813229 cosa_0_sina_2
-   + 33852.09248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_7_inside_0
-   <= 2e+09
- poly_2_spike_point_7_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 33852.09248016002 sina_0_sina_2 - 1324.72653813229 sina_0_cosa_2
-   + 1324.72653813229 cosa_0_sina_2 - 33852.09248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_7_inside_0 <= 0
- poly_2_spike_point_8_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 23518.89248016002 sina_0_sina_2
-   + 8223.52653813229 sina_0_cosa_2 - 8223.52653813229 cosa_0_sina_2
-   + 23518.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_8_inside_0
-   <= 2e+09
- poly_2_spike_point_8_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 23518.89248016002 sina_0_sina_2 - 8223.52653813229 sina_0_cosa_2
-   + 8223.52653813229 cosa_0_sina_2 - 23518.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_8_inside_0 <= 0
- poly_2_spike_point_9_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 15099.69248016002 sina_0_sina_2
-   + 12951.52653813229 sina_0_cosa_2 - 12951.52653813229 cosa_0_sina_2
-   + 15099.69248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_9_inside_0
-   <= 2e+09
- poly_2_spike_point_9_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 15099.69248016002 sina_0_sina_2 - 12951.52653813229 sina_0_cosa_2
-   + 12951.52653813229 cosa_0_sina_2 - 15099.69248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_9_inside_0 <= 0
- poly_2_spike_point_10_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 5316.092480160019 sina_0_sina_2
-   + 16970.32653813229 sina_0_cosa_2 - 16970.32653813229 cosa_0_sina_2
-   + 5316.092480160019 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_10_inside_0
-   <= 2e+09
- poly_2_spike_point_10_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 5316.092480160019 sina_0_sina_2 - 16970.32653813229 sina_0_cosa_2
-   + 16970.32653813229 cosa_0_sina_2 - 5316.092480160019 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_10_inside_0 <= 0
- poly_2_spike_point_11_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 6777.507519839979 sina_0_sina_2
-   + 22099.12653813229 sina_0_cosa_2 - 22099.12653813229 cosa_0_sina_2
-   - 6777.507519839979 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_11_inside_0
-   <= 2e+09
- poly_2_spike_point_11_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 6777.507519839979 sina_0_sina_2 - 22099.12653813229 sina_0_cosa_2
-   + 22099.12653813229 cosa_0_sina_2 + 6777.507519839979 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_11_inside_0 <= 0
- poly_2_spike_point_12_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 18557.90751983998 sina_0_sina_2
-   + 24802.72653813229 sina_0_cosa_2 - 24802.72653813229 cosa_0_sina_2
-   - 18557.90751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_12_inside_0
-   <= 2e+09
- poly_2_spike_point_12_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 18557.90751983998 sina_0_sina_2 - 24802.72653813229 sina_0_cosa_2
-   + 24802.72653813229 cosa_0_sina_2 + 18557.90751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_12_inside_0 <= 0
- poly_2_spike_point_13_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 29503.10751983998 sina_0_sina_2
-   + 26877.52653813229 sina_0_cosa_2 - 26877.52653813229 cosa_0_sina_2
-   - 29503.10751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_13_inside_0
-   <= 2e+09
- poly_2_spike_point_13_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 29503.10751983998 sina_0_sina_2 - 26877.52653813229 sina_0_cosa_2
-   + 26877.52653813229 cosa_0_sina_2 + 29503.10751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_13_inside_0 <= 0
- poly_2_spike_point_14_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 38404.70751983998 sina_0_sina_2
-   + 27287.92653813228 sina_0_cosa_2 - 27287.92653813228 cosa_0_sina_2
-   - 38404.70751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_14_inside_0
-   <= 2e+09
- poly_2_spike_point_14_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 38404.70751983998 sina_0_sina_2 - 27287.92653813228 sina_0_cosa_2
-   + 27287.92653813228 cosa_0_sina_2 + 38404.70751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_14_inside_0 <= 0
- poly_2_spike_point_15_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 45801.50751983998 sina_0_sina_2
-   + 28226.32653813229 sina_0_cosa_2 - 28226.32653813229 cosa_0_sina_2
-   - 45801.50751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_15_inside_0
-   <= 2e+09
- poly_2_spike_point_15_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 45801.50751983998 sina_0_sina_2 - 28226.32653813229 sina_0_cosa_2
-   + 28226.32653813229 cosa_0_sina_2 + 45801.50751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_15_inside_0 <= 0
- poly_2_spike_point_16_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 52910.30751983998 sina_0_sina_2
-   + 28343.92653813229 sina_0_cosa_2 - 28343.92653813229 cosa_0_sina_2
-   - 52910.30751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_16_inside_0
-   <= 2e+09
- poly_2_spike_point_16_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 52910.30751983998 sina_0_sina_2 - 28343.92653813229 sina_0_cosa_2
-   + 28343.92653813229 cosa_0_sina_2 + 52910.30751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_16_inside_0 <= 0
- poly_2_spike_point_17_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 56191.10751983998 sina_0_sina_2
-   + 24119.92653813229 sina_0_cosa_2 - 24119.92653813229 cosa_0_sina_2
-   - 56191.10751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_17_inside_0
-   <= 2e+09
- poly_2_spike_point_17_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 56191.10751983998 sina_0_sina_2 - 24119.92653813229 sina_0_cosa_2
-   + 24119.92653813229 cosa_0_sina_2 + 56191.10751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_17_inside_0 <= 0
- poly_2_spike_point_18_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 58721.90751983998 sina_0_sina_2
-   + 18853.12653813229 sina_0_cosa_2 - 18853.12653813229 cosa_0_sina_2
-   - 58721.90751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_18_inside_0
-   <= 2e+09
- poly_2_spike_point_18_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 58721.90751983998 sina_0_sina_2 - 18853.12653813229 sina_0_cosa_2
-   + 18853.12653813229 cosa_0_sina_2 + 58721.90751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_18_inside_0 <= 0
- poly_2_spike_point_19_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 48111.50751983997 sina_0_sina_2
-   + 11821.12653813229 sina_0_cosa_2 - 11821.12653813229 cosa_0_sina_2
-   - 48111.50751983997 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_19_inside_0
-   <= 2e+09
- poly_2_spike_point_19_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 48111.50751983997 sina_0_sina_2 - 11821.12653813229 sina_0_cosa_2
-   + 11821.12653813229 cosa_0_sina_2 + 48111.50751983997 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_19_inside_0 <= 0
- poly_2_spike_point_20_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 38942.30751983998 sina_0_sina_2
-   + 6050.326538132291 sina_0_cosa_2 - 6050.326538132291 cosa_0_sina_2
-   - 38942.30751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_20_inside_0
-   <= 2e+09
- poly_2_spike_point_20_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 38942.30751983998 sina_0_sina_2 - 6050.326538132291 sina_0_cosa_2
-   + 6050.326538132291 cosa_0_sina_2 + 38942.30751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_20_inside_0 <= 0
- poly_2_spike_point_21_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 29835.50751983998 sina_0_sina_2
-   + 1333.12653813229 sina_0_cosa_2 - 1333.12653813229 cosa_0_sina_2
-   - 29835.50751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_21_inside_0
-   <= 2e+09
- poly_2_spike_point_21_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 29835.50751983998 sina_0_sina_2 - 1333.12653813229 sina_0_cosa_2
-   + 1333.12653813229 cosa_0_sina_2 + 29835.50751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_21_inside_0 <= 0
- poly_2_spike_point_22_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 20451.50751983998 sina_0_sina_2
-   - 3517.27346186771 sina_0_cosa_2 + 3517.27346186771 cosa_0_sina_2
-   - 20451.50751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_22_inside_0
-   <= 2e+09
- poly_2_spike_point_22_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 20451.50751983998 sina_0_sina_2 + 3517.27346186771 sina_0_cosa_2
-   - 3517.27346186771 cosa_0_sina_2 + 20451.50751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_22_inside_0 <= 0
- poly_2_spike_point_23_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 10118.30751983998 sina_0_sina_2
-   - 10416.07346186771 sina_0_cosa_2 + 10416.07346186771 cosa_0_sina_2
-   - 10118.30751983998 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_23_inside_0
-   <= 2e+09
- poly_2_spike_point_23_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 10118.30751983998 sina_0_sina_2 + 10416.07346186771 sina_0_cosa_2
-   - 10416.07346186771 cosa_0_sina_2 + 10118.30751983998 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_23_inside_0 <= 0
- poly_2_spike_point_24_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 - 391.1075198399803 sina_0_sina_2
-   - 16682.47346186771 sina_0_cosa_2 + 16682.47346186771 cosa_0_sina_2
-   - 391.1075198399803 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_24_inside_0
-   <= 2e+09
- poly_2_spike_point_24_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   + 391.1075198399803 sina_0_sina_2 + 16682.47346186771 sina_0_cosa_2
-   - 16682.47346186771 cosa_0_sina_2 + 391.1075198399803 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_24_inside_0 <= 0
- poly_2_spike_point_25_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 11224.89248016002 sina_0_sina_2
-   - 23515.27346186771 sina_0_cosa_2 + 23515.27346186771 cosa_0_sina_2
-   + 11224.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_25_inside_0
-   <= 2e+09
- poly_2_spike_point_25_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 11224.89248016002 sina_0_sina_2 + 23515.27346186771 sina_0_cosa_2
-   - 23515.27346186771 cosa_0_sina_2 - 11224.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_25_inside_0 <= 0
- poly_2_spike_point_26_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 21646.89248016002 sina_0_sina_2
-   - 30229.27346186771 sina_0_cosa_2 + 30229.27346186771 cosa_0_sina_2
-   + 21646.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_26_inside_0
-   <= 2e+09
- poly_2_spike_point_26_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 21646.89248016002 sina_0_sina_2 + 30229.27346186771 sina_0_cosa_2
-   - 30229.27346186771 cosa_0_sina_2 - 21646.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_26_inside_0 <= 0
- poly_2_spike_point_27_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 30952.89248016002 sina_0_sina_2
-   - 35952.07346186771 sina_0_cosa_2 + 35952.07346186771 cosa_0_sina_2
-   + 30952.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_27_inside_0
-   <= 2e+09
- poly_2_spike_point_27_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 30952.89248016002 sina_0_sina_2 + 35952.07346186771 sina_0_cosa_2
-   - 35952.07346186771 cosa_0_sina_2 - 30952.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_27_inside_0 <= 0
- poly_2_spike_point_28_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 35388.09248016001 sina_0_sina_2
-   - 38083.27346186771 sina_0_cosa_2 + 38083.27346186771 cosa_0_sina_2
-   + 35388.09248016001 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_28_inside_0
-   <= 2e+09
- poly_2_spike_point_28_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 35388.09248016001 sina_0_sina_2 + 38083.27346186771 sina_0_cosa_2
-   - 38083.27346186771 cosa_0_sina_2 - 35388.09248016001 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_28_inside_0 <= 0
- poly_2_spike_point_29_inside_0_constraint_0_true: 32361.77346186771 sina_0
-   - 32810.79248016002 cosa_0 - 37 sina_tx_0 + 77 cosa_tx_0 + 77 sina_ty_0
-   + 37 cosa_ty_0 + 40126.89248016002 sina_0_sina_2
-   - 39109.27346186771 sina_0_cosa_2 + 39109.27346186771 cosa_0_sina_2
-   + 40126.89248016002 cosa_0_cosa_2 + 37 sina_0_tx_2 - 77 sina_0_ty_2
-   - 77 cosa_0_tx_2 - 37 cosa_0_ty_2 + 2e+09 poly_2_spike_point_29_inside_0
-   <= 2e+09
- poly_2_spike_point_29_inside_0_constraint_0_false:
-   - 32361.77346186771 sina_0 + 32810.79248016002 cosa_0 + 37 sina_tx_0
-   - 77 cosa_tx_0 - 77 sina_ty_0 - 37 cosa_ty_0
-   - 40126.89248016002 sina_0_sina_2 + 39109.27346186771 sina_0_cosa_2
-   - 39109.27346186771 cosa_0_sina_2 - 40126.89248016002 cosa_0_cosa_2
-   - 37 sina_0_tx_2 + 77 sina_0_ty_2 + 77 cosa_0_tx_2 + 37 cosa_0_ty_2
-   - 2e+09 poly_2_spike_point_29_inside_0 <= 0
- poly_0_point_0_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32756.81801545545 sina_0_sina_1
-   + 49067.12524784177 sina_0_cosa_1 - 49067.12524784177 cosa_0_sina_1
-   + 32756.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_0_inside_1
-   <= 2e+09
- poly_0_point_0_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 32756.81801545545 sina_0_sina_1
-   - 49067.12524784177 sina_0_cosa_1 + 49067.12524784177 cosa_0_sina_1
-   - 32756.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_0_inside_1 <= 0
- R282: poly_0_point_0_inside_1 = 1
- poly_0_point_1_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32756.81801545545 sina_0_sina_1
-   + 45607.12524784177 sina_0_cosa_1 - 45607.12524784177 cosa_0_sina_1
-   + 32756.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_1_inside_1
-   <= 2e+09
- poly_0_point_1_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 32756.81801545545 sina_0_sina_1
-   - 45607.12524784177 sina_0_cosa_1 + 45607.12524784177 cosa_0_sina_1
-   - 32756.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_1_inside_1 <= 0
- R285: poly_0_point_1_inside_1 = 1
- poly_0_point_2_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 33236.81801545545 sina_0_sina_1
-   + 28647.12524784177 sina_0_cosa_1 - 28647.12524784177 cosa_0_sina_1
-   + 33236.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_2_inside_1
-   <= 2e+09
- poly_0_point_2_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 33236.81801545545 sina_0_sina_1
-   - 28647.12524784177 sina_0_cosa_1 + 28647.12524784177 cosa_0_sina_1
-   - 33236.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_2_inside_1 <= 0
- R288: poly_0_point_2_inside_1 = 1
- poly_0_point_3_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 33612.81801545545 sina_0_sina_1
-   + 16515.12524784177 sina_0_cosa_1 - 16515.12524784177 cosa_0_sina_1
-   + 33612.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_3_inside_1
-   <= 2e+09
- poly_0_point_3_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 33612.81801545545 sina_0_sina_1
-   - 16515.12524784177 sina_0_cosa_1 + 16515.12524784177 cosa_0_sina_1
-   - 33612.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_3_inside_1 <= 0
- R291: poly_0_point_3_inside_1 = 1
- poly_0_point_4_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 33242.81801545545 sina_0_sina_1
-   + 5945.125247841774 sina_0_cosa_1 - 5945.125247841774 cosa_0_sina_1
-   + 33242.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_4_inside_1
-   <= 2e+09
- poly_0_point_4_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 33242.81801545545 sina_0_sina_1
-   - 5945.125247841774 sina_0_cosa_1 + 5945.125247841774 cosa_0_sina_1
-   - 33242.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_4_inside_1 <= 0
- R294: poly_0_point_4_inside_1 = 1
- poly_0_point_5_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32394.81801545545 sina_0_sina_1
-   - 6188.874752158226 sina_0_cosa_1 + 6188.874752158226 cosa_0_sina_1
-   + 32394.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_5_inside_1
-   <= 2e+09
- poly_0_point_5_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 32394.81801545545 sina_0_sina_1
-   + 6188.874752158226 sina_0_cosa_1 - 6188.874752158226 cosa_0_sina_1
-   - 32394.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_5_inside_1 <= 0
- R297: poly_0_point_5_inside_1 = 1
- poly_0_point_6_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32168.81801545545 sina_0_sina_1
-   - 14926.87475215823 sina_0_cosa_1 + 14926.87475215823 cosa_0_sina_1
-   + 32168.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_6_inside_1
-   <= 2e+09
- poly_0_point_6_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 32168.81801545545 sina_0_sina_1
-   + 14926.87475215823 sina_0_cosa_1 - 14926.87475215823 cosa_0_sina_1
-   - 32168.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_6_inside_1 <= 0
- R300: poly_0_point_6_inside_1 = 1
- poly_0_point_7_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32350.81801545545 sina_0_sina_1
-   - 25970.87475215823 sina_0_cosa_1 + 25970.87475215823 cosa_0_sina_1
-   + 32350.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_7_inside_1
-   <= 2e+09
- poly_0_point_7_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 32350.81801545545 sina_0_sina_1
-   + 25970.87475215823 sina_0_cosa_1 - 25970.87475215823 cosa_0_sina_1
-   - 32350.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_7_inside_1 <= 0
- R303: poly_0_point_7_inside_1 = 1
- poly_0_point_8_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 33056.81801545545 sina_0_sina_1
-   - 32462.87475215823 sina_0_cosa_1 + 32462.87475215823 cosa_0_sina_1
-   + 33056.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_8_inside_1
-   <= 2e+09
- poly_0_point_8_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 33056.81801545545 sina_0_sina_1
-   + 32462.87475215823 sina_0_cosa_1 - 32462.87475215823 cosa_0_sina_1
-   - 33056.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_8_inside_1 <= 0
- R306: poly_0_point_8_inside_1 = 1
- poly_0_point_9_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32352.81801545545 sina_0_sina_1
-   - 35844.87475215823 sina_0_cosa_1 + 35844.87475215823 cosa_0_sina_1
-   + 32352.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_9_inside_1
-   <= 2e+09
- poly_0_point_9_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 32352.81801545545 sina_0_sina_1
-   + 35844.87475215823 sina_0_cosa_1 - 35844.87475215823 cosa_0_sina_1
-   - 32352.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_9_inside_1 <= 0
- R309: poly_0_point_9_inside_1 = 1
- poly_0_point_10_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 27634.81801545545 sina_0_sina_1
-   - 37528.87475215823 sina_0_cosa_1 + 37528.87475215823 cosa_0_sina_1
-   + 27634.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_10_inside_1
-   <= 2e+09
- poly_0_point_10_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 27634.81801545545 sina_0_sina_1
-   + 37528.87475215823 sina_0_cosa_1 - 37528.87475215823 cosa_0_sina_1
-   - 27634.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_10_inside_1 <= 0
- R312: poly_0_point_10_inside_1 = 1
- poly_0_point_11_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 21806.81801545545 sina_0_sina_1
-   - 39782.87475215823 sina_0_cosa_1 + 39782.87475215823 cosa_0_sina_1
-   + 21806.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_11_inside_1
-   <= 2e+09
- poly_0_point_11_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 21806.81801545545 sina_0_sina_1
-   + 39782.87475215823 sina_0_cosa_1 - 39782.87475215823 cosa_0_sina_1
-   - 21806.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_11_inside_1 <= 0
- R315: poly_0_point_11_inside_1 = 1
- poly_0_point_12_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 16386.81801545545 sina_0_sina_1
-   - 42612.87475215823 sina_0_cosa_1 + 42612.87475215823 cosa_0_sina_1
-   + 16386.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_12_inside_1
-   <= 2e+09
- poly_0_point_12_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 16386.81801545545 sina_0_sina_1
-   + 42612.87475215823 sina_0_cosa_1 - 42612.87475215823 cosa_0_sina_1
-   - 16386.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_12_inside_1 <= 0
- R318: poly_0_point_12_inside_1 = 1
- poly_0_point_13_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 12136.81801545545 sina_0_sina_1
-   - 40072.87475215823 sina_0_cosa_1 + 40072.87475215823 cosa_0_sina_1
-   + 12136.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_13_inside_1
-   <= 2e+09
- poly_0_point_13_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 12136.81801545545 sina_0_sina_1
-   + 40072.87475215823 sina_0_cosa_1 - 40072.87475215823 cosa_0_sina_1
-   - 12136.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_13_inside_1 <= 0
- R321: poly_0_point_13_inside_1 = 1
- poly_0_point_14_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 7880.81801545545 sina_0_sina_1
-   - 37320.87475215823 sina_0_cosa_1 + 37320.87475215823 cosa_0_sina_1
-   + 7880.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_14_inside_1
-   <= 2e+09
- poly_0_point_14_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 7880.81801545545 sina_0_sina_1
-   + 37320.87475215823 sina_0_cosa_1 - 37320.87475215823 cosa_0_sina_1
-   - 7880.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_14_inside_1 <= 0
- R324: poly_0_point_14_inside_1 = 1
- poly_0_point_15_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 2850.81801545545 sina_0_sina_1
-   - 34900.87475215823 sina_0_cosa_1 + 34900.87475215823 cosa_0_sina_1
-   + 2850.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_15_inside_1
-   <= 2e+09
- poly_0_point_15_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 2850.81801545545 sina_0_sina_1
-   + 34900.87475215823 sina_0_cosa_1 - 34900.87475215823 cosa_0_sina_1
-   - 2850.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_15_inside_1 <= 0
- R327: poly_0_point_15_inside_1 = 1
- poly_0_point_16_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 2647.181984544552 sina_0_sina_1
-   - 33244.87475215823 sina_0_cosa_1 + 33244.87475215823 cosa_0_sina_1
-   - 2647.181984544552 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_16_inside_1
-   <= 2e+09
- poly_0_point_16_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 2647.181984544552 sina_0_sina_1
-   + 33244.87475215823 sina_0_cosa_1 - 33244.87475215823 cosa_0_sina_1
-   + 2647.181984544552 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_16_inside_1 <= 0
- R330: poly_0_point_16_inside_1 = 1
- poly_0_point_17_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 8325.181984544552 sina_0_sina_1
-   - 32148.87475215823 sina_0_cosa_1 + 32148.87475215823 cosa_0_sina_1
-   - 8325.181984544552 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_17_inside_1
-   <= 2e+09
- poly_0_point_17_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 8325.181984544552 sina_0_sina_1
-   + 32148.87475215823 sina_0_cosa_1 - 32148.87475215823 cosa_0_sina_1
-   + 8325.181984544552 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_17_inside_1 <= 0
- R333: poly_0_point_17_inside_1 = 1
- poly_0_point_18_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 13993.18198454455 sina_0_sina_1
-   - 31982.87475215823 sina_0_cosa_1 + 31982.87475215823 cosa_0_sina_1
-   - 13993.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_18_inside_1
-   <= 2e+09
- poly_0_point_18_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 13993.18198454455 sina_0_sina_1
-   + 31982.87475215823 sina_0_cosa_1 - 31982.87475215823 cosa_0_sina_1
-   + 13993.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_18_inside_1 <= 0
- R336: poly_0_point_18_inside_1 = 1
- poly_0_point_19_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 18607.18198454455 sina_0_sina_1
-   - 31574.87475215823 sina_0_cosa_1 + 31574.87475215823 cosa_0_sina_1
-   - 18607.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_19_inside_1
-   <= 2e+09
- poly_0_point_19_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 18607.18198454455 sina_0_sina_1
-   + 31574.87475215823 sina_0_cosa_1 - 31574.87475215823 cosa_0_sina_1
-   + 18607.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_19_inside_1 <= 0
- R339: poly_0_point_19_inside_1 = 1
- poly_0_point_20_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 24145.18198454455 sina_0_sina_1
-   - 31388.87475215823 sina_0_cosa_1 + 31388.87475215823 cosa_0_sina_1
-   - 24145.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_20_inside_1
-   <= 2e+09
- poly_0_point_20_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 24145.18198454455 sina_0_sina_1
-   + 31388.87475215823 sina_0_cosa_1 - 31388.87475215823 cosa_0_sina_1
-   + 24145.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_20_inside_1 <= 0
- R342: poly_0_point_20_inside_1 = 1
- poly_0_point_21_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 28871.18198454455 sina_0_sina_1
-   - 31636.87475215823 sina_0_cosa_1 + 31636.87475215823 cosa_0_sina_1
-   - 28871.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_21_inside_1
-   <= 2e+09
- poly_0_point_21_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 28871.18198454455 sina_0_sina_1
-   + 31636.87475215823 sina_0_cosa_1 - 31636.87475215823 cosa_0_sina_1
-   + 28871.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_21_inside_1 <= 0
- R345: poly_0_point_21_inside_1 = 1
- poly_0_point_22_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 33927.18198454455 sina_0_sina_1
-   - 32334.87475215823 sina_0_cosa_1 + 32334.87475215823 cosa_0_sina_1
-   - 33927.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_22_inside_1
-   <= 2e+09
- poly_0_point_22_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 33927.18198454455 sina_0_sina_1
-   + 32334.87475215823 sina_0_cosa_1 - 32334.87475215823 cosa_0_sina_1
-   + 33927.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_22_inside_1 <= 0
- R348: poly_0_point_22_inside_1 = 1
- poly_0_point_23_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 35965.18198454455 sina_0_sina_1
-   - 30678.87475215823 sina_0_cosa_1 + 30678.87475215823 cosa_0_sina_1
-   - 35965.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_23_inside_1
-   <= 2e+09
- poly_0_point_23_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 35965.18198454455 sina_0_sina_1
-   + 30678.87475215823 sina_0_cosa_1 - 30678.87475215823 cosa_0_sina_1
-   + 35965.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_23_inside_1 <= 0
- R351: poly_0_point_23_inside_1 = 1
- poly_0_point_24_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 40081.18198454455 sina_0_sina_1
-   - 25376.87475215823 sina_0_cosa_1 + 25376.87475215823 cosa_0_sina_1
-   - 40081.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_24_inside_1
-   <= 2e+09
- poly_0_point_24_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 40081.18198454455 sina_0_sina_1
-   + 25376.87475215823 sina_0_cosa_1 - 25376.87475215823 cosa_0_sina_1
-   + 40081.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_24_inside_1 <= 0
- R354: poly_0_point_24_inside_1 = 1
- poly_0_point_25_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 44059.18198454455 sina_0_sina_1
-   - 19760.87475215823 sina_0_cosa_1 + 19760.87475215823 cosa_0_sina_1
-   - 44059.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_25_inside_1
-   <= 2e+09
- poly_0_point_25_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 44059.18198454455 sina_0_sina_1
-   + 19760.87475215823 sina_0_cosa_1 - 19760.87475215823 cosa_0_sina_1
-   + 44059.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_25_inside_1 <= 0
- R357: poly_0_point_25_inside_1 = 1
- poly_0_point_26_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 47501.18198454455 sina_0_sina_1
-   - 15206.87475215823 sina_0_cosa_1 + 15206.87475215823 cosa_0_sina_1
-   - 47501.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_26_inside_1
-   <= 2e+09
- poly_0_point_26_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 47501.18198454455 sina_0_sina_1
-   + 15206.87475215823 sina_0_cosa_1 - 15206.87475215823 cosa_0_sina_1
-   + 47501.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_26_inside_1 <= 0
- R360: poly_0_point_26_inside_1 = 1
- poly_0_point_27_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 52559.18198454455 sina_0_sina_1
-   - 9490.874752158226 sina_0_cosa_1 + 9490.874752158226 cosa_0_sina_1
-   - 52559.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_27_inside_1
-   <= 2e+09
- poly_0_point_27_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 52559.18198454455 sina_0_sina_1
-   + 9490.874752158226 sina_0_cosa_1 - 9490.874752158226 cosa_0_sina_1
-   + 52559.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_27_inside_1 <= 0
- R363: poly_0_point_27_inside_1 = 1
- poly_0_point_28_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 50613.18198454455 sina_0_sina_1
-   - 5012.874752158226 sina_0_cosa_1 + 5012.874752158226 cosa_0_sina_1
-   - 50613.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_28_inside_1
-   <= 2e+09
- poly_0_point_28_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 50613.18198454455 sina_0_sina_1
-   + 5012.874752158226 sina_0_cosa_1 - 5012.874752158226 cosa_0_sina_1
-   + 50613.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_28_inside_1 <= 0
- R366: poly_0_point_28_inside_1 = 1
- poly_0_point_29_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 48709.18198454455 sina_0_sina_1
-   - 780.8747521582263 sina_0_cosa_1 + 780.8747521582263 cosa_0_sina_1
-   - 48709.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_29_inside_1
-   <= 2e+09
- poly_0_point_29_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 48709.18198454455 sina_0_sina_1
-   + 780.8747521582263 sina_0_cosa_1 - 780.8747521582263 cosa_0_sina_1
-   + 48709.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_29_inside_1 <= 0
- R369: poly_0_point_29_inside_1 = 1
- poly_0_point_30_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 48431.18198454455 sina_0_sina_1
-   + 2083.125247841774 sina_0_cosa_1 - 2083.125247841774 cosa_0_sina_1
-   - 48431.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_30_inside_1
-   <= 2e+09
- poly_0_point_30_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 48431.18198454455 sina_0_sina_1
-   - 2083.125247841774 sina_0_cosa_1 + 2083.125247841774 cosa_0_sina_1
-   + 48431.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_30_inside_1 <= 0
- R372: poly_0_point_30_inside_1 = 1
- poly_0_point_31_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 43621.18198454455 sina_0_sina_1
-   + 2823.125247841774 sina_0_cosa_1 - 2823.125247841774 cosa_0_sina_1
-   - 43621.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_31_inside_1
-   <= 2e+09
- poly_0_point_31_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 43621.18198454455 sina_0_sina_1
-   - 2823.125247841774 sina_0_cosa_1 + 2823.125247841774 cosa_0_sina_1
-   + 43621.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_31_inside_1 <= 0
- R375: poly_0_point_31_inside_1 = 1
- poly_0_point_32_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 39587.18198454455 sina_0_sina_1
-   + 4455.125247841774 sina_0_cosa_1 - 4455.125247841774 cosa_0_sina_1
-   - 39587.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_32_inside_1
-   <= 2e+09
- poly_0_point_32_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 39587.18198454455 sina_0_sina_1
-   - 4455.125247841774 sina_0_cosa_1 + 4455.125247841774 cosa_0_sina_1
-   + 39587.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_32_inside_1 <= 0
- R378: poly_0_point_32_inside_1 = 1
- poly_0_point_33_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 35959.18198454455 sina_0_sina_1
-   + 7169.125247841774 sina_0_cosa_1 - 7169.125247841774 cosa_0_sina_1
-   - 35959.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_33_inside_1
-   <= 2e+09
- poly_0_point_33_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 35959.18198454455 sina_0_sina_1
-   - 7169.125247841774 sina_0_cosa_1 + 7169.125247841774 cosa_0_sina_1
-   + 35959.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_33_inside_1 <= 0
- R381: poly_0_point_33_inside_1 = 1
- poly_0_point_34_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 31771.18198454455 sina_0_sina_1
-   + 11433.12524784177 sina_0_cosa_1 - 11433.12524784177 cosa_0_sina_1
-   - 31771.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_34_inside_1
-   <= 2e+09
- poly_0_point_34_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 31771.18198454455 sina_0_sina_1
-   - 11433.12524784177 sina_0_cosa_1 + 11433.12524784177 cosa_0_sina_1
-   + 31771.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_34_inside_1 <= 0
- R384: poly_0_point_34_inside_1 = 1
- poly_0_point_35_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 28839.18198454455 sina_0_sina_1
-   + 14519.12524784177 sina_0_cosa_1 - 14519.12524784177 cosa_0_sina_1
-   - 28839.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_35_inside_1
-   <= 2e+09
- poly_0_point_35_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 28839.18198454455 sina_0_sina_1
-   - 14519.12524784177 sina_0_cosa_1 + 14519.12524784177 cosa_0_sina_1
-   + 28839.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_35_inside_1 <= 0
- R387: poly_0_point_35_inside_1 = 1
- poly_0_point_36_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 24387.18198454455 sina_0_sina_1
-   + 18105.12524784177 sina_0_cosa_1 - 18105.12524784177 cosa_0_sina_1
-   - 24387.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_36_inside_1
-   <= 2e+09
- poly_0_point_36_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 24387.18198454455 sina_0_sina_1
-   - 18105.12524784177 sina_0_cosa_1 + 18105.12524784177 cosa_0_sina_1
-   + 24387.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_36_inside_1 <= 0
- R390: poly_0_point_36_inside_1 = 1
- poly_0_point_37_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 19079.18198454455 sina_0_sina_1
-   + 22009.12524784177 sina_0_cosa_1 - 22009.12524784177 cosa_0_sina_1
-   - 19079.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_37_inside_1
-   <= 2e+09
- poly_0_point_37_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 19079.18198454455 sina_0_sina_1
-   - 22009.12524784177 sina_0_cosa_1 + 22009.12524784177 cosa_0_sina_1
-   + 19079.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_37_inside_1 <= 0
- R393: poly_0_point_37_inside_1 = 1
- poly_0_point_38_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 13853.18198454455 sina_0_sina_1
-   + 25927.12524784177 sina_0_cosa_1 - 25927.12524784177 cosa_0_sina_1
-   - 13853.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_38_inside_1
-   <= 2e+09
- poly_0_point_38_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 13853.18198454455 sina_0_sina_1
-   - 25927.12524784177 sina_0_cosa_1 + 25927.12524784177 cosa_0_sina_1
-   + 13853.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_38_inside_1 <= 0
- R396: poly_0_point_38_inside_1 = 1
- poly_0_point_39_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 11321.18198454455 sina_0_sina_1
-   + 28153.12524784177 sina_0_cosa_1 - 28153.12524784177 cosa_0_sina_1
-   - 11321.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_39_inside_1
-   <= 2e+09
- poly_0_point_39_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 11321.18198454455 sina_0_sina_1
-   - 28153.12524784177 sina_0_cosa_1 + 28153.12524784177 cosa_0_sina_1
-   + 11321.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_39_inside_1 <= 0
- R399: poly_0_point_39_inside_1 = 1
- poly_0_point_40_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 7897.18198454455 sina_0_sina_1
-   + 31155.12524784177 sina_0_cosa_1 - 31155.12524784177 cosa_0_sina_1
-   - 7897.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_40_inside_1
-   <= 2e+09
- poly_0_point_40_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 7897.18198454455 sina_0_sina_1
-   - 31155.12524784177 sina_0_cosa_1 + 31155.12524784177 cosa_0_sina_1
-   + 7897.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_40_inside_1 <= 0
- R402: poly_0_point_40_inside_1 = 1
- poly_0_point_41_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 3361.18198454455 sina_0_sina_1
-   + 35233.12524784177 sina_0_cosa_1 - 35233.12524784177 cosa_0_sina_1
-   - 3361.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_41_inside_1
-   <= 2e+09
- poly_0_point_41_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 3361.18198454455 sina_0_sina_1
-   - 35233.12524784177 sina_0_cosa_1 + 35233.12524784177 cosa_0_sina_1
-   + 3361.18198454455 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_41_inside_1 <= 0
- R405: poly_0_point_41_inside_1 = 1
- poly_0_point_42_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 329.1819845445498 sina_0_sina_1
-   + 35939.12524784177 sina_0_cosa_1 - 35939.12524784177 cosa_0_sina_1
-   - 329.1819845445498 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_42_inside_1
-   <= 2e+09
- poly_0_point_42_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 + 329.1819845445498 sina_0_sina_1
-   - 35939.12524784177 sina_0_cosa_1 + 35939.12524784177 cosa_0_sina_1
-   + 329.1819845445498 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_42_inside_1 <= 0
- R408: poly_0_point_42_inside_1 = 1
- poly_0_point_43_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 2280.81801545545 sina_0_sina_1
-   + 37139.12524784177 sina_0_cosa_1 - 37139.12524784177 cosa_0_sina_1
-   + 2280.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_43_inside_1
-   <= 2e+09
- poly_0_point_43_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 2280.81801545545 sina_0_sina_1
-   - 37139.12524784177 sina_0_cosa_1 + 37139.12524784177 cosa_0_sina_1
-   - 2280.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_43_inside_1 <= 0
- R411: poly_0_point_43_inside_1 = 1
- poly_0_point_44_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 5660.81801545545 sina_0_sina_1
-   + 39389.12524784177 sina_0_cosa_1 - 39389.12524784177 cosa_0_sina_1
-   + 5660.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_44_inside_1
-   <= 2e+09
- poly_0_point_44_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 5660.81801545545 sina_0_sina_1
-   - 39389.12524784177 sina_0_cosa_1 + 39389.12524784177 cosa_0_sina_1
-   - 5660.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_44_inside_1 <= 0
- R414: poly_0_point_44_inside_1 = 1
- poly_0_point_45_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 12840.81801545545 sina_0_sina_1
-   + 44619.12524784177 sina_0_cosa_1 - 44619.12524784177 cosa_0_sina_1
-   + 12840.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_45_inside_1
-   <= 2e+09
- poly_0_point_45_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 12840.81801545545 sina_0_sina_1
-   - 44619.12524784177 sina_0_cosa_1 + 44619.12524784177 cosa_0_sina_1
-   - 12840.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_45_inside_1 <= 0
- R417: poly_0_point_45_inside_1 = 1
- poly_0_point_46_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 18870.81801545545 sina_0_sina_1
-   + 49539.12524784177 sina_0_cosa_1 - 49539.12524784177 cosa_0_sina_1
-   + 18870.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_46_inside_1
-   <= 2e+09
- poly_0_point_46_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 18870.81801545545 sina_0_sina_1
-   - 49539.12524784177 sina_0_cosa_1 + 49539.12524784177 cosa_0_sina_1
-   - 18870.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_46_inside_1 <= 0
- R420: poly_0_point_46_inside_1 = 1
- poly_0_point_47_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 22320.81801545545 sina_0_sina_1
-   + 52199.12524784177 sina_0_cosa_1 - 52199.12524784177 cosa_0_sina_1
-   + 22320.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_47_inside_1
-   <= 2e+09
- poly_0_point_47_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 22320.81801545545 sina_0_sina_1
-   - 52199.12524784177 sina_0_cosa_1 + 52199.12524784177 cosa_0_sina_1
-   - 22320.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_47_inside_1 <= 0
- R423: poly_0_point_47_inside_1 = 1
- poly_0_point_48_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 25720.81801545545 sina_0_sina_1
-   + 50859.12524784177 sina_0_cosa_1 - 50859.12524784177 cosa_0_sina_1
-   + 25720.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_48_inside_1
-   <= 2e+09
- poly_0_point_48_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 25720.81801545545 sina_0_sina_1
-   - 50859.12524784177 sina_0_cosa_1 + 50859.12524784177 cosa_0_sina_1
-   - 25720.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_48_inside_1 <= 0
- R426: poly_0_point_48_inside_1 = 1
- poly_0_point_49_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 28268.81801545545 sina_0_sina_1
-   + 50213.12524784177 sina_0_cosa_1 - 50213.12524784177 cosa_0_sina_1
-   + 28268.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_49_inside_1
-   <= 2e+09
- poly_0_point_49_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 28268.81801545545 sina_0_sina_1
-   - 50213.12524784177 sina_0_cosa_1 + 50213.12524784177 cosa_0_sina_1
-   - 28268.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_49_inside_1 <= 0
- R429: poly_0_point_49_inside_1 = 1
- poly_0_point_50_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32756.81801545545 sina_0_sina_1
-   + 49067.12524784177 sina_0_cosa_1 - 49067.12524784177 cosa_0_sina_1
-   + 32756.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_point_50_inside_1
-   <= 2e+09
- poly_0_point_50_inside_1_constraint_0_false: - 49067.12524784177 sina_1
-   + 32756.81801545545 cosa_1 + 34 sina_tx_1 - 48 cosa_tx_1 - 48 sina_ty_1
-   - 34 cosa_ty_1 - 32756.81801545545 sina_0_sina_1
-   - 49067.12524784177 sina_0_cosa_1 + 49067.12524784177 cosa_0_sina_1
-   - 32756.81801545545 cosa_0_cosa_1 - 34 sina_1_tx_0 + 48 sina_1_ty_0
-   + 48 cosa_1_tx_0 + 34 cosa_1_ty_0 - 2e+09 poly_0_point_50_inside_1 <= 0
- R432: poly_0_point_50_inside_1 = 1
- poly_0_spike_point_0_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 37762.61801545544 sina_0_sina_1
-   + 59900.52524784177 sina_0_cosa_1 - 59900.52524784177 cosa_0_sina_1
-   + 37762.61801545544 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_0_inside_1
-   <= 2e+09
- poly_0_spike_point_0_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 37762.61801545544 sina_0_sina_1 - 59900.52524784177 sina_0_cosa_1
-   + 59900.52524784177 cosa_0_sina_1 - 37762.61801545544 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_0_inside_1 <= 0
- poly_0_spike_point_1_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 37762.61801545545 sina_0_sina_1
-   + 55748.52524784177 sina_0_cosa_1 - 55748.52524784177 cosa_0_sina_1
-   + 37762.61801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_1_inside_1
-   <= 2e+09
- poly_0_spike_point_1_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 37762.61801545545 sina_0_sina_1 - 55748.52524784177 sina_0_cosa_1
-   + 55748.52524784177 cosa_0_sina_1 - 37762.61801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_1_inside_1 <= 0
- poly_0_spike_point_2_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 38338.61801545545 sina_0_sina_1
-   + 35396.52524784177 sina_0_cosa_1 - 35396.52524784177 cosa_0_sina_1
-   + 38338.61801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_2_inside_1
-   <= 2e+09
- poly_0_spike_point_2_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 38338.61801545545 sina_0_sina_1 - 35396.52524784177 sina_0_cosa_1
-   + 35396.52524784177 cosa_0_sina_1 - 38338.61801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_2_inside_1 <= 0
- poly_0_spike_point_3_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 38789.81801545545 sina_0_sina_1
-   + 20838.12524784177 sina_0_cosa_1 - 20838.12524784177 cosa_0_sina_1
-   + 38789.81801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_3_inside_1
-   <= 2e+09
- poly_0_spike_point_3_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 38789.81801545545 sina_0_sina_1 - 20838.12524784177 sina_0_cosa_1
-   + 20838.12524784177 cosa_0_sina_1 - 38789.81801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_3_inside_1 <= 0
- poly_0_spike_point_4_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 38345.81801545544 sina_0_sina_1
-   + 8154.12524784177 sina_0_cosa_1 - 8154.12524784177 cosa_0_sina_1
-   + 38345.81801545544 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_4_inside_1
-   <= 2e+09
- poly_0_spike_point_4_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 38345.81801545544 sina_0_sina_1 - 8154.12524784177 sina_0_cosa_1
-   + 8154.12524784177 cosa_0_sina_1 - 38345.81801545544 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_4_inside_1 <= 0
- poly_0_spike_point_5_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 37328.21801545545 sina_0_sina_1
-   - 6406.674752158227 sina_0_cosa_1 + 6406.674752158227 cosa_0_sina_1
-   + 37328.21801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_5_inside_1
-   <= 2e+09
- poly_0_spike_point_5_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 37328.21801545545 sina_0_sina_1 + 6406.674752158227 sina_0_cosa_1
-   - 6406.674752158227 cosa_0_sina_1 - 37328.21801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_5_inside_1 <= 0
- poly_0_spike_point_6_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 37057.01801545545 sina_0_sina_1
-   - 16892.27475215822 sina_0_cosa_1 + 16892.27475215822 cosa_0_sina_1
-   + 37057.01801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_6_inside_1
-   <= 2e+09
- poly_0_spike_point_6_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 37057.01801545545 sina_0_sina_1 + 16892.27475215822 sina_0_cosa_1
-   - 16892.27475215822 cosa_0_sina_1 - 37057.01801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_6_inside_1 <= 0
- poly_0_spike_point_7_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 37275.41801545545 sina_0_sina_1
-   - 30145.07475215822 sina_0_cosa_1 + 30145.07475215822 cosa_0_sina_1
-   + 37275.41801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_7_inside_1
-   <= 2e+09
- poly_0_spike_point_7_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 37275.41801545545 sina_0_sina_1 + 30145.07475215822 sina_0_cosa_1
-   - 30145.07475215822 cosa_0_sina_1 - 37275.41801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_7_inside_1 <= 0
- poly_0_spike_point_8_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 38122.61801545545 sina_0_sina_1
-   - 37935.47475215822 sina_0_cosa_1 + 37935.47475215822 cosa_0_sina_1
-   + 38122.61801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_8_inside_1
-   <= 2e+09
- poly_0_spike_point_8_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 38122.61801545545 sina_0_sina_1 + 37935.47475215822 sina_0_cosa_1
-   - 37935.47475215822 cosa_0_sina_1 - 38122.61801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_8_inside_1 <= 0
- poly_0_spike_point_9_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 37277.81801545544 sina_0_sina_1
-   - 41993.87475215822 sina_0_cosa_1 + 41993.87475215822 cosa_0_sina_1
-   + 37277.81801545544 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_9_inside_1
-   <= 2e+09
- poly_0_spike_point_9_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 37277.81801545544 sina_0_sina_1 + 41993.87475215822 sina_0_cosa_1
-   - 41993.87475215822 cosa_0_sina_1 - 37277.81801545544 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_9_inside_1 <= 0
- poly_0_spike_point_10_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 31616.21801545545 sina_0_sina_1
-   - 44014.67475215823 sina_0_cosa_1 + 44014.67475215823 cosa_0_sina_1
-   + 31616.21801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_10_inside_1
-   <= 2e+09
- poly_0_spike_point_10_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 31616.21801545545 sina_0_sina_1 + 44014.67475215823 sina_0_cosa_1
-   - 44014.67475215823 cosa_0_sina_1 - 31616.21801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_10_inside_1 <= 0
- poly_0_spike_point_11_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 24622.61801545545 sina_0_sina_1
-   - 46719.47475215822 sina_0_cosa_1 + 46719.47475215822 cosa_0_sina_1
-   + 24622.61801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_11_inside_1
-   <= 2e+09
- poly_0_spike_point_11_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 24622.61801545545 sina_0_sina_1 + 46719.47475215822 sina_0_cosa_1
-   - 46719.47475215822 cosa_0_sina_1 - 24622.61801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_11_inside_1 <= 0
- poly_0_spike_point_12_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 18118.61801545545 sina_0_sina_1
-   - 50115.47475215822 sina_0_cosa_1 + 50115.47475215822 cosa_0_sina_1
-   + 18118.61801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_12_inside_1
-   <= 2e+09
- poly_0_spike_point_12_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 18118.61801545545 sina_0_sina_1 + 50115.47475215822 sina_0_cosa_1
-   - 50115.47475215822 cosa_0_sina_1 - 18118.61801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_12_inside_1 <= 0
- poly_0_spike_point_13_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 13018.61801545545 sina_0_sina_1
-   - 47067.47475215823 sina_0_cosa_1 + 47067.47475215823 cosa_0_sina_1
-   + 13018.61801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_13_inside_1
-   <= 2e+09
- poly_0_spike_point_13_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 13018.61801545545 sina_0_sina_1 + 47067.47475215823 sina_0_cosa_1
-   - 47067.47475215823 cosa_0_sina_1 - 13018.61801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_13_inside_1 <= 0
- poly_0_spike_point_14_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 7911.418015455451 sina_0_sina_1
-   - 43765.07475215823 sina_0_cosa_1 + 43765.07475215823 cosa_0_sina_1
-   + 7911.418015455451 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_14_inside_1
-   <= 2e+09
- poly_0_spike_point_14_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 7911.418015455451 sina_0_sina_1 + 43765.07475215823 sina_0_cosa_1
-   - 43765.07475215823 cosa_0_sina_1 - 7911.418015455451 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_14_inside_1 <= 0
- poly_0_spike_point_15_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 1875.418015455449 sina_0_sina_1
-   - 40861.07475215822 sina_0_cosa_1 + 40861.07475215822 cosa_0_sina_1
-   + 1875.418015455449 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_15_inside_1
-   <= 2e+09
- poly_0_spike_point_15_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 1875.418015455449 sina_0_sina_1 + 40861.07475215822 sina_0_cosa_1
-   - 40861.07475215822 cosa_0_sina_1 - 1875.418015455449 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_15_inside_1 <= 0
- poly_0_spike_point_16_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 4722.18198454455 sina_0_sina_1
-   - 38873.87475215823 sina_0_cosa_1 + 38873.87475215823 cosa_0_sina_1
-   - 4722.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_16_inside_1
-   <= 2e+09
- poly_0_spike_point_16_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 4722.18198454455 sina_0_sina_1 + 38873.87475215823 sina_0_cosa_1
-   - 38873.87475215823 cosa_0_sina_1 + 4722.18198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_16_inside_1 <= 0
- poly_0_spike_point_17_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 11535.78198454455 sina_0_sina_1
-   - 37558.67475215823 sina_0_cosa_1 + 37558.67475215823 cosa_0_sina_1
-   - 11535.78198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_17_inside_1
-   <= 2e+09
- poly_0_spike_point_17_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 11535.78198454455 sina_0_sina_1 + 37558.67475215823 sina_0_cosa_1
-   - 37558.67475215823 cosa_0_sina_1 + 11535.78198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_17_inside_1 <= 0
- poly_0_spike_point_18_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 18337.38198454455 sina_0_sina_1
-   - 37359.47475215822 sina_0_cosa_1 + 37359.47475215822 cosa_0_sina_1
-   - 18337.38198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_18_inside_1
-   <= 2e+09
- poly_0_spike_point_18_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 18337.38198454455 sina_0_sina_1 + 37359.47475215822 sina_0_cosa_1
-   - 37359.47475215822 cosa_0_sina_1 + 18337.38198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_18_inside_1 <= 0
- poly_0_spike_point_19_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 23874.18198454456 sina_0_sina_1
-   - 36869.87475215823 sina_0_cosa_1 + 36869.87475215823 cosa_0_sina_1
-   - 23874.18198454456 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_19_inside_1
-   <= 2e+09
- poly_0_spike_point_19_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 23874.18198454456 sina_0_sina_1 + 36869.87475215823 sina_0_cosa_1
-   - 36869.87475215823 cosa_0_sina_1 + 23874.18198454456 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_19_inside_1 <= 0
- poly_0_spike_point_20_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 30519.78198454456 sina_0_sina_1
-   - 36646.67475215823 sina_0_cosa_1 + 36646.67475215823 cosa_0_sina_1
-   - 30519.78198454456 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_20_inside_1
-   <= 2e+09
- poly_0_spike_point_20_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 30519.78198454456 sina_0_sina_1 + 36646.67475215823 sina_0_cosa_1
-   - 36646.67475215823 cosa_0_sina_1 + 30519.78198454456 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_20_inside_1 <= 0
- poly_0_spike_point_21_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 36190.98198454455 sina_0_sina_1
-   - 36944.27475215823 sina_0_cosa_1 + 36944.27475215823 cosa_0_sina_1
-   - 36190.98198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_21_inside_1
-   <= 2e+09
- poly_0_spike_point_21_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 36190.98198454455 sina_0_sina_1 + 36944.27475215823 sina_0_cosa_1
-   - 36944.27475215823 cosa_0_sina_1 + 36190.98198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_21_inside_1 <= 0
- poly_0_spike_point_22_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 42258.18198454456 sina_0_sina_1
-   - 37781.87475215823 sina_0_cosa_1 + 37781.87475215823 cosa_0_sina_1
-   - 42258.18198454456 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_22_inside_1
-   <= 2e+09
- poly_0_spike_point_22_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 42258.18198454456 sina_0_sina_1 + 37781.87475215823 sina_0_cosa_1
-   - 37781.87475215823 cosa_0_sina_1 + 42258.18198454456 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_22_inside_1 <= 0
- poly_0_spike_point_23_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 44703.78198454455 sina_0_sina_1
-   - 35794.67475215823 sina_0_cosa_1 + 35794.67475215823 cosa_0_sina_1
-   - 44703.78198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_23_inside_1
-   <= 2e+09
- poly_0_spike_point_23_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 44703.78198454455 sina_0_sina_1 + 35794.67475215823 sina_0_cosa_1
-   - 35794.67475215823 cosa_0_sina_1 + 44703.78198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_23_inside_1 <= 0
- poly_0_spike_point_24_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 49642.98198454455 sina_0_sina_1
-   - 29432.27475215823 sina_0_cosa_1 + 29432.27475215823 cosa_0_sina_1
-   - 49642.98198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_24_inside_1
-   <= 2e+09
- poly_0_spike_point_24_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 49642.98198454455 sina_0_sina_1 + 29432.27475215823 sina_0_cosa_1
-   - 29432.27475215823 cosa_0_sina_1 + 49642.98198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_24_inside_1 <= 0
- poly_0_spike_point_25_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 54416.58198454455 sina_0_sina_1
-   - 22693.07475215823 sina_0_cosa_1 + 22693.07475215823 cosa_0_sina_1
-   - 54416.58198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_25_inside_1
-   <= 2e+09
- poly_0_spike_point_25_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 54416.58198454455 sina_0_sina_1 + 22693.07475215823 sina_0_cosa_1
-   - 22693.07475215823 cosa_0_sina_1 + 54416.58198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_25_inside_1 <= 0
- poly_0_spike_point_26_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 58546.98198454455 sina_0_sina_1
-   - 17228.27475215823 sina_0_cosa_1 + 17228.27475215823 cosa_0_sina_1
-   - 58546.98198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_26_inside_1
-   <= 2e+09
- poly_0_spike_point_26_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 58546.98198454455 sina_0_sina_1 + 17228.27475215823 sina_0_cosa_1
-   - 17228.27475215823 cosa_0_sina_1 + 58546.98198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_26_inside_1 <= 0
- poly_0_spike_point_27_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 64616.58198454455 sina_0_sina_1
-   - 10369.07475215823 sina_0_cosa_1 + 10369.07475215823 cosa_0_sina_1
-   - 64616.58198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_27_inside_1
-   <= 2e+09
- poly_0_spike_point_27_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 64616.58198454455 sina_0_sina_1 + 10369.07475215823 sina_0_cosa_1
-   - 10369.07475215823 cosa_0_sina_1 + 64616.58198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_27_inside_1 <= 0
- poly_0_spike_point_28_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 62281.38198454455 sina_0_sina_1
-   - 4995.474752158229 sina_0_cosa_1 + 4995.474752158229 cosa_0_sina_1
-   - 62281.38198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_28_inside_1
-   <= 2e+09
- poly_0_spike_point_28_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 62281.38198454455 sina_0_sina_1 + 4995.474752158229 sina_0_cosa_1
-   - 4995.474752158229 cosa_0_sina_1 + 62281.38198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_28_inside_1 <= 0
- poly_0_spike_point_29_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 59996.58198454455 sina_0_sina_1
-   + 82.92524784177294 sina_0_cosa_1 - 82.92524784177294 cosa_0_sina_1
-   - 59996.58198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_29_inside_1
-   <= 2e+09
- poly_0_spike_point_29_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 59996.58198454455 sina_0_sina_1 - 82.92524784177294 sina_0_cosa_1
-   + 82.92524784177294 cosa_0_sina_1 + 59996.58198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_29_inside_1 <= 0
- poly_0_spike_point_30_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 59662.98198454455 sina_0_sina_1
-   + 3519.725247841769 sina_0_cosa_1 - 3519.725247841769 cosa_0_sina_1
-   - 59662.98198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_30_inside_1
-   <= 2e+09
- poly_0_spike_point_30_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 59662.98198454455 sina_0_sina_1 - 3519.725247841769 sina_0_cosa_1
-   + 3519.725247841769 cosa_0_sina_1 + 59662.98198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_30_inside_1 <= 0
- poly_0_spike_point_31_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 53890.98198454455 sina_0_sina_1
-   + 4407.725247841776 sina_0_cosa_1 - 4407.725247841776 cosa_0_sina_1
-   - 53890.98198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_31_inside_1
-   <= 2e+09
- poly_0_spike_point_31_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 53890.98198454455 sina_0_sina_1 - 4407.725247841776 sina_0_cosa_1
-   + 4407.725247841776 cosa_0_sina_1 + 53890.98198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_31_inside_1 <= 0
- poly_0_spike_point_32_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 49050.18198454455 sina_0_sina_1
-   + 6366.125247841774 sina_0_cosa_1 - 6366.125247841774 cosa_0_sina_1
-   - 49050.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_32_inside_1
-   <= 2e+09
- poly_0_spike_point_32_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 49050.18198454455 sina_0_sina_1 - 6366.125247841774 sina_0_cosa_1
-   + 6366.125247841774 cosa_0_sina_1 + 49050.18198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_32_inside_1 <= 0
- poly_0_spike_point_33_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 44696.58198454455 sina_0_sina_1
-   + 9622.925247841773 sina_0_cosa_1 - 9622.925247841773 cosa_0_sina_1
-   - 44696.58198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_33_inside_1
-   <= 2e+09
- poly_0_spike_point_33_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 44696.58198454455 sina_0_sina_1 - 9622.925247841773 sina_0_cosa_1
-   + 9622.925247841773 cosa_0_sina_1 + 44696.58198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_33_inside_1 <= 0
- poly_0_spike_point_34_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 39670.98198454455 sina_0_sina_1
-   + 14739.72524784177 sina_0_cosa_1 - 14739.72524784177 cosa_0_sina_1
-   - 39670.98198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_34_inside_1
-   <= 2e+09
- poly_0_spike_point_34_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 39670.98198454455 sina_0_sina_1 - 14739.72524784177 sina_0_cosa_1
-   + 14739.72524784177 cosa_0_sina_1 + 39670.98198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_34_inside_1 <= 0
- poly_0_spike_point_35_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 36152.58198454455 sina_0_sina_1
-   + 18442.92524784177 sina_0_cosa_1 - 18442.92524784177 cosa_0_sina_1
-   - 36152.58198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_35_inside_1
-   <= 2e+09
- poly_0_spike_point_35_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 36152.58198454455 sina_0_sina_1 - 18442.92524784177 sina_0_cosa_1
-   + 18442.92524784177 cosa_0_sina_1 + 36152.58198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_35_inside_1 <= 0
- poly_0_spike_point_36_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 30810.18198454455 sina_0_sina_1
-   + 22746.12524784177 sina_0_cosa_1 - 22746.12524784177 cosa_0_sina_1
-   - 30810.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_36_inside_1
-   <= 2e+09
- poly_0_spike_point_36_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 30810.18198454455 sina_0_sina_1 - 22746.12524784177 sina_0_cosa_1
-   + 22746.12524784177 cosa_0_sina_1 + 30810.18198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_36_inside_1 <= 0
- poly_0_spike_point_37_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 24440.58198454455 sina_0_sina_1
-   + 27430.92524784177 sina_0_cosa_1 - 27430.92524784177 cosa_0_sina_1
-   - 24440.58198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_37_inside_1
-   <= 2e+09
- poly_0_spike_point_37_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 24440.58198454455 sina_0_sina_1 - 27430.92524784177 sina_0_cosa_1
-   + 27430.92524784177 cosa_0_sina_1 + 24440.58198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_37_inside_1 <= 0
- poly_0_spike_point_38_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 18169.38198454455 sina_0_sina_1
-   + 32132.52524784177 sina_0_cosa_1 - 32132.52524784177 cosa_0_sina_1
-   - 18169.38198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_38_inside_1
-   <= 2e+09
- poly_0_spike_point_38_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 18169.38198454455 sina_0_sina_1 - 32132.52524784177 sina_0_cosa_1
-   + 32132.52524784177 cosa_0_sina_1 + 18169.38198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_38_inside_1 <= 0
- poly_0_spike_point_39_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 15130.98198454455 sina_0_sina_1
-   + 34803.72524784176 sina_0_cosa_1 - 34803.72524784176 cosa_0_sina_1
-   - 15130.98198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_39_inside_1
-   <= 2e+09
- poly_0_spike_point_39_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 15130.98198454455 sina_0_sina_1 - 34803.72524784176 sina_0_cosa_1
-   + 34803.72524784176 cosa_0_sina_1 + 15130.98198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_39_inside_1 <= 0
- poly_0_spike_point_40_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 11022.18198454455 sina_0_sina_1
-   + 38406.12524784177 sina_0_cosa_1 - 38406.12524784177 cosa_0_sina_1
-   - 11022.18198454455 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_40_inside_1
-   <= 2e+09
- poly_0_spike_point_40_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 11022.18198454455 sina_0_sina_1 - 38406.12524784177 sina_0_cosa_1
-   + 38406.12524784177 cosa_0_sina_1 + 11022.18198454455 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_40_inside_1 <= 0
- poly_0_spike_point_41_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 5578.981984544549 sina_0_sina_1
-   + 43299.72524784176 sina_0_cosa_1 - 43299.72524784176 cosa_0_sina_1
-   - 5578.981984544549 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_41_inside_1
-   <= 2e+09
- poly_0_spike_point_41_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 5578.981984544549 sina_0_sina_1 - 43299.72524784176 sina_0_cosa_1
-   + 43299.72524784176 cosa_0_sina_1 + 5578.981984544549 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_41_inside_1 <= 0
- poly_0_spike_point_42_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 - 1940.581984544548 sina_0_sina_1
-   + 44146.92524784177 sina_0_cosa_1 - 44146.92524784177 cosa_0_sina_1
-   - 1940.581984544548 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_42_inside_1
-   <= 2e+09
- poly_0_spike_point_42_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   + 1940.581984544548 sina_0_sina_1 - 44146.92524784177 sina_0_cosa_1
-   + 44146.92524784177 cosa_0_sina_1 + 1940.581984544548 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_42_inside_1 <= 0
- poly_0_spike_point_43_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 1191.418015455445 sina_0_sina_1
-   + 45586.92524784178 sina_0_cosa_1 - 45586.92524784178 cosa_0_sina_1
-   + 1191.418015455445 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_43_inside_1
-   <= 2e+09
- poly_0_spike_point_43_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 1191.418015455445 sina_0_sina_1 - 45586.92524784178 sina_0_cosa_1
-   + 45586.92524784178 cosa_0_sina_1 - 1191.418015455445 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_43_inside_1 <= 0
- poly_0_spike_point_44_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 5247.418015455449 sina_0_sina_1
-   + 48286.92524784177 sina_0_cosa_1 - 48286.92524784177 cosa_0_sina_1
-   + 5247.418015455449 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_44_inside_1
-   <= 2e+09
- poly_0_spike_point_44_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 5247.418015455449 sina_0_sina_1 - 48286.92524784177 sina_0_cosa_1
-   + 48286.92524784177 cosa_0_sina_1 - 5247.418015455449 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_44_inside_1 <= 0
- poly_0_spike_point_45_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 13863.41801545545 sina_0_sina_1
-   + 54562.92524784178 sina_0_cosa_1 - 54562.92524784178 cosa_0_sina_1
-   + 13863.41801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_45_inside_1
-   <= 2e+09
- poly_0_spike_point_45_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 13863.41801545545 sina_0_sina_1 - 54562.92524784178 sina_0_cosa_1
-   + 54562.92524784178 cosa_0_sina_1 - 13863.41801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_45_inside_1 <= 0
- poly_0_spike_point_46_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 21099.41801545545 sina_0_sina_1
-   + 60466.92524784176 sina_0_cosa_1 - 60466.92524784176 cosa_0_sina_1
-   + 21099.41801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_46_inside_1
-   <= 2e+09
- poly_0_spike_point_46_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 21099.41801545545 sina_0_sina_1 - 60466.92524784176 sina_0_cosa_1
-   + 60466.92524784176 cosa_0_sina_1 - 21099.41801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_46_inside_1 <= 0
- poly_0_spike_point_47_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 25239.41801545545 sina_0_sina_1
-   + 63658.92524784177 sina_0_cosa_1 - 63658.92524784177 cosa_0_sina_1
-   + 25239.41801545545 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_47_inside_1
-   <= 2e+09
- poly_0_spike_point_47_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 25239.41801545545 sina_0_sina_1 - 63658.92524784177 sina_0_cosa_1
-   + 63658.92524784177 cosa_0_sina_1 - 25239.41801545545 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_47_inside_1 <= 0
- poly_0_spike_point_48_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 29319.41801545544 sina_0_sina_1
-   + 62050.92524784177 sina_0_cosa_1 - 62050.92524784177 cosa_0_sina_1
-   + 29319.41801545544 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_48_inside_1
-   <= 2e+09
- poly_0_spike_point_48_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 29319.41801545544 sina_0_sina_1 - 62050.92524784177 sina_0_cosa_1
-   + 62050.92524784177 cosa_0_sina_1 - 29319.41801545544 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_48_inside_1 <= 0
- poly_0_spike_point_49_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 32377.01801545544 sina_0_sina_1
-   + 61275.72524784176 sina_0_cosa_1 - 61275.72524784176 cosa_0_sina_1
-   + 32377.01801545544 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_49_inside_1
-   <= 2e+09
- poly_0_spike_point_49_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 32377.01801545544 sina_0_sina_1 - 61275.72524784176 sina_0_cosa_1
-   + 61275.72524784176 cosa_0_sina_1 - 32377.01801545544 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_49_inside_1 <= 0
- poly_0_spike_point_50_inside_1_constraint_0_true: 49067.12524784177 sina_1
-   - 32756.81801545545 cosa_1 - 34 sina_tx_1 + 48 cosa_tx_1 + 48 sina_ty_1
-   + 34 cosa_ty_1 + 37762.61801545544 sina_0_sina_1
-   + 59900.52524784177 sina_0_cosa_1 - 59900.52524784177 cosa_0_sina_1
-   + 37762.61801545544 cosa_0_cosa_1 + 34 sina_1_tx_0 - 48 sina_1_ty_0
-   - 48 cosa_1_tx_0 - 34 cosa_1_ty_0 + 2e+09 poly_0_spike_point_50_inside_1
-   <= 2e+09
- poly_0_spike_point_50_inside_1_constraint_0_false:
-   - 49067.12524784177 sina_1 + 32756.81801545545 cosa_1 + 34 sina_tx_1
-   - 48 cosa_tx_1 - 48 sina_ty_1 - 34 cosa_ty_1
-   - 37762.61801545544 sina_0_sina_1 - 59900.52524784177 sina_0_cosa_1
-   + 59900.52524784177 cosa_0_sina_1 - 37762.61801545544 cosa_0_cosa_1
-   - 34 sina_1_tx_0 + 48 sina_1_ty_0 + 48 cosa_1_tx_0 + 34 cosa_1_ty_0
-   - 2e+09 poly_0_spike_point_50_inside_1 <= 0
- poly_2_point_0_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 32810.79248016002 sina_1_sina_2
-   - 32361.77346186771 sina_1_cosa_2 + 32361.77346186771 cosa_1_sina_2
-   + 32810.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_0_inside_1
-   <= 2e+09
- poly_2_point_0_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 32810.79248016002 sina_1_sina_2
-   + 32361.77346186771 sina_1_cosa_2 - 32361.77346186771 cosa_1_sina_2
-   - 32810.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_0_inside_1 <= 0
- R537: poly_2_point_0_inside_1 = 1
- poly_2_point_1_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 32810.79248016002 sina_1_sina_2
-   - 25063.77346186771 sina_1_cosa_2 + 25063.77346186771 cosa_1_sina_2
-   + 32810.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_1_inside_1
-   <= 2e+09
- poly_2_point_1_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 32810.79248016002 sina_1_sina_2
-   + 25063.77346186771 sina_1_cosa_2 - 25063.77346186771 cosa_1_sina_2
-   - 32810.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_1_inside_1 <= 0
- R540: poly_2_point_1_inside_1 = 1
- poly_2_point_2_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 34170.79248016002 sina_1_sina_2
-   - 21641.77346186771 sina_1_cosa_2 + 21641.77346186771 cosa_1_sina_2
-   + 34170.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_2_inside_1
-   <= 2e+09
- poly_2_point_2_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 34170.79248016002 sina_1_sina_2
-   + 21641.77346186771 sina_1_cosa_2 - 21641.77346186771 cosa_1_sina_2
-   - 34170.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_2_inside_1 <= 0
- R543: poly_2_point_2_inside_1 = 1
- poly_2_point_3_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 36159.79248016002 sina_1_sina_2
-   - 16910.77346186771 sina_1_cosa_2 + 16910.77346186771 cosa_1_sina_2
-   + 36159.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_3_inside_1
-   <= 2e+09
- poly_2_point_3_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 36159.79248016002 sina_1_sina_2
-   + 16910.77346186771 sina_1_cosa_2 - 16910.77346186771 cosa_1_sina_2
-   - 36159.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_3_inside_1 <= 0
- R546: poly_2_point_3_inside_1 = 1
- poly_2_point_4_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 39063.79248016002 sina_1_sina_2
-   - 12050.77346186771 sina_1_cosa_2 + 12050.77346186771 cosa_1_sina_2
-   + 39063.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_4_inside_1
-   <= 2e+09
- poly_2_point_4_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 39063.79248016002 sina_1_sina_2
-   + 12050.77346186771 sina_1_cosa_2 - 12050.77346186771 cosa_1_sina_2
-   - 39063.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_4_inside_1 <= 0
- R549: poly_2_point_4_inside_1 = 1
- poly_2_point_5_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 40552.79248016002 sina_1_sina_2
-   - 9543.773461867713 sina_1_cosa_2 + 9543.773461867713 cosa_1_sina_2
-   + 40552.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_5_inside_1
-   <= 2e+09
- poly_2_point_5_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 40552.79248016002 sina_1_sina_2
-   + 9543.773461867713 sina_1_cosa_2 - 9543.773461867713 cosa_1_sina_2
-   - 40552.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_5_inside_1 <= 0
- R552: poly_2_point_5_inside_1 = 1
- poly_2_point_6_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 35123.79248016002 sina_1_sina_2
-   - 4470.773461867713 sina_1_cosa_2 + 4470.773461867713 cosa_1_sina_2
-   + 35123.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_6_inside_1
-   <= 2e+09
- poly_2_point_6_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 35123.79248016002 sina_1_sina_2
-   + 4470.773461867713 sina_1_cosa_2 - 4470.773461867713 cosa_1_sina_2
-   - 35123.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_6_inside_1 <= 0
- R555: poly_2_point_6_inside_1 = 1
- poly_2_point_7_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 27581.79248016002 sina_1_sina_2
-   + 1333.226538132287 sina_1_cosa_2 - 1333.226538132287 cosa_1_sina_2
-   + 27581.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_7_inside_1
-   <= 2e+09
- poly_2_point_7_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 27581.79248016002 sina_1_sina_2
-   - 1333.226538132287 sina_1_cosa_2 + 1333.226538132287 cosa_1_sina_2
-   - 27581.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_7_inside_1 <= 0
- R558: poly_2_point_7_inside_1 = 1
- poly_2_point_8_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 18970.79248016002 sina_1_sina_2
-   + 7082.226538132288 sina_1_cosa_2 - 7082.226538132288 cosa_1_sina_2
-   + 18970.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_8_inside_1
-   <= 2e+09
- poly_2_point_8_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 18970.79248016002 sina_1_sina_2
-   - 7082.226538132288 sina_1_cosa_2 + 7082.226538132288 cosa_1_sina_2
-   - 18970.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_8_inside_1 <= 0
- R561: poly_2_point_8_inside_1 = 1
- poly_2_point_9_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 11954.79248016002 sina_1_sina_2
-   + 11022.22653813229 sina_1_cosa_2 - 11022.22653813229 cosa_1_sina_2
-   + 11954.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_9_inside_1
-   <= 2e+09
- poly_2_point_9_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 11954.79248016002 sina_1_sina_2
-   - 11022.22653813229 sina_1_cosa_2 + 11022.22653813229 cosa_1_sina_2
-   - 11954.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_9_inside_1 <= 0
- R564: poly_2_point_9_inside_1 = 1
- poly_2_point_10_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 3801.792480160019 sina_1_sina_2
-   + 14371.22653813229 sina_1_cosa_2 - 14371.22653813229 cosa_1_sina_2
-   + 3801.792480160019 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_10_inside_1
-   <= 2e+09
- poly_2_point_10_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 3801.792480160019 sina_1_sina_2
-   - 14371.22653813229 sina_1_cosa_2 + 14371.22653813229 cosa_1_sina_2
-   - 3801.792480160019 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_10_inside_1 <= 0
- R567: poly_2_point_10_inside_1 = 1
- poly_2_point_11_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 6276.20751983998 sina_1_sina_2
-   + 18645.22653813229 sina_1_cosa_2 - 18645.22653813229 cosa_1_sina_2
-   - 6276.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_11_inside_1
-   <= 2e+09
- poly_2_point_11_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 6276.20751983998 sina_1_sina_2
-   - 18645.22653813229 sina_1_cosa_2 + 18645.22653813229 cosa_1_sina_2
-   + 6276.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_11_inside_1 <= 0
- R570: poly_2_point_11_inside_1 = 1
- poly_2_point_12_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 16093.20751983998 sina_1_sina_2
-   + 20898.22653813229 sina_1_cosa_2 - 20898.22653813229 cosa_1_sina_2
-   - 16093.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_12_inside_1
-   <= 2e+09
- poly_2_point_12_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 16093.20751983998 sina_1_sina_2
-   - 20898.22653813229 sina_1_cosa_2 + 20898.22653813229 cosa_1_sina_2
-   + 16093.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_12_inside_1 <= 0
- R573: poly_2_point_12_inside_1 = 1
- poly_2_point_13_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 25214.20751983998 sina_1_sina_2
-   + 22627.22653813229 sina_1_cosa_2 - 22627.22653813229 cosa_1_sina_2
-   - 25214.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_13_inside_1
-   <= 2e+09
- poly_2_point_13_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 25214.20751983998 sina_1_sina_2
-   - 22627.22653813229 sina_1_cosa_2 + 22627.22653813229 cosa_1_sina_2
-   + 25214.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_13_inside_1 <= 0
- R576: poly_2_point_13_inside_1 = 1
- poly_2_point_14_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 32632.20751983998 sina_1_sina_2
-   + 22969.22653813229 sina_1_cosa_2 - 22969.22653813229 cosa_1_sina_2
-   - 32632.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_14_inside_1
-   <= 2e+09
- poly_2_point_14_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 32632.20751983998 sina_1_sina_2
-   - 22969.22653813229 sina_1_cosa_2 + 22969.22653813229 cosa_1_sina_2
-   + 32632.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_14_inside_1 <= 0
- R579: poly_2_point_14_inside_1 = 1
- poly_2_point_15_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 38796.20751983998 sina_1_sina_2
-   + 23751.22653813229 sina_1_cosa_2 - 23751.22653813229 cosa_1_sina_2
-   - 38796.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_15_inside_1
-   <= 2e+09
- poly_2_point_15_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 38796.20751983998 sina_1_sina_2
-   - 23751.22653813229 sina_1_cosa_2 + 23751.22653813229 cosa_1_sina_2
-   + 38796.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_15_inside_1 <= 0
- R582: poly_2_point_15_inside_1 = 1
- poly_2_point_16_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 44720.20751983998 sina_1_sina_2
-   + 23849.22653813229 sina_1_cosa_2 - 23849.22653813229 cosa_1_sina_2
-   - 44720.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_16_inside_1
-   <= 2e+09
- poly_2_point_16_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 44720.20751983998 sina_1_sina_2
-   - 23849.22653813229 sina_1_cosa_2 + 23849.22653813229 cosa_1_sina_2
-   + 44720.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_16_inside_1 <= 0
- R585: poly_2_point_16_inside_1 = 1
- poly_2_point_17_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 47454.20751983998 sina_1_sina_2
-   + 20329.22653813229 sina_1_cosa_2 - 20329.22653813229 cosa_1_sina_2
-   - 47454.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_17_inside_1
-   <= 2e+09
- poly_2_point_17_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 47454.20751983998 sina_1_sina_2
-   - 20329.22653813229 sina_1_cosa_2 + 20329.22653813229 cosa_1_sina_2
-   + 47454.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_17_inside_1 <= 0
- R588: poly_2_point_17_inside_1 = 1
- poly_2_point_18_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 49563.20751983998 sina_1_sina_2
-   + 15940.22653813229 sina_1_cosa_2 - 15940.22653813229 cosa_1_sina_2
-   - 49563.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_18_inside_1
-   <= 2e+09
- poly_2_point_18_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 49563.20751983998 sina_1_sina_2
-   - 15940.22653813229 sina_1_cosa_2 + 15940.22653813229 cosa_1_sina_2
-   + 49563.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_18_inside_1 <= 0
- R591: poly_2_point_18_inside_1 = 1
- poly_2_point_19_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 40721.20751983998 sina_1_sina_2
-   + 10080.22653813229 sina_1_cosa_2 - 10080.22653813229 cosa_1_sina_2
-   - 40721.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_19_inside_1
-   <= 2e+09
- poly_2_point_19_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 40721.20751983998 sina_1_sina_2
-   - 10080.22653813229 sina_1_cosa_2 + 10080.22653813229 cosa_1_sina_2
-   + 40721.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_19_inside_1 <= 0
- R594: poly_2_point_19_inside_1 = 1
- poly_2_point_20_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 33080.20751983998 sina_1_sina_2
-   + 5271.226538132287 sina_1_cosa_2 - 5271.226538132287 cosa_1_sina_2
-   - 33080.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_20_inside_1
-   <= 2e+09
- poly_2_point_20_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 33080.20751983998 sina_1_sina_2
-   - 5271.226538132287 sina_1_cosa_2 + 5271.226538132287 cosa_1_sina_2
-   + 33080.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_20_inside_1 <= 0
- R597: poly_2_point_20_inside_1 = 1
- poly_2_point_21_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 25491.20751983998 sina_1_sina_2
-   + 1340.226538132287 sina_1_cosa_2 - 1340.226538132287 cosa_1_sina_2
-   - 25491.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_21_inside_1
-   <= 2e+09
- poly_2_point_21_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 25491.20751983998 sina_1_sina_2
-   - 1340.226538132287 sina_1_cosa_2 + 1340.226538132287 cosa_1_sina_2
-   + 25491.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_21_inside_1 <= 0
- R600: poly_2_point_21_inside_1 = 1
- poly_2_point_22_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 17671.20751983998 sina_1_sina_2
-   - 2701.773461867712 sina_1_cosa_2 + 2701.773461867712 cosa_1_sina_2
-   - 17671.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_22_inside_1
-   <= 2e+09
- poly_2_point_22_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 17671.20751983998 sina_1_sina_2
-   + 2701.773461867712 sina_1_cosa_2 - 2701.773461867712 cosa_1_sina_2
-   + 17671.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_22_inside_1 <= 0
- R603: poly_2_point_22_inside_1 = 1
- poly_2_point_23_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 9060.20751983998 sina_1_sina_2
-   - 8450.773461867713 sina_1_cosa_2 + 8450.773461867713 cosa_1_sina_2
-   - 9060.20751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_23_inside_1
-   <= 2e+09
- poly_2_point_23_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 9060.20751983998 sina_1_sina_2
-   + 8450.773461867713 sina_1_cosa_2 - 8450.773461867713 cosa_1_sina_2
-   + 9060.20751983998 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_23_inside_1 <= 0
- R606: poly_2_point_23_inside_1 = 1
- poly_2_point_24_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 954.2075198399807 sina_1_sina_2
-   - 13672.77346186771 sina_1_cosa_2 + 13672.77346186771 cosa_1_sina_2
-   - 954.2075198399807 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_24_inside_1
-   <= 2e+09
- poly_2_point_24_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 + 954.2075198399807 sina_1_sina_2
-   + 13672.77346186771 sina_1_cosa_2 - 13672.77346186771 cosa_1_sina_2
-   + 954.2075198399807 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_24_inside_1 <= 0
- R609: poly_2_point_24_inside_1 = 1
- poly_2_point_25_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 8725.79248016002 sina_1_sina_2
-   - 19366.77346186771 sina_1_cosa_2 + 19366.77346186771 cosa_1_sina_2
-   + 8725.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_25_inside_1
-   <= 2e+09
- poly_2_point_25_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 8725.79248016002 sina_1_sina_2
-   + 19366.77346186771 sina_1_cosa_2 - 19366.77346186771 cosa_1_sina_2
-   - 8725.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_25_inside_1 <= 0
- R612: poly_2_point_25_inside_1 = 1
- poly_2_point_26_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 17410.79248016002 sina_1_sina_2
-   - 24961.77346186771 sina_1_cosa_2 + 24961.77346186771 cosa_1_sina_2
-   + 17410.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_26_inside_1
-   <= 2e+09
- poly_2_point_26_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 17410.79248016002 sina_1_sina_2
-   + 24961.77346186771 sina_1_cosa_2 - 24961.77346186771 cosa_1_sina_2
-   - 17410.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_26_inside_1 <= 0
- R615: poly_2_point_26_inside_1 = 1
- poly_2_point_27_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 25165.79248016002 sina_1_sina_2
-   - 29730.77346186771 sina_1_cosa_2 + 29730.77346186771 cosa_1_sina_2
-   + 25165.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_27_inside_1
-   <= 2e+09
- poly_2_point_27_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 25165.79248016002 sina_1_sina_2
-   + 29730.77346186771 sina_1_cosa_2 - 29730.77346186771 cosa_1_sina_2
-   - 25165.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_27_inside_1 <= 0
- R618: poly_2_point_27_inside_1 = 1
- poly_2_point_28_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 28861.79248016002 sina_1_sina_2
-   - 31506.77346186771 sina_1_cosa_2 + 31506.77346186771 cosa_1_sina_2
-   + 28861.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_28_inside_1
-   <= 2e+09
- poly_2_point_28_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 28861.79248016002 sina_1_sina_2
-   + 31506.77346186771 sina_1_cosa_2 - 31506.77346186771 cosa_1_sina_2
-   - 28861.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_28_inside_1 <= 0
- R621: poly_2_point_28_inside_1 = 1
- poly_2_point_29_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 32810.79248016002 sina_1_sina_2
-   - 32361.77346186771 sina_1_cosa_2 + 32361.77346186771 cosa_1_sina_2
-   + 32810.79248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_point_29_inside_1
-   <= 2e+09
- poly_2_point_29_inside_1_constraint_0_false: - 32361.77346186771 sina_1
-   + 32810.79248016002 cosa_1 + 37 sina_tx_1 - 77 cosa_tx_1 - 77 sina_ty_1
-   - 37 cosa_ty_1 - 32810.79248016002 sina_1_sina_2
-   + 32361.77346186771 sina_1_cosa_2 - 32361.77346186771 cosa_1_sina_2
-   - 32810.79248016002 cosa_1_cosa_2 - 37 sina_1_tx_2 + 77 sina_1_ty_2
-   + 77 cosa_1_tx_2 + 37 cosa_1_ty_2 - 2e+09 poly_2_point_29_inside_1 <= 0
- R624: poly_2_point_29_inside_1 = 1
- poly_2_spike_point_0_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 40126.89248016002 sina_1_sina_2
-   - 39109.27346186771 sina_1_cosa_2 + 39109.27346186771 cosa_1_sina_2
-   + 40126.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_0_inside_1
-   <= 2e+09
- poly_2_spike_point_0_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 40126.89248016002 sina_1_sina_2 + 39109.27346186771 sina_1_cosa_2
-   - 39109.27346186771 cosa_1_sina_2 - 40126.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_0_inside_1 <= 0
- poly_2_spike_point_1_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 40126.89248016002 sina_1_sina_2
-   - 30351.67346186771 sina_1_cosa_2 + 30351.67346186771 cosa_1_sina_2
-   + 40126.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_1_inside_1
-   <= 2e+09
- poly_2_spike_point_1_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 40126.89248016002 sina_1_sina_2 + 30351.67346186771 sina_1_cosa_2
-   - 30351.67346186771 cosa_1_sina_2 - 40126.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_1_inside_1 <= 0
- poly_2_spike_point_2_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 41758.89248016002 sina_1_sina_2
-   - 26245.27346186771 sina_1_cosa_2 + 26245.27346186771 cosa_1_sina_2
-   + 41758.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_2_inside_1
-   <= 2e+09
- poly_2_spike_point_2_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 41758.89248016002 sina_1_sina_2 + 26245.27346186771 sina_1_cosa_2
-   - 26245.27346186771 cosa_1_sina_2 - 41758.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_2_inside_1 <= 0
- poly_2_spike_point_3_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 44145.69248016002 sina_1_sina_2
-   - 20568.07346186771 sina_1_cosa_2 + 20568.07346186771 cosa_1_sina_2
-   + 44145.69248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_3_inside_1
-   <= 2e+09
- poly_2_spike_point_3_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 44145.69248016002 sina_1_sina_2 + 20568.07346186771 sina_1_cosa_2
-   - 20568.07346186771 cosa_1_sina_2 - 44145.69248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_3_inside_1 <= 0
- poly_2_spike_point_4_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 47630.49248016001 sina_1_sina_2
-   - 14736.07346186771 sina_1_cosa_2 + 14736.07346186771 cosa_1_sina_2
-   + 47630.49248016001 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_4_inside_1
-   <= 2e+09
- poly_2_spike_point_4_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 47630.49248016001 sina_1_sina_2 + 14736.07346186771 sina_1_cosa_2
-   - 14736.07346186771 cosa_1_sina_2 - 47630.49248016001 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_4_inside_1 <= 0
- poly_2_spike_point_5_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 49417.29248016002 sina_1_sina_2
-   - 11727.67346186771 sina_1_cosa_2 + 11727.67346186771 cosa_1_sina_2
-   + 49417.29248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_5_inside_1
-   <= 2e+09
- poly_2_spike_point_5_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 49417.29248016002 sina_1_sina_2 + 11727.67346186771 sina_1_cosa_2
-   - 11727.67346186771 cosa_1_sina_2 - 49417.29248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_5_inside_1 <= 0
- poly_2_spike_point_6_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 42902.49248016001 sina_1_sina_2
-   - 5640.073461867709 sina_1_cosa_2 + 5640.073461867709 cosa_1_sina_2
-   + 42902.49248016001 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_6_inside_1
-   <= 2e+09
- poly_2_spike_point_6_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 42902.49248016001 sina_1_sina_2 + 5640.073461867709 sina_1_cosa_2
-   - 5640.073461867709 cosa_1_sina_2 - 42902.49248016001 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_6_inside_1 <= 0
- poly_2_spike_point_7_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 33852.09248016002 sina_1_sina_2
-   + 1324.72653813229 sina_1_cosa_2 - 1324.72653813229 cosa_1_sina_2
-   + 33852.09248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_7_inside_1
-   <= 2e+09
- poly_2_spike_point_7_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 33852.09248016002 sina_1_sina_2 - 1324.72653813229 sina_1_cosa_2
-   + 1324.72653813229 cosa_1_sina_2 - 33852.09248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_7_inside_1 <= 0
- poly_2_spike_point_8_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 23518.89248016002 sina_1_sina_2
-   + 8223.52653813229 sina_1_cosa_2 - 8223.52653813229 cosa_1_sina_2
-   + 23518.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_8_inside_1
-   <= 2e+09
- poly_2_spike_point_8_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 23518.89248016002 sina_1_sina_2 - 8223.52653813229 sina_1_cosa_2
-   + 8223.52653813229 cosa_1_sina_2 - 23518.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_8_inside_1 <= 0
- poly_2_spike_point_9_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 15099.69248016002 sina_1_sina_2
-   + 12951.52653813229 sina_1_cosa_2 - 12951.52653813229 cosa_1_sina_2
-   + 15099.69248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_9_inside_1
-   <= 2e+09
- poly_2_spike_point_9_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 15099.69248016002 sina_1_sina_2 - 12951.52653813229 sina_1_cosa_2
-   + 12951.52653813229 cosa_1_sina_2 - 15099.69248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_9_inside_1 <= 0
- poly_2_spike_point_10_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 5316.092480160019 sina_1_sina_2
-   + 16970.32653813229 sina_1_cosa_2 - 16970.32653813229 cosa_1_sina_2
-   + 5316.092480160019 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_10_inside_1
-   <= 2e+09
- poly_2_spike_point_10_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 5316.092480160019 sina_1_sina_2 - 16970.32653813229 sina_1_cosa_2
-   + 16970.32653813229 cosa_1_sina_2 - 5316.092480160019 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_10_inside_1 <= 0
- poly_2_spike_point_11_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 6777.507519839979 sina_1_sina_2
-   + 22099.12653813229 sina_1_cosa_2 - 22099.12653813229 cosa_1_sina_2
-   - 6777.507519839979 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_11_inside_1
-   <= 2e+09
- poly_2_spike_point_11_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 6777.507519839979 sina_1_sina_2 - 22099.12653813229 sina_1_cosa_2
-   + 22099.12653813229 cosa_1_sina_2 + 6777.507519839979 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_11_inside_1 <= 0
- poly_2_spike_point_12_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 18557.90751983998 sina_1_sina_2
-   + 24802.72653813229 sina_1_cosa_2 - 24802.72653813229 cosa_1_sina_2
-   - 18557.90751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_12_inside_1
-   <= 2e+09
- poly_2_spike_point_12_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 18557.90751983998 sina_1_sina_2 - 24802.72653813229 sina_1_cosa_2
-   + 24802.72653813229 cosa_1_sina_2 + 18557.90751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_12_inside_1 <= 0
- poly_2_spike_point_13_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 29503.10751983998 sina_1_sina_2
-   + 26877.52653813229 sina_1_cosa_2 - 26877.52653813229 cosa_1_sina_2
-   - 29503.10751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_13_inside_1
-   <= 2e+09
- poly_2_spike_point_13_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 29503.10751983998 sina_1_sina_2 - 26877.52653813229 sina_1_cosa_2
-   + 26877.52653813229 cosa_1_sina_2 + 29503.10751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_13_inside_1 <= 0
- poly_2_spike_point_14_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 38404.70751983998 sina_1_sina_2
-   + 27287.92653813228 sina_1_cosa_2 - 27287.92653813228 cosa_1_sina_2
-   - 38404.70751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_14_inside_1
-   <= 2e+09
- poly_2_spike_point_14_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 38404.70751983998 sina_1_sina_2 - 27287.92653813228 sina_1_cosa_2
-   + 27287.92653813228 cosa_1_sina_2 + 38404.70751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_14_inside_1 <= 0
- poly_2_spike_point_15_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 45801.50751983998 sina_1_sina_2
-   + 28226.32653813229 sina_1_cosa_2 - 28226.32653813229 cosa_1_sina_2
-   - 45801.50751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_15_inside_1
-   <= 2e+09
- poly_2_spike_point_15_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 45801.50751983998 sina_1_sina_2 - 28226.32653813229 sina_1_cosa_2
-   + 28226.32653813229 cosa_1_sina_2 + 45801.50751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_15_inside_1 <= 0
- poly_2_spike_point_16_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 52910.30751983998 sina_1_sina_2
-   + 28343.92653813229 sina_1_cosa_2 - 28343.92653813229 cosa_1_sina_2
-   - 52910.30751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_16_inside_1
-   <= 2e+09
- poly_2_spike_point_16_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 52910.30751983998 sina_1_sina_2 - 28343.92653813229 sina_1_cosa_2
-   + 28343.92653813229 cosa_1_sina_2 + 52910.30751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_16_inside_1 <= 0
- poly_2_spike_point_17_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 56191.10751983998 sina_1_sina_2
-   + 24119.92653813229 sina_1_cosa_2 - 24119.92653813229 cosa_1_sina_2
-   - 56191.10751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_17_inside_1
-   <= 2e+09
- poly_2_spike_point_17_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 56191.10751983998 sina_1_sina_2 - 24119.92653813229 sina_1_cosa_2
-   + 24119.92653813229 cosa_1_sina_2 + 56191.10751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_17_inside_1 <= 0
- poly_2_spike_point_18_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 58721.90751983998 sina_1_sina_2
-   + 18853.12653813229 sina_1_cosa_2 - 18853.12653813229 cosa_1_sina_2
-   - 58721.90751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_18_inside_1
-   <= 2e+09
- poly_2_spike_point_18_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 58721.90751983998 sina_1_sina_2 - 18853.12653813229 sina_1_cosa_2
-   + 18853.12653813229 cosa_1_sina_2 + 58721.90751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_18_inside_1 <= 0
- poly_2_spike_point_19_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 48111.50751983997 sina_1_sina_2
-   + 11821.12653813229 sina_1_cosa_2 - 11821.12653813229 cosa_1_sina_2
-   - 48111.50751983997 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_19_inside_1
-   <= 2e+09
- poly_2_spike_point_19_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 48111.50751983997 sina_1_sina_2 - 11821.12653813229 sina_1_cosa_2
-   + 11821.12653813229 cosa_1_sina_2 + 48111.50751983997 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_19_inside_1 <= 0
- poly_2_spike_point_20_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 38942.30751983998 sina_1_sina_2
-   + 6050.326538132291 sina_1_cosa_2 - 6050.326538132291 cosa_1_sina_2
-   - 38942.30751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_20_inside_1
-   <= 2e+09
- poly_2_spike_point_20_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 38942.30751983998 sina_1_sina_2 - 6050.326538132291 sina_1_cosa_2
-   + 6050.326538132291 cosa_1_sina_2 + 38942.30751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_20_inside_1 <= 0
- poly_2_spike_point_21_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 29835.50751983998 sina_1_sina_2
-   + 1333.12653813229 sina_1_cosa_2 - 1333.12653813229 cosa_1_sina_2
-   - 29835.50751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_21_inside_1
-   <= 2e+09
- poly_2_spike_point_21_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 29835.50751983998 sina_1_sina_2 - 1333.12653813229 sina_1_cosa_2
-   + 1333.12653813229 cosa_1_sina_2 + 29835.50751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_21_inside_1 <= 0
- poly_2_spike_point_22_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 20451.50751983998 sina_1_sina_2
-   - 3517.27346186771 sina_1_cosa_2 + 3517.27346186771 cosa_1_sina_2
-   - 20451.50751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_22_inside_1
-   <= 2e+09
- poly_2_spike_point_22_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 20451.50751983998 sina_1_sina_2 + 3517.27346186771 sina_1_cosa_2
-   - 3517.27346186771 cosa_1_sina_2 + 20451.50751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_22_inside_1 <= 0
- poly_2_spike_point_23_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 10118.30751983998 sina_1_sina_2
-   - 10416.07346186771 sina_1_cosa_2 + 10416.07346186771 cosa_1_sina_2
-   - 10118.30751983998 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_23_inside_1
-   <= 2e+09
- poly_2_spike_point_23_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 10118.30751983998 sina_1_sina_2 + 10416.07346186771 sina_1_cosa_2
-   - 10416.07346186771 cosa_1_sina_2 + 10118.30751983998 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_23_inside_1 <= 0
- poly_2_spike_point_24_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 - 391.1075198399803 sina_1_sina_2
-   - 16682.47346186771 sina_1_cosa_2 + 16682.47346186771 cosa_1_sina_2
-   - 391.1075198399803 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_24_inside_1
-   <= 2e+09
- poly_2_spike_point_24_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   + 391.1075198399803 sina_1_sina_2 + 16682.47346186771 sina_1_cosa_2
-   - 16682.47346186771 cosa_1_sina_2 + 391.1075198399803 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_24_inside_1 <= 0
- poly_2_spike_point_25_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 11224.89248016002 sina_1_sina_2
-   - 23515.27346186771 sina_1_cosa_2 + 23515.27346186771 cosa_1_sina_2
-   + 11224.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_25_inside_1
-   <= 2e+09
- poly_2_spike_point_25_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 11224.89248016002 sina_1_sina_2 + 23515.27346186771 sina_1_cosa_2
-   - 23515.27346186771 cosa_1_sina_2 - 11224.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_25_inside_1 <= 0
- poly_2_spike_point_26_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 21646.89248016002 sina_1_sina_2
-   - 30229.27346186771 sina_1_cosa_2 + 30229.27346186771 cosa_1_sina_2
-   + 21646.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_26_inside_1
-   <= 2e+09
- poly_2_spike_point_26_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 21646.89248016002 sina_1_sina_2 + 30229.27346186771 sina_1_cosa_2
-   - 30229.27346186771 cosa_1_sina_2 - 21646.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_26_inside_1 <= 0
- poly_2_spike_point_27_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 30952.89248016002 sina_1_sina_2
-   - 35952.07346186771 sina_1_cosa_2 + 35952.07346186771 cosa_1_sina_2
-   + 30952.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_27_inside_1
-   <= 2e+09
- poly_2_spike_point_27_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 30952.89248016002 sina_1_sina_2 + 35952.07346186771 sina_1_cosa_2
-   - 35952.07346186771 cosa_1_sina_2 - 30952.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_27_inside_1 <= 0
- poly_2_spike_point_28_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 35388.09248016001 sina_1_sina_2
-   - 38083.27346186771 sina_1_cosa_2 + 38083.27346186771 cosa_1_sina_2
-   + 35388.09248016001 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_28_inside_1
-   <= 2e+09
- poly_2_spike_point_28_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 35388.09248016001 sina_1_sina_2 + 38083.27346186771 sina_1_cosa_2
-   - 38083.27346186771 cosa_1_sina_2 - 35388.09248016001 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_28_inside_1 <= 0
- poly_2_spike_point_29_inside_1_constraint_0_true: 32361.77346186771 sina_1
-   - 32810.79248016002 cosa_1 - 37 sina_tx_1 + 77 cosa_tx_1 + 77 sina_ty_1
-   + 37 cosa_ty_1 + 40126.89248016002 sina_1_sina_2
-   - 39109.27346186771 sina_1_cosa_2 + 39109.27346186771 cosa_1_sina_2
-   + 40126.89248016002 cosa_1_cosa_2 + 37 sina_1_tx_2 - 77 sina_1_ty_2
-   - 77 cosa_1_tx_2 - 37 cosa_1_ty_2 + 2e+09 poly_2_spike_point_29_inside_1
-   <= 2e+09
- poly_2_spike_point_29_inside_1_constraint_0_false:
-   - 32361.77346186771 sina_1 + 32810.79248016002 cosa_1 + 37 sina_tx_1
-   - 77 cosa_tx_1 - 77 sina_ty_1 - 37 cosa_ty_1
-   - 40126.89248016002 sina_1_sina_2 + 39109.27346186771 sina_1_cosa_2
-   - 39109.27346186771 cosa_1_sina_2 - 40126.89248016002 cosa_1_cosa_2
-   - 37 sina_1_tx_2 + 77 sina_1_ty_2 + 77 cosa_1_tx_2 + 37 cosa_1_ty_2
-   - 2e+09 poly_2_spike_point_29_inside_1 <= 0
- poly_0_point_0_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32756.81801545545 sina_0_sina_2
-   + 49067.12524784177 sina_0_cosa_2 - 49067.12524784177 cosa_0_sina_2
-   + 32756.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_0_inside_2
-   <= 2e+09
- poly_0_point_0_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 32756.81801545545 sina_0_sina_2
-   - 49067.12524784177 sina_0_cosa_2 + 49067.12524784177 cosa_0_sina_2
-   - 32756.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_0_inside_2 <= 0
- R687: poly_0_point_0_inside_2 = 1
- poly_0_point_1_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32756.81801545545 sina_0_sina_2
-   + 45607.12524784177 sina_0_cosa_2 - 45607.12524784177 cosa_0_sina_2
-   + 32756.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_1_inside_2
-   <= 2e+09
- poly_0_point_1_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 32756.81801545545 sina_0_sina_2
-   - 45607.12524784177 sina_0_cosa_2 + 45607.12524784177 cosa_0_sina_2
-   - 32756.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_1_inside_2 <= 0
- R690: poly_0_point_1_inside_2 = 1
- poly_0_point_2_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 33236.81801545545 sina_0_sina_2
-   + 28647.12524784177 sina_0_cosa_2 - 28647.12524784177 cosa_0_sina_2
-   + 33236.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_2_inside_2
-   <= 2e+09
- poly_0_point_2_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 33236.81801545545 sina_0_sina_2
-   - 28647.12524784177 sina_0_cosa_2 + 28647.12524784177 cosa_0_sina_2
-   - 33236.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_2_inside_2 <= 0
- R693: poly_0_point_2_inside_2 = 1
- poly_0_point_3_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 33612.81801545545 sina_0_sina_2
-   + 16515.12524784177 sina_0_cosa_2 - 16515.12524784177 cosa_0_sina_2
-   + 33612.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_3_inside_2
-   <= 2e+09
- poly_0_point_3_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 33612.81801545545 sina_0_sina_2
-   - 16515.12524784177 sina_0_cosa_2 + 16515.12524784177 cosa_0_sina_2
-   - 33612.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_3_inside_2 <= 0
- R696: poly_0_point_3_inside_2 = 1
- poly_0_point_4_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 33242.81801545545 sina_0_sina_2
-   + 5945.125247841774 sina_0_cosa_2 - 5945.125247841774 cosa_0_sina_2
-   + 33242.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_4_inside_2
-   <= 2e+09
- poly_0_point_4_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 33242.81801545545 sina_0_sina_2
-   - 5945.125247841774 sina_0_cosa_2 + 5945.125247841774 cosa_0_sina_2
-   - 33242.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_4_inside_2 <= 0
- R699: poly_0_point_4_inside_2 = 1
- poly_0_point_5_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32394.81801545545 sina_0_sina_2
-   - 6188.874752158226 sina_0_cosa_2 + 6188.874752158226 cosa_0_sina_2
-   + 32394.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_5_inside_2
-   <= 2e+09
- poly_0_point_5_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 32394.81801545545 sina_0_sina_2
-   + 6188.874752158226 sina_0_cosa_2 - 6188.874752158226 cosa_0_sina_2
-   - 32394.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_5_inside_2 <= 0
- R702: poly_0_point_5_inside_2 = 1
- poly_0_point_6_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32168.81801545545 sina_0_sina_2
-   - 14926.87475215823 sina_0_cosa_2 + 14926.87475215823 cosa_0_sina_2
-   + 32168.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_6_inside_2
-   <= 2e+09
- poly_0_point_6_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 32168.81801545545 sina_0_sina_2
-   + 14926.87475215823 sina_0_cosa_2 - 14926.87475215823 cosa_0_sina_2
-   - 32168.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_6_inside_2 <= 0
- R705: poly_0_point_6_inside_2 = 1
- poly_0_point_7_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32350.81801545545 sina_0_sina_2
-   - 25970.87475215823 sina_0_cosa_2 + 25970.87475215823 cosa_0_sina_2
-   + 32350.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_7_inside_2
-   <= 2e+09
- poly_0_point_7_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 32350.81801545545 sina_0_sina_2
-   + 25970.87475215823 sina_0_cosa_2 - 25970.87475215823 cosa_0_sina_2
-   - 32350.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_7_inside_2 <= 0
- R708: poly_0_point_7_inside_2 = 1
- poly_0_point_8_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 33056.81801545545 sina_0_sina_2
-   - 32462.87475215823 sina_0_cosa_2 + 32462.87475215823 cosa_0_sina_2
-   + 33056.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_8_inside_2
-   <= 2e+09
- poly_0_point_8_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 33056.81801545545 sina_0_sina_2
-   + 32462.87475215823 sina_0_cosa_2 - 32462.87475215823 cosa_0_sina_2
-   - 33056.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_8_inside_2 <= 0
- R711: poly_0_point_8_inside_2 = 1
- poly_0_point_9_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32352.81801545545 sina_0_sina_2
-   - 35844.87475215823 sina_0_cosa_2 + 35844.87475215823 cosa_0_sina_2
-   + 32352.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_9_inside_2
-   <= 2e+09
- poly_0_point_9_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 32352.81801545545 sina_0_sina_2
-   + 35844.87475215823 sina_0_cosa_2 - 35844.87475215823 cosa_0_sina_2
-   - 32352.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_9_inside_2 <= 0
- R714: poly_0_point_9_inside_2 = 1
- poly_0_point_10_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 27634.81801545545 sina_0_sina_2
-   - 37528.87475215823 sina_0_cosa_2 + 37528.87475215823 cosa_0_sina_2
-   + 27634.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_10_inside_2
-   <= 2e+09
- poly_0_point_10_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 27634.81801545545 sina_0_sina_2
-   + 37528.87475215823 sina_0_cosa_2 - 37528.87475215823 cosa_0_sina_2
-   - 27634.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_10_inside_2 <= 0
- R717: poly_0_point_10_inside_2 = 1
- poly_0_point_11_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 21806.81801545545 sina_0_sina_2
-   - 39782.87475215823 sina_0_cosa_2 + 39782.87475215823 cosa_0_sina_2
-   + 21806.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_11_inside_2
-   <= 2e+09
- poly_0_point_11_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 21806.81801545545 sina_0_sina_2
-   + 39782.87475215823 sina_0_cosa_2 - 39782.87475215823 cosa_0_sina_2
-   - 21806.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_11_inside_2 <= 0
- R720: poly_0_point_11_inside_2 = 1
- poly_0_point_12_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 16386.81801545545 sina_0_sina_2
-   - 42612.87475215823 sina_0_cosa_2 + 42612.87475215823 cosa_0_sina_2
-   + 16386.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_12_inside_2
-   <= 2e+09
- poly_0_point_12_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 16386.81801545545 sina_0_sina_2
-   + 42612.87475215823 sina_0_cosa_2 - 42612.87475215823 cosa_0_sina_2
-   - 16386.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_12_inside_2 <= 0
- R723: poly_0_point_12_inside_2 = 1
- poly_0_point_13_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 12136.81801545545 sina_0_sina_2
-   - 40072.87475215823 sina_0_cosa_2 + 40072.87475215823 cosa_0_sina_2
-   + 12136.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_13_inside_2
-   <= 2e+09
- poly_0_point_13_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 12136.81801545545 sina_0_sina_2
-   + 40072.87475215823 sina_0_cosa_2 - 40072.87475215823 cosa_0_sina_2
-   - 12136.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_13_inside_2 <= 0
- R726: poly_0_point_13_inside_2 = 1
- poly_0_point_14_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 7880.81801545545 sina_0_sina_2
-   - 37320.87475215823 sina_0_cosa_2 + 37320.87475215823 cosa_0_sina_2
-   + 7880.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_14_inside_2
-   <= 2e+09
- poly_0_point_14_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 7880.81801545545 sina_0_sina_2
-   + 37320.87475215823 sina_0_cosa_2 - 37320.87475215823 cosa_0_sina_2
-   - 7880.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_14_inside_2 <= 0
- R729: poly_0_point_14_inside_2 = 1
- poly_0_point_15_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 2850.81801545545 sina_0_sina_2
-   - 34900.87475215823 sina_0_cosa_2 + 34900.87475215823 cosa_0_sina_2
-   + 2850.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_15_inside_2
-   <= 2e+09
- poly_0_point_15_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 2850.81801545545 sina_0_sina_2
-   + 34900.87475215823 sina_0_cosa_2 - 34900.87475215823 cosa_0_sina_2
-   - 2850.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_15_inside_2 <= 0
- R732: poly_0_point_15_inside_2 = 1
- poly_0_point_16_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 2647.181984544552 sina_0_sina_2
-   - 33244.87475215823 sina_0_cosa_2 + 33244.87475215823 cosa_0_sina_2
-   - 2647.181984544552 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_16_inside_2
-   <= 2e+09
- poly_0_point_16_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 2647.181984544552 sina_0_sina_2
-   + 33244.87475215823 sina_0_cosa_2 - 33244.87475215823 cosa_0_sina_2
-   + 2647.181984544552 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_16_inside_2 <= 0
- R735: poly_0_point_16_inside_2 = 1
- poly_0_point_17_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 8325.181984544552 sina_0_sina_2
-   - 32148.87475215823 sina_0_cosa_2 + 32148.87475215823 cosa_0_sina_2
-   - 8325.181984544552 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_17_inside_2
-   <= 2e+09
- poly_0_point_17_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 8325.181984544552 sina_0_sina_2
-   + 32148.87475215823 sina_0_cosa_2 - 32148.87475215823 cosa_0_sina_2
-   + 8325.181984544552 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_17_inside_2 <= 0
- R738: poly_0_point_17_inside_2 = 1
- poly_0_point_18_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 13993.18198454455 sina_0_sina_2
-   - 31982.87475215823 sina_0_cosa_2 + 31982.87475215823 cosa_0_sina_2
-   - 13993.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_18_inside_2
-   <= 2e+09
- poly_0_point_18_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 13993.18198454455 sina_0_sina_2
-   + 31982.87475215823 sina_0_cosa_2 - 31982.87475215823 cosa_0_sina_2
-   + 13993.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_18_inside_2 <= 0
- R741: poly_0_point_18_inside_2 = 1
- poly_0_point_19_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 18607.18198454455 sina_0_sina_2
-   - 31574.87475215823 sina_0_cosa_2 + 31574.87475215823 cosa_0_sina_2
-   - 18607.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_19_inside_2
-   <= 2e+09
- poly_0_point_19_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 18607.18198454455 sina_0_sina_2
-   + 31574.87475215823 sina_0_cosa_2 - 31574.87475215823 cosa_0_sina_2
-   + 18607.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_19_inside_2 <= 0
- R744: poly_0_point_19_inside_2 = 1
- poly_0_point_20_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 24145.18198454455 sina_0_sina_2
-   - 31388.87475215823 sina_0_cosa_2 + 31388.87475215823 cosa_0_sina_2
-   - 24145.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_20_inside_2
-   <= 2e+09
- poly_0_point_20_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 24145.18198454455 sina_0_sina_2
-   + 31388.87475215823 sina_0_cosa_2 - 31388.87475215823 cosa_0_sina_2
-   + 24145.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_20_inside_2 <= 0
- R747: poly_0_point_20_inside_2 = 1
- poly_0_point_21_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 28871.18198454455 sina_0_sina_2
-   - 31636.87475215823 sina_0_cosa_2 + 31636.87475215823 cosa_0_sina_2
-   - 28871.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_21_inside_2
-   <= 2e+09
- poly_0_point_21_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 28871.18198454455 sina_0_sina_2
-   + 31636.87475215823 sina_0_cosa_2 - 31636.87475215823 cosa_0_sina_2
-   + 28871.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_21_inside_2 <= 0
- R750: poly_0_point_21_inside_2 = 1
- poly_0_point_22_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 33927.18198454455 sina_0_sina_2
-   - 32334.87475215823 sina_0_cosa_2 + 32334.87475215823 cosa_0_sina_2
-   - 33927.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_22_inside_2
-   <= 2e+09
- poly_0_point_22_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 33927.18198454455 sina_0_sina_2
-   + 32334.87475215823 sina_0_cosa_2 - 32334.87475215823 cosa_0_sina_2
-   + 33927.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_22_inside_2 <= 0
- R753: poly_0_point_22_inside_2 = 1
- poly_0_point_23_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 35965.18198454455 sina_0_sina_2
-   - 30678.87475215823 sina_0_cosa_2 + 30678.87475215823 cosa_0_sina_2
-   - 35965.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_23_inside_2
-   <= 2e+09
- poly_0_point_23_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 35965.18198454455 sina_0_sina_2
-   + 30678.87475215823 sina_0_cosa_2 - 30678.87475215823 cosa_0_sina_2
-   + 35965.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_23_inside_2 <= 0
- R756: poly_0_point_23_inside_2 = 1
- poly_0_point_24_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 40081.18198454455 sina_0_sina_2
-   - 25376.87475215823 sina_0_cosa_2 + 25376.87475215823 cosa_0_sina_2
-   - 40081.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_24_inside_2
-   <= 2e+09
- poly_0_point_24_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 40081.18198454455 sina_0_sina_2
-   + 25376.87475215823 sina_0_cosa_2 - 25376.87475215823 cosa_0_sina_2
-   + 40081.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_24_inside_2 <= 0
- R759: poly_0_point_24_inside_2 = 1
- poly_0_point_25_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 44059.18198454455 sina_0_sina_2
-   - 19760.87475215823 sina_0_cosa_2 + 19760.87475215823 cosa_0_sina_2
-   - 44059.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_25_inside_2
-   <= 2e+09
- poly_0_point_25_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 44059.18198454455 sina_0_sina_2
-   + 19760.87475215823 sina_0_cosa_2 - 19760.87475215823 cosa_0_sina_2
-   + 44059.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_25_inside_2 <= 0
- R762: poly_0_point_25_inside_2 = 1
- poly_0_point_26_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 47501.18198454455 sina_0_sina_2
-   - 15206.87475215823 sina_0_cosa_2 + 15206.87475215823 cosa_0_sina_2
-   - 47501.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_26_inside_2
-   <= 2e+09
- poly_0_point_26_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 47501.18198454455 sina_0_sina_2
-   + 15206.87475215823 sina_0_cosa_2 - 15206.87475215823 cosa_0_sina_2
-   + 47501.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_26_inside_2 <= 0
- R765: poly_0_point_26_inside_2 = 1
- poly_0_point_27_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 52559.18198454455 sina_0_sina_2
-   - 9490.874752158226 sina_0_cosa_2 + 9490.874752158226 cosa_0_sina_2
-   - 52559.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_27_inside_2
-   <= 2e+09
- poly_0_point_27_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 52559.18198454455 sina_0_sina_2
-   + 9490.874752158226 sina_0_cosa_2 - 9490.874752158226 cosa_0_sina_2
-   + 52559.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_27_inside_2 <= 0
- R768: poly_0_point_27_inside_2 = 1
- poly_0_point_28_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 50613.18198454455 sina_0_sina_2
-   - 5012.874752158226 sina_0_cosa_2 + 5012.874752158226 cosa_0_sina_2
-   - 50613.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_28_inside_2
-   <= 2e+09
- poly_0_point_28_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 50613.18198454455 sina_0_sina_2
-   + 5012.874752158226 sina_0_cosa_2 - 5012.874752158226 cosa_0_sina_2
-   + 50613.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_28_inside_2 <= 0
- R771: poly_0_point_28_inside_2 = 1
- poly_0_point_29_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 48709.18198454455 sina_0_sina_2
-   - 780.8747521582263 sina_0_cosa_2 + 780.8747521582263 cosa_0_sina_2
-   - 48709.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_29_inside_2
-   <= 2e+09
- poly_0_point_29_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 48709.18198454455 sina_0_sina_2
-   + 780.8747521582263 sina_0_cosa_2 - 780.8747521582263 cosa_0_sina_2
-   + 48709.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_29_inside_2 <= 0
- R774: poly_0_point_29_inside_2 = 1
- poly_0_point_30_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 48431.18198454455 sina_0_sina_2
-   + 2083.125247841774 sina_0_cosa_2 - 2083.125247841774 cosa_0_sina_2
-   - 48431.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_30_inside_2
-   <= 2e+09
- poly_0_point_30_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 48431.18198454455 sina_0_sina_2
-   - 2083.125247841774 sina_0_cosa_2 + 2083.125247841774 cosa_0_sina_2
-   + 48431.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_30_inside_2 <= 0
- R777: poly_0_point_30_inside_2 = 1
- poly_0_point_31_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 43621.18198454455 sina_0_sina_2
-   + 2823.125247841774 sina_0_cosa_2 - 2823.125247841774 cosa_0_sina_2
-   - 43621.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_31_inside_2
-   <= 2e+09
- poly_0_point_31_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 43621.18198454455 sina_0_sina_2
-   - 2823.125247841774 sina_0_cosa_2 + 2823.125247841774 cosa_0_sina_2
-   + 43621.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_31_inside_2 <= 0
- R780: poly_0_point_31_inside_2 = 1
- poly_0_point_32_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 39587.18198454455 sina_0_sina_2
-   + 4455.125247841774 sina_0_cosa_2 - 4455.125247841774 cosa_0_sina_2
-   - 39587.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_32_inside_2
-   <= 2e+09
- poly_0_point_32_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 39587.18198454455 sina_0_sina_2
-   - 4455.125247841774 sina_0_cosa_2 + 4455.125247841774 cosa_0_sina_2
-   + 39587.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_32_inside_2 <= 0
- R783: poly_0_point_32_inside_2 = 1
- poly_0_point_33_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 35959.18198454455 sina_0_sina_2
-   + 7169.125247841774 sina_0_cosa_2 - 7169.125247841774 cosa_0_sina_2
-   - 35959.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_33_inside_2
-   <= 2e+09
- poly_0_point_33_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 35959.18198454455 sina_0_sina_2
-   - 7169.125247841774 sina_0_cosa_2 + 7169.125247841774 cosa_0_sina_2
-   + 35959.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_33_inside_2 <= 0
- R786: poly_0_point_33_inside_2 = 1
- poly_0_point_34_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 31771.18198454455 sina_0_sina_2
-   + 11433.12524784177 sina_0_cosa_2 - 11433.12524784177 cosa_0_sina_2
-   - 31771.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_34_inside_2
-   <= 2e+09
- poly_0_point_34_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 31771.18198454455 sina_0_sina_2
-   - 11433.12524784177 sina_0_cosa_2 + 11433.12524784177 cosa_0_sina_2
-   + 31771.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_34_inside_2 <= 0
- R789: poly_0_point_34_inside_2 = 1
- poly_0_point_35_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 28839.18198454455 sina_0_sina_2
-   + 14519.12524784177 sina_0_cosa_2 - 14519.12524784177 cosa_0_sina_2
-   - 28839.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_35_inside_2
-   <= 2e+09
- poly_0_point_35_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 28839.18198454455 sina_0_sina_2
-   - 14519.12524784177 sina_0_cosa_2 + 14519.12524784177 cosa_0_sina_2
-   + 28839.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_35_inside_2 <= 0
- R792: poly_0_point_35_inside_2 = 1
- poly_0_point_36_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 24387.18198454455 sina_0_sina_2
-   + 18105.12524784177 sina_0_cosa_2 - 18105.12524784177 cosa_0_sina_2
-   - 24387.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_36_inside_2
-   <= 2e+09
- poly_0_point_36_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 24387.18198454455 sina_0_sina_2
-   - 18105.12524784177 sina_0_cosa_2 + 18105.12524784177 cosa_0_sina_2
-   + 24387.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_36_inside_2 <= 0
- R795: poly_0_point_36_inside_2 = 1
- poly_0_point_37_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 19079.18198454455 sina_0_sina_2
-   + 22009.12524784177 sina_0_cosa_2 - 22009.12524784177 cosa_0_sina_2
-   - 19079.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_37_inside_2
-   <= 2e+09
- poly_0_point_37_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 19079.18198454455 sina_0_sina_2
-   - 22009.12524784177 sina_0_cosa_2 + 22009.12524784177 cosa_0_sina_2
-   + 19079.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_37_inside_2 <= 0
- R798: poly_0_point_37_inside_2 = 1
- poly_0_point_38_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 13853.18198454455 sina_0_sina_2
-   + 25927.12524784177 sina_0_cosa_2 - 25927.12524784177 cosa_0_sina_2
-   - 13853.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_38_inside_2
-   <= 2e+09
- poly_0_point_38_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 13853.18198454455 sina_0_sina_2
-   - 25927.12524784177 sina_0_cosa_2 + 25927.12524784177 cosa_0_sina_2
-   + 13853.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_38_inside_2 <= 0
- R801: poly_0_point_38_inside_2 = 1
- poly_0_point_39_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 11321.18198454455 sina_0_sina_2
-   + 28153.12524784177 sina_0_cosa_2 - 28153.12524784177 cosa_0_sina_2
-   - 11321.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_39_inside_2
-   <= 2e+09
- poly_0_point_39_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 11321.18198454455 sina_0_sina_2
-   - 28153.12524784177 sina_0_cosa_2 + 28153.12524784177 cosa_0_sina_2
-   + 11321.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_39_inside_2 <= 0
- R804: poly_0_point_39_inside_2 = 1
- poly_0_point_40_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 7897.18198454455 sina_0_sina_2
-   + 31155.12524784177 sina_0_cosa_2 - 31155.12524784177 cosa_0_sina_2
-   - 7897.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_40_inside_2
-   <= 2e+09
- poly_0_point_40_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 7897.18198454455 sina_0_sina_2
-   - 31155.12524784177 sina_0_cosa_2 + 31155.12524784177 cosa_0_sina_2
-   + 7897.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_40_inside_2 <= 0
- R807: poly_0_point_40_inside_2 = 1
- poly_0_point_41_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 3361.18198454455 sina_0_sina_2
-   + 35233.12524784177 sina_0_cosa_2 - 35233.12524784177 cosa_0_sina_2
-   - 3361.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_41_inside_2
-   <= 2e+09
- poly_0_point_41_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 3361.18198454455 sina_0_sina_2
-   - 35233.12524784177 sina_0_cosa_2 + 35233.12524784177 cosa_0_sina_2
-   + 3361.18198454455 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_41_inside_2 <= 0
- R810: poly_0_point_41_inside_2 = 1
- poly_0_point_42_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 329.1819845445498 sina_0_sina_2
-   + 35939.12524784177 sina_0_cosa_2 - 35939.12524784177 cosa_0_sina_2
-   - 329.1819845445498 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_42_inside_2
-   <= 2e+09
- poly_0_point_42_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 + 329.1819845445498 sina_0_sina_2
-   - 35939.12524784177 sina_0_cosa_2 + 35939.12524784177 cosa_0_sina_2
-   + 329.1819845445498 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_42_inside_2 <= 0
- R813: poly_0_point_42_inside_2 = 1
- poly_0_point_43_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 2280.81801545545 sina_0_sina_2
-   + 37139.12524784177 sina_0_cosa_2 - 37139.12524784177 cosa_0_sina_2
-   + 2280.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_43_inside_2
-   <= 2e+09
- poly_0_point_43_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 2280.81801545545 sina_0_sina_2
-   - 37139.12524784177 sina_0_cosa_2 + 37139.12524784177 cosa_0_sina_2
-   - 2280.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_43_inside_2 <= 0
- R816: poly_0_point_43_inside_2 = 1
- poly_0_point_44_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 5660.81801545545 sina_0_sina_2
-   + 39389.12524784177 sina_0_cosa_2 - 39389.12524784177 cosa_0_sina_2
-   + 5660.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_44_inside_2
-   <= 2e+09
- poly_0_point_44_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 5660.81801545545 sina_0_sina_2
-   - 39389.12524784177 sina_0_cosa_2 + 39389.12524784177 cosa_0_sina_2
-   - 5660.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_44_inside_2 <= 0
- R819: poly_0_point_44_inside_2 = 1
- poly_0_point_45_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 12840.81801545545 sina_0_sina_2
-   + 44619.12524784177 sina_0_cosa_2 - 44619.12524784177 cosa_0_sina_2
-   + 12840.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_45_inside_2
-   <= 2e+09
- poly_0_point_45_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 12840.81801545545 sina_0_sina_2
-   - 44619.12524784177 sina_0_cosa_2 + 44619.12524784177 cosa_0_sina_2
-   - 12840.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_45_inside_2 <= 0
- R822: poly_0_point_45_inside_2 = 1
- poly_0_point_46_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 18870.81801545545 sina_0_sina_2
-   + 49539.12524784177 sina_0_cosa_2 - 49539.12524784177 cosa_0_sina_2
-   + 18870.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_46_inside_2
-   <= 2e+09
- poly_0_point_46_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 18870.81801545545 sina_0_sina_2
-   - 49539.12524784177 sina_0_cosa_2 + 49539.12524784177 cosa_0_sina_2
-   - 18870.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_46_inside_2 <= 0
- R825: poly_0_point_46_inside_2 = 1
- poly_0_point_47_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 22320.81801545545 sina_0_sina_2
-   + 52199.12524784177 sina_0_cosa_2 - 52199.12524784177 cosa_0_sina_2
-   + 22320.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_47_inside_2
-   <= 2e+09
- poly_0_point_47_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 22320.81801545545 sina_0_sina_2
-   - 52199.12524784177 sina_0_cosa_2 + 52199.12524784177 cosa_0_sina_2
-   - 22320.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_47_inside_2 <= 0
- R828: poly_0_point_47_inside_2 = 1
- poly_0_point_48_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 25720.81801545545 sina_0_sina_2
-   + 50859.12524784177 sina_0_cosa_2 - 50859.12524784177 cosa_0_sina_2
-   + 25720.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_48_inside_2
-   <= 2e+09
- poly_0_point_48_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 25720.81801545545 sina_0_sina_2
-   - 50859.12524784177 sina_0_cosa_2 + 50859.12524784177 cosa_0_sina_2
-   - 25720.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_48_inside_2 <= 0
- R831: poly_0_point_48_inside_2 = 1
- poly_0_point_49_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 28268.81801545545 sina_0_sina_2
-   + 50213.12524784177 sina_0_cosa_2 - 50213.12524784177 cosa_0_sina_2
-   + 28268.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_49_inside_2
-   <= 2e+09
- poly_0_point_49_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 28268.81801545545 sina_0_sina_2
-   - 50213.12524784177 sina_0_cosa_2 + 50213.12524784177 cosa_0_sina_2
-   - 28268.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_49_inside_2 <= 0
- R834: poly_0_point_49_inside_2 = 1
- poly_0_point_50_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32756.81801545545 sina_0_sina_2
-   + 49067.12524784177 sina_0_cosa_2 - 49067.12524784177 cosa_0_sina_2
-   + 32756.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_point_50_inside_2
-   <= 2e+09
- poly_0_point_50_inside_2_constraint_0_false: - 49067.12524784177 sina_2
-   + 32756.81801545545 cosa_2 + 34 sina_tx_2 - 48 cosa_tx_2 - 48 sina_ty_2
-   - 34 cosa_ty_2 - 32756.81801545545 sina_0_sina_2
-   - 49067.12524784177 sina_0_cosa_2 + 49067.12524784177 cosa_0_sina_2
-   - 32756.81801545545 cosa_0_cosa_2 - 34 sina_2_tx_0 + 48 sina_2_ty_0
-   + 48 cosa_2_tx_0 + 34 cosa_2_ty_0 - 2e+09 poly_0_point_50_inside_2 <= 0
- R837: poly_0_point_50_inside_2 = 1
- poly_0_spike_point_0_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 37762.61801545544 sina_0_sina_2
-   + 59900.52524784177 sina_0_cosa_2 - 59900.52524784177 cosa_0_sina_2
-   + 37762.61801545544 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_0_inside_2
-   <= 2e+09
- poly_0_spike_point_0_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 37762.61801545544 sina_0_sina_2 - 59900.52524784177 sina_0_cosa_2
-   + 59900.52524784177 cosa_0_sina_2 - 37762.61801545544 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_0_inside_2 <= 0
- poly_0_spike_point_1_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 37762.61801545545 sina_0_sina_2
-   + 55748.52524784177 sina_0_cosa_2 - 55748.52524784177 cosa_0_sina_2
-   + 37762.61801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_1_inside_2
-   <= 2e+09
- poly_0_spike_point_1_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 37762.61801545545 sina_0_sina_2 - 55748.52524784177 sina_0_cosa_2
-   + 55748.52524784177 cosa_0_sina_2 - 37762.61801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_1_inside_2 <= 0
- poly_0_spike_point_2_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 38338.61801545545 sina_0_sina_2
-   + 35396.52524784177 sina_0_cosa_2 - 35396.52524784177 cosa_0_sina_2
-   + 38338.61801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_2_inside_2
-   <= 2e+09
- poly_0_spike_point_2_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 38338.61801545545 sina_0_sina_2 - 35396.52524784177 sina_0_cosa_2
-   + 35396.52524784177 cosa_0_sina_2 - 38338.61801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_2_inside_2 <= 0
- poly_0_spike_point_3_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 38789.81801545545 sina_0_sina_2
-   + 20838.12524784177 sina_0_cosa_2 - 20838.12524784177 cosa_0_sina_2
-   + 38789.81801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_3_inside_2
-   <= 2e+09
- poly_0_spike_point_3_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 38789.81801545545 sina_0_sina_2 - 20838.12524784177 sina_0_cosa_2
-   + 20838.12524784177 cosa_0_sina_2 - 38789.81801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_3_inside_2 <= 0
- poly_0_spike_point_4_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 38345.81801545544 sina_0_sina_2
-   + 8154.12524784177 sina_0_cosa_2 - 8154.12524784177 cosa_0_sina_2
-   + 38345.81801545544 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_4_inside_2
-   <= 2e+09
- poly_0_spike_point_4_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 38345.81801545544 sina_0_sina_2 - 8154.12524784177 sina_0_cosa_2
-   + 8154.12524784177 cosa_0_sina_2 - 38345.81801545544 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_4_inside_2 <= 0
- poly_0_spike_point_5_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 37328.21801545545 sina_0_sina_2
-   - 6406.674752158227 sina_0_cosa_2 + 6406.674752158227 cosa_0_sina_2
-   + 37328.21801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_5_inside_2
-   <= 2e+09
- poly_0_spike_point_5_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 37328.21801545545 sina_0_sina_2 + 6406.674752158227 sina_0_cosa_2
-   - 6406.674752158227 cosa_0_sina_2 - 37328.21801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_5_inside_2 <= 0
- poly_0_spike_point_6_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 37057.01801545545 sina_0_sina_2
-   - 16892.27475215822 sina_0_cosa_2 + 16892.27475215822 cosa_0_sina_2
-   + 37057.01801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_6_inside_2
-   <= 2e+09
- poly_0_spike_point_6_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 37057.01801545545 sina_0_sina_2 + 16892.27475215822 sina_0_cosa_2
-   - 16892.27475215822 cosa_0_sina_2 - 37057.01801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_6_inside_2 <= 0
- poly_0_spike_point_7_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 37275.41801545545 sina_0_sina_2
-   - 30145.07475215822 sina_0_cosa_2 + 30145.07475215822 cosa_0_sina_2
-   + 37275.41801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_7_inside_2
-   <= 2e+09
- poly_0_spike_point_7_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 37275.41801545545 sina_0_sina_2 + 30145.07475215822 sina_0_cosa_2
-   - 30145.07475215822 cosa_0_sina_2 - 37275.41801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_7_inside_2 <= 0
- poly_0_spike_point_8_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 38122.61801545545 sina_0_sina_2
-   - 37935.47475215822 sina_0_cosa_2 + 37935.47475215822 cosa_0_sina_2
-   + 38122.61801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_8_inside_2
-   <= 2e+09
- poly_0_spike_point_8_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 38122.61801545545 sina_0_sina_2 + 37935.47475215822 sina_0_cosa_2
-   - 37935.47475215822 cosa_0_sina_2 - 38122.61801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_8_inside_2 <= 0
- poly_0_spike_point_9_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 37277.81801545544 sina_0_sina_2
-   - 41993.87475215822 sina_0_cosa_2 + 41993.87475215822 cosa_0_sina_2
-   + 37277.81801545544 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_9_inside_2
-   <= 2e+09
- poly_0_spike_point_9_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 37277.81801545544 sina_0_sina_2 + 41993.87475215822 sina_0_cosa_2
-   - 41993.87475215822 cosa_0_sina_2 - 37277.81801545544 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_9_inside_2 <= 0
- poly_0_spike_point_10_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 31616.21801545545 sina_0_sina_2
-   - 44014.67475215823 sina_0_cosa_2 + 44014.67475215823 cosa_0_sina_2
-   + 31616.21801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_10_inside_2
-   <= 2e+09
- poly_0_spike_point_10_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 31616.21801545545 sina_0_sina_2 + 44014.67475215823 sina_0_cosa_2
-   - 44014.67475215823 cosa_0_sina_2 - 31616.21801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_10_inside_2 <= 0
- poly_0_spike_point_11_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 24622.61801545545 sina_0_sina_2
-   - 46719.47475215822 sina_0_cosa_2 + 46719.47475215822 cosa_0_sina_2
-   + 24622.61801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_11_inside_2
-   <= 2e+09
- poly_0_spike_point_11_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 24622.61801545545 sina_0_sina_2 + 46719.47475215822 sina_0_cosa_2
-   - 46719.47475215822 cosa_0_sina_2 - 24622.61801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_11_inside_2 <= 0
- poly_0_spike_point_12_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 18118.61801545545 sina_0_sina_2
-   - 50115.47475215822 sina_0_cosa_2 + 50115.47475215822 cosa_0_sina_2
-   + 18118.61801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_12_inside_2
-   <= 2e+09
- poly_0_spike_point_12_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 18118.61801545545 sina_0_sina_2 + 50115.47475215822 sina_0_cosa_2
-   - 50115.47475215822 cosa_0_sina_2 - 18118.61801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_12_inside_2 <= 0
- poly_0_spike_point_13_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 13018.61801545545 sina_0_sina_2
-   - 47067.47475215823 sina_0_cosa_2 + 47067.47475215823 cosa_0_sina_2
-   + 13018.61801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_13_inside_2
-   <= 2e+09
- poly_0_spike_point_13_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 13018.61801545545 sina_0_sina_2 + 47067.47475215823 sina_0_cosa_2
-   - 47067.47475215823 cosa_0_sina_2 - 13018.61801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_13_inside_2 <= 0
- poly_0_spike_point_14_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 7911.418015455451 sina_0_sina_2
-   - 43765.07475215823 sina_0_cosa_2 + 43765.07475215823 cosa_0_sina_2
-   + 7911.418015455451 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_14_inside_2
-   <= 2e+09
- poly_0_spike_point_14_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 7911.418015455451 sina_0_sina_2 + 43765.07475215823 sina_0_cosa_2
-   - 43765.07475215823 cosa_0_sina_2 - 7911.418015455451 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_14_inside_2 <= 0
- poly_0_spike_point_15_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 1875.418015455449 sina_0_sina_2
-   - 40861.07475215822 sina_0_cosa_2 + 40861.07475215822 cosa_0_sina_2
-   + 1875.418015455449 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_15_inside_2
-   <= 2e+09
- poly_0_spike_point_15_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 1875.418015455449 sina_0_sina_2 + 40861.07475215822 sina_0_cosa_2
-   - 40861.07475215822 cosa_0_sina_2 - 1875.418015455449 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_15_inside_2 <= 0
- poly_0_spike_point_16_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 4722.18198454455 sina_0_sina_2
-   - 38873.87475215823 sina_0_cosa_2 + 38873.87475215823 cosa_0_sina_2
-   - 4722.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_16_inside_2
-   <= 2e+09
- poly_0_spike_point_16_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 4722.18198454455 sina_0_sina_2 + 38873.87475215823 sina_0_cosa_2
-   - 38873.87475215823 cosa_0_sina_2 + 4722.18198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_16_inside_2 <= 0
- poly_0_spike_point_17_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 11535.78198454455 sina_0_sina_2
-   - 37558.67475215823 sina_0_cosa_2 + 37558.67475215823 cosa_0_sina_2
-   - 11535.78198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_17_inside_2
-   <= 2e+09
- poly_0_spike_point_17_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 11535.78198454455 sina_0_sina_2 + 37558.67475215823 sina_0_cosa_2
-   - 37558.67475215823 cosa_0_sina_2 + 11535.78198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_17_inside_2 <= 0
- poly_0_spike_point_18_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 18337.38198454455 sina_0_sina_2
-   - 37359.47475215822 sina_0_cosa_2 + 37359.47475215822 cosa_0_sina_2
-   - 18337.38198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_18_inside_2
-   <= 2e+09
- poly_0_spike_point_18_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 18337.38198454455 sina_0_sina_2 + 37359.47475215822 sina_0_cosa_2
-   - 37359.47475215822 cosa_0_sina_2 + 18337.38198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_18_inside_2 <= 0
- poly_0_spike_point_19_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 23874.18198454456 sina_0_sina_2
-   - 36869.87475215823 sina_0_cosa_2 + 36869.87475215823 cosa_0_sina_2
-   - 23874.18198454456 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_19_inside_2
-   <= 2e+09
- poly_0_spike_point_19_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 23874.18198454456 sina_0_sina_2 + 36869.87475215823 sina_0_cosa_2
-   - 36869.87475215823 cosa_0_sina_2 + 23874.18198454456 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_19_inside_2 <= 0
- poly_0_spike_point_20_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 30519.78198454456 sina_0_sina_2
-   - 36646.67475215823 sina_0_cosa_2 + 36646.67475215823 cosa_0_sina_2
-   - 30519.78198454456 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_20_inside_2
-   <= 2e+09
- poly_0_spike_point_20_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 30519.78198454456 sina_0_sina_2 + 36646.67475215823 sina_0_cosa_2
-   - 36646.67475215823 cosa_0_sina_2 + 30519.78198454456 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_20_inside_2 <= 0
- poly_0_spike_point_21_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 36190.98198454455 sina_0_sina_2
-   - 36944.27475215823 sina_0_cosa_2 + 36944.27475215823 cosa_0_sina_2
-   - 36190.98198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_21_inside_2
-   <= 2e+09
- poly_0_spike_point_21_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 36190.98198454455 sina_0_sina_2 + 36944.27475215823 sina_0_cosa_2
-   - 36944.27475215823 cosa_0_sina_2 + 36190.98198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_21_inside_2 <= 0
- poly_0_spike_point_22_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 42258.18198454456 sina_0_sina_2
-   - 37781.87475215823 sina_0_cosa_2 + 37781.87475215823 cosa_0_sina_2
-   - 42258.18198454456 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_22_inside_2
-   <= 2e+09
- poly_0_spike_point_22_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 42258.18198454456 sina_0_sina_2 + 37781.87475215823 sina_0_cosa_2
-   - 37781.87475215823 cosa_0_sina_2 + 42258.18198454456 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_22_inside_2 <= 0
- poly_0_spike_point_23_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 44703.78198454455 sina_0_sina_2
-   - 35794.67475215823 sina_0_cosa_2 + 35794.67475215823 cosa_0_sina_2
-   - 44703.78198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_23_inside_2
-   <= 2e+09
- poly_0_spike_point_23_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 44703.78198454455 sina_0_sina_2 + 35794.67475215823 sina_0_cosa_2
-   - 35794.67475215823 cosa_0_sina_2 + 44703.78198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_23_inside_2 <= 0
- poly_0_spike_point_24_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 49642.98198454455 sina_0_sina_2
-   - 29432.27475215823 sina_0_cosa_2 + 29432.27475215823 cosa_0_sina_2
-   - 49642.98198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_24_inside_2
-   <= 2e+09
- poly_0_spike_point_24_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 49642.98198454455 sina_0_sina_2 + 29432.27475215823 sina_0_cosa_2
-   - 29432.27475215823 cosa_0_sina_2 + 49642.98198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_24_inside_2 <= 0
- poly_0_spike_point_25_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 54416.58198454455 sina_0_sina_2
-   - 22693.07475215823 sina_0_cosa_2 + 22693.07475215823 cosa_0_sina_2
-   - 54416.58198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_25_inside_2
-   <= 2e+09
- poly_0_spike_point_25_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 54416.58198454455 sina_0_sina_2 + 22693.07475215823 sina_0_cosa_2
-   - 22693.07475215823 cosa_0_sina_2 + 54416.58198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_25_inside_2 <= 0
- poly_0_spike_point_26_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 58546.98198454455 sina_0_sina_2
-   - 17228.27475215823 sina_0_cosa_2 + 17228.27475215823 cosa_0_sina_2
-   - 58546.98198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_26_inside_2
-   <= 2e+09
- poly_0_spike_point_26_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 58546.98198454455 sina_0_sina_2 + 17228.27475215823 sina_0_cosa_2
-   - 17228.27475215823 cosa_0_sina_2 + 58546.98198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_26_inside_2 <= 0
- poly_0_spike_point_27_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 64616.58198454455 sina_0_sina_2
-   - 10369.07475215823 sina_0_cosa_2 + 10369.07475215823 cosa_0_sina_2
-   - 64616.58198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_27_inside_2
-   <= 2e+09
- poly_0_spike_point_27_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 64616.58198454455 sina_0_sina_2 + 10369.07475215823 sina_0_cosa_2
-   - 10369.07475215823 cosa_0_sina_2 + 64616.58198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_27_inside_2 <= 0
- poly_0_spike_point_28_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 62281.38198454455 sina_0_sina_2
-   - 4995.474752158229 sina_0_cosa_2 + 4995.474752158229 cosa_0_sina_2
-   - 62281.38198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_28_inside_2
-   <= 2e+09
- poly_0_spike_point_28_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 62281.38198454455 sina_0_sina_2 + 4995.474752158229 sina_0_cosa_2
-   - 4995.474752158229 cosa_0_sina_2 + 62281.38198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_28_inside_2 <= 0
- poly_0_spike_point_29_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 59996.58198454455 sina_0_sina_2
-   + 82.92524784177294 sina_0_cosa_2 - 82.92524784177294 cosa_0_sina_2
-   - 59996.58198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_29_inside_2
-   <= 2e+09
- poly_0_spike_point_29_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 59996.58198454455 sina_0_sina_2 - 82.92524784177294 sina_0_cosa_2
-   + 82.92524784177294 cosa_0_sina_2 + 59996.58198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_29_inside_2 <= 0
- poly_0_spike_point_30_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 59662.98198454455 sina_0_sina_2
-   + 3519.725247841769 sina_0_cosa_2 - 3519.725247841769 cosa_0_sina_2
-   - 59662.98198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_30_inside_2
-   <= 2e+09
- poly_0_spike_point_30_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 59662.98198454455 sina_0_sina_2 - 3519.725247841769 sina_0_cosa_2
-   + 3519.725247841769 cosa_0_sina_2 + 59662.98198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_30_inside_2 <= 0
- poly_0_spike_point_31_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 53890.98198454455 sina_0_sina_2
-   + 4407.725247841776 sina_0_cosa_2 - 4407.725247841776 cosa_0_sina_2
-   - 53890.98198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_31_inside_2
-   <= 2e+09
- poly_0_spike_point_31_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 53890.98198454455 sina_0_sina_2 - 4407.725247841776 sina_0_cosa_2
-   + 4407.725247841776 cosa_0_sina_2 + 53890.98198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_31_inside_2 <= 0
- poly_0_spike_point_32_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 49050.18198454455 sina_0_sina_2
-   + 6366.125247841774 sina_0_cosa_2 - 6366.125247841774 cosa_0_sina_2
-   - 49050.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_32_inside_2
-   <= 2e+09
- poly_0_spike_point_32_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 49050.18198454455 sina_0_sina_2 - 6366.125247841774 sina_0_cosa_2
-   + 6366.125247841774 cosa_0_sina_2 + 49050.18198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_32_inside_2 <= 0
- poly_0_spike_point_33_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 44696.58198454455 sina_0_sina_2
-   + 9622.925247841773 sina_0_cosa_2 - 9622.925247841773 cosa_0_sina_2
-   - 44696.58198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_33_inside_2
-   <= 2e+09
- poly_0_spike_point_33_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 44696.58198454455 sina_0_sina_2 - 9622.925247841773 sina_0_cosa_2
-   + 9622.925247841773 cosa_0_sina_2 + 44696.58198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_33_inside_2 <= 0
- poly_0_spike_point_34_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 39670.98198454455 sina_0_sina_2
-   + 14739.72524784177 sina_0_cosa_2 - 14739.72524784177 cosa_0_sina_2
-   - 39670.98198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_34_inside_2
-   <= 2e+09
- poly_0_spike_point_34_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 39670.98198454455 sina_0_sina_2 - 14739.72524784177 sina_0_cosa_2
-   + 14739.72524784177 cosa_0_sina_2 + 39670.98198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_34_inside_2 <= 0
- poly_0_spike_point_35_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 36152.58198454455 sina_0_sina_2
-   + 18442.92524784177 sina_0_cosa_2 - 18442.92524784177 cosa_0_sina_2
-   - 36152.58198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_35_inside_2
-   <= 2e+09
- poly_0_spike_point_35_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 36152.58198454455 sina_0_sina_2 - 18442.92524784177 sina_0_cosa_2
-   + 18442.92524784177 cosa_0_sina_2 + 36152.58198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_35_inside_2 <= 0
- poly_0_spike_point_36_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 30810.18198454455 sina_0_sina_2
-   + 22746.12524784177 sina_0_cosa_2 - 22746.12524784177 cosa_0_sina_2
-   - 30810.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_36_inside_2
-   <= 2e+09
- poly_0_spike_point_36_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 30810.18198454455 sina_0_sina_2 - 22746.12524784177 sina_0_cosa_2
-   + 22746.12524784177 cosa_0_sina_2 + 30810.18198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_36_inside_2 <= 0
- poly_0_spike_point_37_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 24440.58198454455 sina_0_sina_2
-   + 27430.92524784177 sina_0_cosa_2 - 27430.92524784177 cosa_0_sina_2
-   - 24440.58198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_37_inside_2
-   <= 2e+09
- poly_0_spike_point_37_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 24440.58198454455 sina_0_sina_2 - 27430.92524784177 sina_0_cosa_2
-   + 27430.92524784177 cosa_0_sina_2 + 24440.58198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_37_inside_2 <= 0
- poly_0_spike_point_38_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 18169.38198454455 sina_0_sina_2
-   + 32132.52524784177 sina_0_cosa_2 - 32132.52524784177 cosa_0_sina_2
-   - 18169.38198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_38_inside_2
-   <= 2e+09
- poly_0_spike_point_38_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 18169.38198454455 sina_0_sina_2 - 32132.52524784177 sina_0_cosa_2
-   + 32132.52524784177 cosa_0_sina_2 + 18169.38198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_38_inside_2 <= 0
- poly_0_spike_point_39_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 15130.98198454455 sina_0_sina_2
-   + 34803.72524784176 sina_0_cosa_2 - 34803.72524784176 cosa_0_sina_2
-   - 15130.98198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_39_inside_2
-   <= 2e+09
- poly_0_spike_point_39_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 15130.98198454455 sina_0_sina_2 - 34803.72524784176 sina_0_cosa_2
-   + 34803.72524784176 cosa_0_sina_2 + 15130.98198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_39_inside_2 <= 0
- poly_0_spike_point_40_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 11022.18198454455 sina_0_sina_2
-   + 38406.12524784177 sina_0_cosa_2 - 38406.12524784177 cosa_0_sina_2
-   - 11022.18198454455 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_40_inside_2
-   <= 2e+09
- poly_0_spike_point_40_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 11022.18198454455 sina_0_sina_2 - 38406.12524784177 sina_0_cosa_2
-   + 38406.12524784177 cosa_0_sina_2 + 11022.18198454455 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_40_inside_2 <= 0
- poly_0_spike_point_41_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 5578.981984544549 sina_0_sina_2
-   + 43299.72524784176 sina_0_cosa_2 - 43299.72524784176 cosa_0_sina_2
-   - 5578.981984544549 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_41_inside_2
-   <= 2e+09
- poly_0_spike_point_41_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 5578.981984544549 sina_0_sina_2 - 43299.72524784176 sina_0_cosa_2
-   + 43299.72524784176 cosa_0_sina_2 + 5578.981984544549 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_41_inside_2 <= 0
- poly_0_spike_point_42_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 - 1940.581984544548 sina_0_sina_2
-   + 44146.92524784177 sina_0_cosa_2 - 44146.92524784177 cosa_0_sina_2
-   - 1940.581984544548 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_42_inside_2
-   <= 2e+09
- poly_0_spike_point_42_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   + 1940.581984544548 sina_0_sina_2 - 44146.92524784177 sina_0_cosa_2
-   + 44146.92524784177 cosa_0_sina_2 + 1940.581984544548 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_42_inside_2 <= 0
- poly_0_spike_point_43_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 1191.418015455445 sina_0_sina_2
-   + 45586.92524784178 sina_0_cosa_2 - 45586.92524784178 cosa_0_sina_2
-   + 1191.418015455445 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_43_inside_2
-   <= 2e+09
- poly_0_spike_point_43_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 1191.418015455445 sina_0_sina_2 - 45586.92524784178 sina_0_cosa_2
-   + 45586.92524784178 cosa_0_sina_2 - 1191.418015455445 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_43_inside_2 <= 0
- poly_0_spike_point_44_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 5247.418015455449 sina_0_sina_2
-   + 48286.92524784177 sina_0_cosa_2 - 48286.92524784177 cosa_0_sina_2
-   + 5247.418015455449 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_44_inside_2
-   <= 2e+09
- poly_0_spike_point_44_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 5247.418015455449 sina_0_sina_2 - 48286.92524784177 sina_0_cosa_2
-   + 48286.92524784177 cosa_0_sina_2 - 5247.418015455449 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_44_inside_2 <= 0
- poly_0_spike_point_45_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 13863.41801545545 sina_0_sina_2
-   + 54562.92524784178 sina_0_cosa_2 - 54562.92524784178 cosa_0_sina_2
-   + 13863.41801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_45_inside_2
-   <= 2e+09
- poly_0_spike_point_45_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 13863.41801545545 sina_0_sina_2 - 54562.92524784178 sina_0_cosa_2
-   + 54562.92524784178 cosa_0_sina_2 - 13863.41801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_45_inside_2 <= 0
- poly_0_spike_point_46_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 21099.41801545545 sina_0_sina_2
-   + 60466.92524784176 sina_0_cosa_2 - 60466.92524784176 cosa_0_sina_2
-   + 21099.41801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_46_inside_2
-   <= 2e+09
- poly_0_spike_point_46_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 21099.41801545545 sina_0_sina_2 - 60466.92524784176 sina_0_cosa_2
-   + 60466.92524784176 cosa_0_sina_2 - 21099.41801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_46_inside_2 <= 0
- poly_0_spike_point_47_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 25239.41801545545 sina_0_sina_2
-   + 63658.92524784177 sina_0_cosa_2 - 63658.92524784177 cosa_0_sina_2
-   + 25239.41801545545 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_47_inside_2
-   <= 2e+09
- poly_0_spike_point_47_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 25239.41801545545 sina_0_sina_2 - 63658.92524784177 sina_0_cosa_2
-   + 63658.92524784177 cosa_0_sina_2 - 25239.41801545545 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_47_inside_2 <= 0
- poly_0_spike_point_48_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 29319.41801545544 sina_0_sina_2
-   + 62050.92524784177 sina_0_cosa_2 - 62050.92524784177 cosa_0_sina_2
-   + 29319.41801545544 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_48_inside_2
-   <= 2e+09
- poly_0_spike_point_48_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 29319.41801545544 sina_0_sina_2 - 62050.92524784177 sina_0_cosa_2
-   + 62050.92524784177 cosa_0_sina_2 - 29319.41801545544 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_48_inside_2 <= 0
- poly_0_spike_point_49_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 32377.01801545544 sina_0_sina_2
-   + 61275.72524784176 sina_0_cosa_2 - 61275.72524784176 cosa_0_sina_2
-   + 32377.01801545544 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_49_inside_2
-   <= 2e+09
- poly_0_spike_point_49_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 32377.01801545544 sina_0_sina_2 - 61275.72524784176 sina_0_cosa_2
-   + 61275.72524784176 cosa_0_sina_2 - 32377.01801545544 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_49_inside_2 <= 0
- poly_0_spike_point_50_inside_2_constraint_0_true: 49067.12524784177 sina_2
-   - 32756.81801545545 cosa_2 - 34 sina_tx_2 + 48 cosa_tx_2 + 48 sina_ty_2
-   + 34 cosa_ty_2 + 37762.61801545544 sina_0_sina_2
-   + 59900.52524784177 sina_0_cosa_2 - 59900.52524784177 cosa_0_sina_2
-   + 37762.61801545544 cosa_0_cosa_2 + 34 sina_2_tx_0 - 48 sina_2_ty_0
-   - 48 cosa_2_tx_0 - 34 cosa_2_ty_0 + 2e+09 poly_0_spike_point_50_inside_2
-   <= 2e+09
- poly_0_spike_point_50_inside_2_constraint_0_false:
-   - 49067.12524784177 sina_2 + 32756.81801545545 cosa_2 + 34 sina_tx_2
-   - 48 cosa_tx_2 - 48 sina_ty_2 - 34 cosa_ty_2
-   - 37762.61801545544 sina_0_sina_2 - 59900.52524784177 sina_0_cosa_2
-   + 59900.52524784177 cosa_0_sina_2 - 37762.61801545544 cosa_0_cosa_2
-   - 34 sina_2_tx_0 + 48 sina_2_ty_0 + 48 cosa_2_tx_0 + 34 cosa_2_ty_0
-   - 2e+09 poly_0_spike_point_50_inside_2 <= 0
- poly_1_point_0_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 13735.84570517405 sina_1_sina_2
-   - 1938.645554916507 sina_1_cosa_2 + 1938.645554916507 cosa_1_sina_2
-   + 13735.84570517405 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_0_inside_2
-   <= 2e+09
- poly_1_point_0_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 13735.84570517405 sina_1_sina_2
-   + 1938.645554916507 sina_1_cosa_2 - 1938.645554916507 cosa_1_sina_2
-   - 13735.84570517405 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_0_inside_2 <= 0
- R942: poly_1_point_0_inside_2 = 1
- poly_1_point_1_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 13735.84570517405 sina_1_sina_2
-   - 3103.645554916507 sina_1_cosa_2 + 3103.645554916507 cosa_1_sina_2
-   + 13735.84570517405 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_1_inside_2
-   <= 2e+09
- poly_1_point_1_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 13735.84570517405 sina_1_sina_2
-   + 3103.645554916507 sina_1_cosa_2 - 3103.645554916507 cosa_1_sina_2
-   - 13735.84570517405 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_1_inside_2 <= 0
- R945: poly_1_point_1_inside_2 = 1
- poly_1_point_2_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 4380.845705174053 sina_1_sina_2
-   - 6978.645554916507 sina_1_cosa_2 + 6978.645554916507 cosa_1_sina_2
-   + 4380.845705174053 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_2_inside_2
-   <= 2e+09
- poly_1_point_2_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 4380.845705174053 sina_1_sina_2
-   + 6978.645554916507 sina_1_cosa_2 - 6978.645554916507 cosa_1_sina_2
-   - 4380.845705174053 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_2_inside_2 <= 0
- R948: poly_1_point_2_inside_2 = 1
- poly_1_point_3_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 438.8457051740538 sina_1_sina_2
-   - 8902.645554916508 sina_1_cosa_2 + 8902.645554916508 cosa_1_sina_2
-   + 438.8457051740538 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_3_inside_2
-   <= 2e+09
- poly_1_point_3_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 438.8457051740538 sina_1_sina_2
-   + 8902.645554916508 sina_1_cosa_2 - 8902.645554916508 cosa_1_sina_2
-   - 438.8457051740538 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_3_inside_2 <= 0
- R951: poly_1_point_3_inside_2 = 1
- poly_1_point_4_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 2128.154294825946 sina_1_sina_2
-   - 9711.645554916508 sina_1_cosa_2 + 9711.645554916508 cosa_1_sina_2
-   - 2128.154294825946 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_4_inside_2
-   <= 2e+09
- poly_1_point_4_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 2128.154294825946 sina_1_sina_2
-   + 9711.645554916508 sina_1_cosa_2 - 9711.645554916508 cosa_1_sina_2
-   + 2128.154294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_4_inside_2 <= 0
- R954: poly_1_point_4_inside_2 = 1
- poly_1_point_5_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 2928.154294825946 sina_1_sina_2
-   - 9576.645554916508 sina_1_cosa_2 + 9576.645554916508 cosa_1_sina_2
-   - 2928.154294825946 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_5_inside_2
-   <= 2e+09
- poly_1_point_5_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 2928.154294825946 sina_1_sina_2
-   + 9576.645554916508 sina_1_cosa_2 - 9576.645554916508 cosa_1_sina_2
-   + 2928.154294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_5_inside_2 <= 0
- R957: poly_1_point_5_inside_2 = 1
- poly_1_point_6_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 3683.154294825946 sina_1_sina_2
-   - 9951.645554916508 sina_1_cosa_2 + 9951.645554916508 cosa_1_sina_2
-   - 3683.154294825946 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_6_inside_2
-   <= 2e+09
- poly_1_point_6_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 3683.154294825946 sina_1_sina_2
-   + 9951.645554916508 sina_1_cosa_2 - 9951.645554916508 cosa_1_sina_2
-   + 3683.154294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_6_inside_2 <= 0
- R960: poly_1_point_6_inside_2 = 1
- poly_1_point_7_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 4869.154294825947 sina_1_sina_2
-   - 7383.645554916507 sina_1_cosa_2 + 7383.645554916507 cosa_1_sina_2
-   - 4869.154294825947 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_7_inside_2
-   <= 2e+09
- poly_1_point_7_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 4869.154294825947 sina_1_sina_2
-   + 7383.645554916507 sina_1_cosa_2 - 7383.645554916507 cosa_1_sina_2
-   + 4869.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_7_inside_2 <= 0
- R963: poly_1_point_7_inside_2 = 1
- poly_1_point_8_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 6119.154294825947 sina_1_sina_2
-   - 4478.645554916507 sina_1_cosa_2 + 4478.645554916507 cosa_1_sina_2
-   - 6119.154294825947 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_8_inside_2
-   <= 2e+09
- poly_1_point_8_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 6119.154294825947 sina_1_sina_2
-   + 4478.645554916507 sina_1_cosa_2 - 4478.645554916507 cosa_1_sina_2
-   + 6119.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_8_inside_2 <= 0
- R966: poly_1_point_8_inside_2 = 1
- poly_1_point_9_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 7225.154294825947 sina_1_sina_2
-   - 2040.645554916507 sina_1_cosa_2 + 2040.645554916507 cosa_1_sina_2
-   - 7225.154294825947 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_9_inside_2
-   <= 2e+09
- poly_1_point_9_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 7225.154294825947 sina_1_sina_2
-   + 2040.645554916507 sina_1_cosa_2 - 2040.645554916507 cosa_1_sina_2
-   + 7225.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_9_inside_2 <= 0
- R969: poly_1_point_9_inside_2 = 1
- poly_1_point_10_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 8681.154294825947 sina_1_sina_2
-   + 92.35444508349337 sina_1_cosa_2 - 92.35444508349337 cosa_1_sina_2
-   - 8681.154294825947 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_10_inside_2
-   <= 2e+09
- poly_1_point_10_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 8681.154294825947 sina_1_sina_2
-   - 92.35444508349337 sina_1_cosa_2 + 92.35444508349337 cosa_1_sina_2
-   + 8681.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_10_inside_2 <= 0
- R972: poly_1_point_10_inside_2 = 1
- poly_1_point_11_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 9559.154294825947 sina_1_sina_2
-   + 2276.354445083493 sina_1_cosa_2 - 2276.354445083493 cosa_1_sina_2
-   - 9559.154294825947 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_11_inside_2
-   <= 2e+09
- poly_1_point_11_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 9559.154294825947 sina_1_sina_2
-   - 2276.354445083493 sina_1_cosa_2 + 2276.354445083493 cosa_1_sina_2
-   + 9559.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_11_inside_2 <= 0
- R975: poly_1_point_11_inside_2 = 1
- poly_1_point_12_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 10665.15429482595 sina_1_sina_2
-   + 4714.354445083493 sina_1_cosa_2 - 4714.354445083493 cosa_1_sina_2
-   - 10665.15429482595 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_12_inside_2
-   <= 2e+09
- poly_1_point_12_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 10665.15429482595 sina_1_sina_2
-   - 4714.354445083493 sina_1_cosa_2 + 4714.354445083493 cosa_1_sina_2
-   + 10665.15429482595 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_12_inside_2 <= 0
- R978: poly_1_point_12_inside_2 = 1
- poly_1_point_13_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 11620.15429482595 sina_1_sina_2
-   + 6994.354445083493 sina_1_cosa_2 - 6994.354445083493 cosa_1_sina_2
-   - 11620.15429482595 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_13_inside_2
-   <= 2e+09
- poly_1_point_13_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 11620.15429482595 sina_1_sina_2
-   - 6994.354445083493 sina_1_cosa_2 + 6994.354445083493 cosa_1_sina_2
-   + 11620.15429482595 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_13_inside_2 <= 0
- R981: poly_1_point_13_inside_2 = 1
- poly_1_point_14_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 13143.15429482595 sina_1_sina_2
-   + 9498.354445083492 sina_1_cosa_2 - 9498.354445083492 cosa_1_sina_2
-   - 13143.15429482595 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_14_inside_2
-   <= 2e+09
- poly_1_point_14_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 13143.15429482595 sina_1_sina_2
-   - 9498.354445083492 sina_1_cosa_2 + 9498.354445083492 cosa_1_sina_2
-   + 13143.15429482595 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_14_inside_2 <= 0
- R984: poly_1_point_14_inside_2 = 1
- poly_1_point_15_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 10141.15429482595 sina_1_sina_2
-   + 8872.354445083492 sina_1_cosa_2 - 8872.354445083492 cosa_1_sina_2
-   - 10141.15429482595 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_15_inside_2
-   <= 2e+09
- poly_1_point_15_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 10141.15429482595 sina_1_sina_2
-   - 8872.354445083492 sina_1_cosa_2 + 8872.354445083492 cosa_1_sina_2
-   + 10141.15429482595 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_15_inside_2 <= 0
- R987: poly_1_point_15_inside_2 = 1
- poly_1_point_16_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 7268.154294825947 sina_1_sina_2
-   + 8543.354445083492 sina_1_cosa_2 - 8543.354445083492 cosa_1_sina_2
-   - 7268.154294825947 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_16_inside_2
-   <= 2e+09
- poly_1_point_16_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 7268.154294825947 sina_1_sina_2
-   - 8543.354445083492 sina_1_cosa_2 + 8543.354445083492 cosa_1_sina_2
-   + 7268.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_16_inside_2 <= 0
- R990: poly_1_point_16_inside_2 = 1
- poly_1_point_17_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 4266.154294825947 sina_1_sina_2
-   + 7917.354445083492 sina_1_cosa_2 - 7917.354445083492 cosa_1_sina_2
-   - 4266.154294825947 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_17_inside_2
-   <= 2e+09
- poly_1_point_17_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 4266.154294825947 sina_1_sina_2
-   - 7917.354445083492 sina_1_cosa_2 + 7917.354445083492 cosa_1_sina_2
-   + 4266.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_17_inside_2 <= 0
- R993: poly_1_point_17_inside_2 = 1
- poly_1_point_18_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 - 1190.154294825946 sina_1_sina_2
-   + 7229.354445083493 sina_1_cosa_2 - 7229.354445083493 cosa_1_sina_2
-   - 1190.154294825946 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_18_inside_2
-   <= 2e+09
- poly_1_point_18_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 1190.154294825946 sina_1_sina_2
-   - 7229.354445083493 sina_1_cosa_2 + 7229.354445083493 cosa_1_sina_2
-   + 1190.154294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_18_inside_2 <= 0
- R996: poly_1_point_18_inside_2 = 1
- poly_1_point_19_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 1616.845705174054 sina_1_sina_2
-   + 6483.354445083493 sina_1_cosa_2 - 6483.354445083493 cosa_1_sina_2
-   + 1616.845705174054 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_19_inside_2
-   <= 2e+09
- poly_1_point_19_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 1616.845705174054 sina_1_sina_2
-   - 6483.354445083493 sina_1_cosa_2 + 6483.354445083493 cosa_1_sina_2
-   - 1616.845705174054 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_19_inside_2 <= 0
- R999: poly_1_point_19_inside_2 = 1
- poly_1_point_20_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 3953.845705174054 sina_1_sina_2
-   + 5627.354445083493 sina_1_cosa_2 - 5627.354445083493 cosa_1_sina_2
-   + 3953.845705174054 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_20_inside_2
-   <= 2e+09
- poly_1_point_20_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 3953.845705174054 sina_1_sina_2
-   - 5627.354445083493 sina_1_cosa_2 + 5627.354445083493 cosa_1_sina_2
-   - 3953.845705174054 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_20_inside_2 <= 0
- R1002: poly_1_point_20_inside_2 = 1
- poly_1_point_21_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 6005.845705174053 sina_1_sina_2
-   + 4506.354445083493 sina_1_cosa_2 - 4506.354445083493 cosa_1_sina_2
-   + 6005.845705174053 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_21_inside_2
-   <= 2e+09
- poly_1_point_21_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 6005.845705174053 sina_1_sina_2
-   - 4506.354445083493 sina_1_cosa_2 + 4506.354445083493 cosa_1_sina_2
-   - 6005.845705174053 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_21_inside_2 <= 0
- R1005: poly_1_point_21_inside_2 = 1
- poly_1_point_22_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 7850.845705174053 sina_1_sina_2
-   + 3401.354445083493 sina_1_cosa_2 - 3401.354445083493 cosa_1_sina_2
-   + 7850.845705174053 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_22_inside_2
-   <= 2e+09
- poly_1_point_22_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 7850.845705174053 sina_1_sina_2
-   - 3401.354445083493 sina_1_cosa_2 + 3401.354445083493 cosa_1_sina_2
-   - 7850.845705174053 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_22_inside_2 <= 0
- R1008: poly_1_point_22_inside_2 = 1
- poly_1_point_23_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 9984.845705174053 sina_1_sina_2
-   + 1739.354445083493 sina_1_cosa_2 - 1739.354445083493 cosa_1_sina_2
-   + 9984.845705174053 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_23_inside_2
-   <= 2e+09
- poly_1_point_23_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 9984.845705174053 sina_1_sina_2
-   - 1739.354445083493 sina_1_cosa_2 + 1739.354445083493 cosa_1_sina_2
-   - 9984.845705174053 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_23_inside_2 <= 0
- R1011: poly_1_point_23_inside_2 = 1
- poly_1_point_24_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 11455.84570517405 sina_1_sina_2
-   + 601.3544450834934 sina_1_cosa_2 - 601.3544450834934 cosa_1_sina_2
-   + 11455.84570517405 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_24_inside_2
-   <= 2e+09
- poly_1_point_24_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 11455.84570517405 sina_1_sina_2
-   - 601.3544450834934 sina_1_cosa_2 + 601.3544450834934 cosa_1_sina_2
-   - 11455.84570517405 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_24_inside_2 <= 0
- R1014: poly_1_point_24_inside_2 = 1
- poly_1_point_25_inside_2_constraint_0_true: - 1938.645554916507 sina_2
-   - 13735.84570517405 cosa_2 - 3 sina_tx_2 + 34 cosa_tx_2 + 34 sina_ty_2
-   + 3 cosa_ty_2 + 13735.84570517405 sina_1_sina_2
-   - 1938.645554916507 sina_1_cosa_2 + 1938.645554916507 cosa_1_sina_2
-   + 13735.84570517405 cosa_1_cosa_2 + 3 sina_2_tx_1 - 34 sina_2_ty_1
-   - 34 cosa_2_tx_1 - 3 cosa_2_ty_1 + 2e+09 poly_1_point_25_inside_2
-   <= 2e+09
- poly_1_point_25_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 13735.84570517405 sina_1_sina_2
-   + 1938.645554916507 sina_1_cosa_2 - 1938.645554916507 cosa_1_sina_2
-   - 13735.84570517405 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_point_25_inside_2 <= 0
- R1017: poly_1_point_25_inside_2 = 1
- poly_1_spike_point_0_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 16367.04570517405 sina_1_sina_2 - 2439.745554916507 sina_1_cosa_2
-   + 2439.745554916507 cosa_1_sina_2 + 16367.04570517405 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_0_inside_2 <= 2e+09
- poly_1_spike_point_0_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 16367.04570517405 sina_1_sina_2
-   + 2439.745554916507 sina_1_cosa_2 - 2439.745554916507 cosa_1_sina_2
-   - 16367.04570517405 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_0_inside_2
+ R24: poly_1_point_4_inside_0 = 0
+ R25: poly_1_point_5_inside_0 - poly_1_point_5_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_1_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 16367.04570517405 sina_1_sina_2 - 3837.745554916506 sina_1_cosa_2
-   + 3837.745554916506 cosa_1_sina_2 + 16367.04570517405 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_1_inside_2 <= 2e+09
- poly_1_spike_point_1_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 16367.04570517405 sina_1_sina_2
-   + 3837.745554916506 sina_1_cosa_2 - 3837.745554916506 cosa_1_sina_2
-   - 16367.04570517405 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_1_inside_2
+ poly_1_point_5_inside_0_constraint_0_eq_true: 0.9761904761904772 sina_0
+   - 4.535714285714287 cosa_0 + sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - cosa_ty_0 - 0.4642857142857126 sina_0_sina_1
+   - 5.976190476190477 sina_0_cosa_1 + 5.976190476190477 cosa_0_sina_1
+   - 0.4642857142857126 cosa_0_cosa_1 - sina_0_tx_1 - 2 sina_0_ty_1
+   - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_point_5_inside_0_constraint_0_eq <= 2e+12
+ poly_1_point_5_inside_0_constraint_0_eq_false: - 0.9761904761904772 sina_0
+   + 4.535714285714287 cosa_0 - sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + cosa_ty_0 + 0.4642857142857126 sina_0_sina_1
+   + 5.976190476190477 sina_0_cosa_1 - 5.976190476190477 cosa_0_sina_1
+   + 0.4642857142857126 cosa_0_cosa_1 + sina_0_tx_1 + 2 sina_0_ty_1
+   + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_point_5_inside_0_constraint_0_eq <= 0
+ R28: - poly_1_point_5_inside_0 + poly_1_point_5_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_2_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 5141.045705174054 sina_1_sina_2 - 8487.745554916508 sina_1_cosa_2
-   + 8487.745554916508 cosa_1_sina_2 + 5141.045705174054 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_2_inside_2 <= 2e+09
- poly_1_spike_point_2_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 5141.045705174054 sina_1_sina_2
-   + 8487.745554916508 sina_1_cosa_2 - 8487.745554916508 cosa_1_sina_2
-   - 5141.045705174054 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_2_inside_2
+ R29: poly_1_point_5_inside_0 = 0
+ R30: poly_1_point_6_inside_0 - poly_1_point_6_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_3_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 410.6457051740538 sina_1_sina_2 - 10796.54555491651 sina_1_cosa_2
-   + 10796.54555491651 cosa_1_sina_2 + 410.6457051740538 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_3_inside_2 <= 2e+09
- poly_1_spike_point_3_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 - 410.6457051740538 sina_1_sina_2
-   + 10796.54555491651 sina_1_cosa_2 - 10796.54555491651 cosa_1_sina_2
-   - 410.6457051740538 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_3_inside_2
+ poly_1_point_6_inside_0_constraint_0_eq_true: 0.9761904761904772 sina_0
+   - 4.535714285714287 cosa_0 + sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - cosa_ty_0 + 4.535714285714287 sina_0_sina_1
+   - 0.9761904761904772 sina_0_cosa_1 + 0.9761904761904772 cosa_0_sina_1
+   + 4.535714285714287 cosa_0_cosa_1 - sina_0_tx_1 - 2 sina_0_ty_1
+   - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_point_6_inside_0_constraint_0_eq <= 2e+12
+ poly_1_point_6_inside_0_constraint_0_eq_false: - 0.9761904761904772 sina_0
+   + 4.535714285714287 cosa_0 - sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + cosa_ty_0 - 4.535714285714287 sina_0_sina_1
+   + 0.9761904761904772 sina_0_cosa_1 - 0.9761904761904772 cosa_0_sina_1
+   - 4.535714285714287 cosa_0_cosa_1 + sina_0_tx_1 + 2 sina_0_ty_1
+   + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_point_6_inside_0_constraint_0_eq <= 0
+ R33: - poly_1_point_6_inside_0 + poly_1_point_6_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_4_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 2669.754294825946 sina_1_sina_2 - 11767.3455549165 sina_1_cosa_2
-   + 11767.3455549165 cosa_1_sina_2 - 2669.754294825946 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_4_inside_2 <= 2e+09
- poly_1_spike_point_4_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 2669.754294825946 sina_1_sina_2
-   + 11767.3455549165 sina_1_cosa_2 - 11767.3455549165 cosa_1_sina_2
-   + 2669.754294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_4_inside_2
+ R34: poly_1_point_6_inside_0 = 0
+ R35: poly_1_spike_point_0_inside_0
+   - poly_1_spike_point_0_inside_0_constraint_0_eq <= 0
+ poly_1_spike_point_0_inside_0_constraint_0_eq_true:
+   0.9761904761904772 sina_0 - 4.535714285714287 cosa_0 + sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - cosa_ty_0
+   + 5.335714285714287 sina_0_sina_1 - 1.076190476190478 sina_0_cosa_1
+   + 1.076190476190478 cosa_0_sina_1 + 5.335714285714287 cosa_0_cosa_1
+   - sina_0_tx_1 - 2 sina_0_ty_1 - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_spike_point_0_inside_0_constraint_0_eq <= 2e+12
+ poly_1_spike_point_0_inside_0_constraint_0_eq_false:
+   - 0.9761904761904772 sina_0 + 4.535714285714287 cosa_0 - sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + cosa_ty_0
+   - 5.335714285714287 sina_0_sina_1 + 1.076190476190478 sina_0_cosa_1
+   - 1.076190476190478 cosa_0_sina_1 - 5.335714285714287 cosa_0_cosa_1
+   + sina_0_tx_1 + 2 sina_0_ty_1 + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_spike_point_0_inside_0_constraint_0_eq <= 0
+ R38: - poly_1_spike_point_0_inside_0
+   + poly_1_spike_point_0_inside_0_constraint_0_eq <= 0
+ R39: poly_1_spike_point_1_inside_0
+   - poly_1_spike_point_1_inside_0_constraint_0_eq <= 0
+ poly_1_spike_point_1_inside_0_constraint_0_eq_true:
+   0.9761904761904772 sina_0 - 4.535714285714287 cosa_0 + sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - cosa_ty_0
+   + 5.335714285714287 sina_0_sina_1 + 4.923809523809522 sina_0_cosa_1
+   - 4.923809523809522 cosa_0_sina_1 + 5.335714285714287 cosa_0_cosa_1
+   - sina_0_tx_1 - 2 sina_0_ty_1 - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_spike_point_1_inside_0_constraint_0_eq <= 2e+12
+ poly_1_spike_point_1_inside_0_constraint_0_eq_false:
+   - 0.9761904761904772 sina_0 + 4.535714285714287 cosa_0 - sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + cosa_ty_0
+   - 5.335714285714287 sina_0_sina_1 - 4.923809523809522 sina_0_cosa_1
+   + 4.923809523809522 cosa_0_sina_1 - 5.335714285714287 cosa_0_cosa_1
+   + sina_0_tx_1 + 2 sina_0_ty_1 + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_spike_point_1_inside_0_constraint_0_eq <= 0
+ R42: - poly_1_spike_point_1_inside_0
+   + poly_1_spike_point_1_inside_0_constraint_0_eq <= 0
+ R43: poly_1_spike_point_2_inside_0
+   - poly_1_spike_point_2_inside_0_constraint_0_eq <= 0
+ poly_1_spike_point_2_inside_0_constraint_0_eq_true:
+   0.9761904761904772 sina_0 - 4.535714285714287 cosa_0 + sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - cosa_ty_0
+   + 1.735714285714287 sina_0_sina_1 + 6.123809523809522 sina_0_cosa_1
+   - 6.123809523809522 cosa_0_sina_1 + 1.735714285714287 cosa_0_cosa_1
+   - sina_0_tx_1 - 2 sina_0_ty_1 - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_spike_point_2_inside_0_constraint_0_eq <= 2e+12
+ poly_1_spike_point_2_inside_0_constraint_0_eq_false:
+   - 0.9761904761904772 sina_0 + 4.535714285714287 cosa_0 - sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + cosa_ty_0
+   - 1.735714285714287 sina_0_sina_1 - 6.123809523809522 sina_0_cosa_1
+   + 6.123809523809522 cosa_0_sina_1 - 1.735714285714287 cosa_0_cosa_1
+   + sina_0_tx_1 + 2 sina_0_ty_1 + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_spike_point_2_inside_0_constraint_0_eq <= 0
+ R46: - poly_1_spike_point_2_inside_0
+   + poly_1_spike_point_2_inside_0_constraint_0_eq <= 0
+ R47: poly_1_spike_point_3_inside_0
+   - poly_1_spike_point_3_inside_0_constraint_0_eq <= 0
+ poly_1_spike_point_3_inside_0_constraint_0_eq_true:
+   0.9761904761904772 sina_0 - 4.535714285714287 cosa_0 + sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - cosa_ty_0
+   - 5.464285714285713 sina_0_sina_1 + 2.523809523809523 sina_0_cosa_1
+   - 2.523809523809523 cosa_0_sina_1 - 5.464285714285713 cosa_0_cosa_1
+   - sina_0_tx_1 - 2 sina_0_ty_1 - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_spike_point_3_inside_0_constraint_0_eq <= 2e+12
+ poly_1_spike_point_3_inside_0_constraint_0_eq_false:
+   - 0.9761904761904772 sina_0 + 4.535714285714287 cosa_0 - sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + cosa_ty_0
+   + 5.464285714285713 sina_0_sina_1 - 2.523809523809523 sina_0_cosa_1
+   + 2.523809523809523 cosa_0_sina_1 + 5.464285714285713 cosa_0_cosa_1
+   + sina_0_tx_1 + 2 sina_0_ty_1 + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_spike_point_3_inside_0_constraint_0_eq <= 0
+ R50: - poly_1_spike_point_3_inside_0
+   + poly_1_spike_point_3_inside_0_constraint_0_eq <= 0
+ R51: poly_1_spike_point_4_inside_0
+   - poly_1_spike_point_4_inside_0_constraint_0_eq <= 0
+ poly_1_spike_point_4_inside_0_constraint_0_eq_true:
+   0.9761904761904772 sina_0 - 4.535714285714287 cosa_0 + sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - cosa_ty_0
+   - 6.664285714285712 sina_0_sina_1 - 1.076190476190477 sina_0_cosa_1
+   + 1.076190476190477 cosa_0_sina_1 - 6.664285714285712 cosa_0_cosa_1
+   - sina_0_tx_1 - 2 sina_0_ty_1 - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_spike_point_4_inside_0_constraint_0_eq <= 2e+12
+ poly_1_spike_point_4_inside_0_constraint_0_eq_false:
+   - 0.9761904761904772 sina_0 + 4.535714285714287 cosa_0 - sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + cosa_ty_0
+   + 6.664285714285712 sina_0_sina_1 + 1.076190476190477 sina_0_cosa_1
+   - 1.076190476190477 cosa_0_sina_1 + 6.664285714285712 cosa_0_cosa_1
+   + sina_0_tx_1 + 2 sina_0_ty_1 + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_spike_point_4_inside_0_constraint_0_eq <= 0
+ R54: - poly_1_spike_point_4_inside_0
+   + poly_1_spike_point_4_inside_0_constraint_0_eq <= 0
+ R55: poly_1_spike_point_5_inside_0
+   - poly_1_spike_point_5_inside_0_constraint_0_eq <= 0
+ poly_1_spike_point_5_inside_0_constraint_0_eq_true:
+   0.9761904761904772 sina_0 - 4.535714285714287 cosa_0 + sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - cosa_ty_0
+   - 0.6642857142857128 sina_0_sina_1 - 7.076190476190477 sina_0_cosa_1
+   + 7.076190476190477 cosa_0_sina_1 - 0.6642857142857128 cosa_0_cosa_1
+   - sina_0_tx_1 - 2 sina_0_ty_1 - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_spike_point_5_inside_0_constraint_0_eq <= 2e+12
+ poly_1_spike_point_5_inside_0_constraint_0_eq_false:
+   - 0.9761904761904772 sina_0 + 4.535714285714287 cosa_0 - sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + cosa_ty_0
+   + 0.6642857142857128 sina_0_sina_1 + 7.076190476190477 sina_0_cosa_1
+   - 7.076190476190477 cosa_0_sina_1 + 0.6642857142857128 cosa_0_cosa_1
+   + sina_0_tx_1 + 2 sina_0_ty_1 + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_spike_point_5_inside_0_constraint_0_eq <= 0
+ R58: - poly_1_spike_point_5_inside_0
+   + poly_1_spike_point_5_inside_0_constraint_0_eq <= 0
+ R59: poly_1_spike_point_6_inside_0
+   - poly_1_spike_point_6_inside_0_constraint_0_eq <= 0
+ poly_1_spike_point_6_inside_0_constraint_0_eq_true:
+   0.9761904761904772 sina_0 - 4.535714285714287 cosa_0 + sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - cosa_ty_0
+   + 5.335714285714287 sina_0_sina_1 - 1.076190476190478 sina_0_cosa_1
+   + 1.076190476190478 cosa_0_sina_1 + 5.335714285714287 cosa_0_cosa_1
+   - sina_0_tx_1 - 2 sina_0_ty_1 - 2 cosa_0_tx_1 + cosa_0_ty_1
+   + 2e+12 poly_1_spike_point_6_inside_0_constraint_0_eq <= 2e+12
+ poly_1_spike_point_6_inside_0_constraint_0_eq_false:
+   - 0.9761904761904772 sina_0 + 4.535714285714287 cosa_0 - sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + cosa_ty_0
+   - 5.335714285714287 sina_0_sina_1 + 1.076190476190478 sina_0_cosa_1
+   - 1.076190476190478 cosa_0_sina_1 - 5.335714285714287 cosa_0_cosa_1
+   + sina_0_tx_1 + 2 sina_0_ty_1 + 2 cosa_0_tx_1 - cosa_0_ty_1
+   - 2e+12 poly_1_spike_point_6_inside_0_constraint_0_eq <= 0
+ R62: - poly_1_spike_point_6_inside_0
+   + poly_1_spike_point_6_inside_0_constraint_0_eq <= 0
+ R63: poly_2_point_0_inside_0 - poly_2_point_0_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_5_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 3629.754294825946 sina_1_sina_2 - 11605.34555491651 sina_1_cosa_2
-   + 11605.34555491651 cosa_1_sina_2 - 3629.754294825946 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_5_inside_2 <= 2e+09
- poly_1_spike_point_5_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 3629.754294825946 sina_1_sina_2
-   + 11605.34555491651 sina_1_cosa_2 - 11605.34555491651 cosa_1_sina_2
-   + 3629.754294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_5_inside_2
+ poly_2_point_0_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 + 4.494623655913979 sina_0_sina_2
+   - 3.849462365591399 sina_0_cosa_2 + 3.849462365591399 cosa_0_sina_2
+   + 4.494623655913979 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_0_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_0_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 - 4.494623655913979 sina_0_sina_2
+   + 3.849462365591399 sina_0_cosa_2 - 3.849462365591399 cosa_0_sina_2
+   - 4.494623655913979 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_0_inside_0_constraint_0_eq <= 0
+ R66: - poly_2_point_0_inside_0 + poly_2_point_0_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_6_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 4535.754294825946 sina_1_sina_2 - 12055.34555491651 sina_1_cosa_2
-   + 12055.34555491651 cosa_1_sina_2 - 4535.754294825946 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_6_inside_2 <= 2e+09
- poly_1_spike_point_6_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 4535.754294825946 sina_1_sina_2
-   + 12055.34555491651 sina_1_cosa_2 - 12055.34555491651 cosa_1_sina_2
-   + 4535.754294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_6_inside_2
+ R67: poly_2_point_0_inside_0 = 0
+ R68: poly_2_point_1_inside_0 - poly_2_point_1_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_7_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 5958.954294825946 sina_1_sina_2 - 8973.745554916506 sina_1_cosa_2
-   + 8973.745554916506 cosa_1_sina_2 - 5958.954294825946 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_7_inside_2 <= 2e+09
- poly_1_spike_point_7_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 5958.954294825946 sina_1_sina_2
-   + 8973.745554916506 sina_1_cosa_2 - 8973.745554916506 cosa_1_sina_2
-   + 5958.954294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_7_inside_2
+ poly_2_point_1_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 + 4.494623655913979 sina_0_sina_2
+   + 4.150537634408601 sina_0_cosa_2 - 4.150537634408601 cosa_0_sina_2
+   + 4.494623655913979 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_1_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_1_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 - 4.494623655913979 sina_0_sina_2
+   - 4.150537634408601 sina_0_cosa_2 + 4.150537634408601 cosa_0_sina_2
+   - 4.494623655913979 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_1_inside_0_constraint_0_eq <= 0
+ R71: - poly_2_point_1_inside_0 + poly_2_point_1_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_8_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 7458.954294825946 sina_1_sina_2 - 5487.745554916506 sina_1_cosa_2
-   + 5487.745554916506 cosa_1_sina_2 - 7458.954294825946 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_8_inside_2 <= 2e+09
- poly_1_spike_point_8_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 7458.954294825946 sina_1_sina_2
-   + 5487.745554916506 sina_1_cosa_2 - 5487.745554916506 cosa_1_sina_2
-   + 7458.954294825946 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_8_inside_2
+ R72: poly_2_point_1_inside_0 = 0
+ R73: poly_2_point_2_inside_0 - poly_2_point_2_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_9_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 8786.154294825947 sina_1_sina_2 - 2562.145554916507 sina_1_cosa_2
-   + 2562.145554916507 cosa_1_sina_2 - 8786.154294825947 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_9_inside_2 <= 2e+09
- poly_1_spike_point_9_inside_2_constraint_0_false: 1938.645554916507 sina_2
-   + 13735.84570517405 cosa_2 + 3 sina_tx_2 - 34 cosa_tx_2 - 34 sina_ty_2
-   - 3 cosa_ty_2 + 8786.154294825947 sina_1_sina_2
-   + 2562.145554916507 sina_1_cosa_2 - 2562.145554916507 cosa_1_sina_2
-   + 8786.154294825947 cosa_1_cosa_2 - 3 sina_2_tx_1 + 34 sina_2_ty_1
-   + 34 cosa_2_tx_1 + 3 cosa_2_ty_1 - 2e+09 poly_1_spike_point_9_inside_2
+ poly_2_point_2_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 + 2.494623655913979 sina_0_sina_2
+   + 10.1505376344086 sina_0_cosa_2 - 10.1505376344086 cosa_0_sina_2
+   + 2.494623655913979 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_2_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_2_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 - 2.494623655913979 sina_0_sina_2
+   - 10.1505376344086 sina_0_cosa_2 + 10.1505376344086 cosa_0_sina_2
+   - 2.494623655913979 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_2_inside_0_constraint_0_eq <= 0
+ R76: - poly_2_point_2_inside_0 + poly_2_point_2_inside_0_constraint_0_eq
    <= 0
- poly_1_spike_point_10_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 10533.35429482595 sina_1_sina_2 - 2.545554916506717 sina_1_cosa_2
-   + 2.545554916506717 cosa_1_sina_2 - 10533.35429482595 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_10_inside_2 <= 2e+09
- poly_1_spike_point_10_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 10533.35429482595 sina_1_sina_2 + 2.545554916506717 sina_1_cosa_2
-   - 2.545554916506717 cosa_1_sina_2 + 10533.35429482595 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_10_inside_2 <= 0
- poly_1_spike_point_11_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 11586.95429482595 sina_1_sina_2 + 2618.254445083493 sina_1_cosa_2
-   - 2618.254445083493 cosa_1_sina_2 - 11586.95429482595 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_11_inside_2 <= 2e+09
- poly_1_spike_point_11_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 11586.95429482595 sina_1_sina_2 - 2618.254445083493 sina_1_cosa_2
-   + 2618.254445083493 cosa_1_sina_2 + 11586.95429482595 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_11_inside_2 <= 0
- poly_1_spike_point_12_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 12914.15429482595 sina_1_sina_2 + 5543.854445083493 sina_1_cosa_2
-   - 5543.854445083493 cosa_1_sina_2 - 12914.15429482595 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_12_inside_2 <= 2e+09
- poly_1_spike_point_12_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 12914.15429482595 sina_1_sina_2 - 5543.854445083493 sina_1_cosa_2
-   + 5543.854445083493 cosa_1_sina_2 + 12914.15429482595 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_12_inside_2 <= 0
- poly_1_spike_point_13_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 14060.15429482595 sina_1_sina_2 + 8279.854445083492 sina_1_cosa_2
-   - 8279.854445083492 cosa_1_sina_2 - 14060.15429482595 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_13_inside_2 <= 2e+09
- poly_1_spike_point_13_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 14060.15429482595 sina_1_sina_2 - 8279.854445083492 sina_1_cosa_2
-   + 8279.854445083492 cosa_1_sina_2 + 14060.15429482595 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_13_inside_2 <= 0
- poly_1_spike_point_14_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 15887.75429482595 sina_1_sina_2 + 11284.65444508349 sina_1_cosa_2
-   - 11284.65444508349 cosa_1_sina_2 - 15887.75429482595 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_14_inside_2 <= 2e+09
- poly_1_spike_point_14_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 15887.75429482595 sina_1_sina_2 - 11284.65444508349 sina_1_cosa_2
-   + 11284.65444508349 cosa_1_sina_2 + 15887.75429482595 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_14_inside_2 <= 0
- poly_1_spike_point_15_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 12285.35429482595 sina_1_sina_2 + 10533.45444508349 sina_1_cosa_2
-   - 10533.45444508349 cosa_1_sina_2 - 12285.35429482595 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_15_inside_2 <= 2e+09
- poly_1_spike_point_15_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 12285.35429482595 sina_1_sina_2 - 10533.45444508349 sina_1_cosa_2
-   + 10533.45444508349 cosa_1_sina_2 + 12285.35429482595 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_15_inside_2 <= 0
- poly_1_spike_point_16_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 8837.754294825945 sina_1_sina_2 + 10138.65444508349 sina_1_cosa_2
-   - 10138.65444508349 cosa_1_sina_2 - 8837.754294825945 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_16_inside_2 <= 2e+09
- poly_1_spike_point_16_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 8837.754294825945 sina_1_sina_2 - 10138.65444508349 sina_1_cosa_2
-   + 10138.65444508349 cosa_1_sina_2 + 8837.754294825945 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_16_inside_2 <= 0
- poly_1_spike_point_17_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 5235.354294825946 sina_1_sina_2 + 9387.454445083493 sina_1_cosa_2
-   - 9387.454445083493 cosa_1_sina_2 - 5235.354294825946 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_17_inside_2 <= 2e+09
- poly_1_spike_point_17_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 5235.354294825946 sina_1_sina_2 - 9387.454445083493 sina_1_cosa_2
-   + 9387.454445083493 cosa_1_sina_2 + 5235.354294825946 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_17_inside_2 <= 0
- poly_1_spike_point_18_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   - 1544.154294825946 sina_1_sina_2 + 8561.854445083492 sina_1_cosa_2
-   - 8561.854445083492 cosa_1_sina_2 - 1544.154294825946 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_18_inside_2 <= 2e+09
- poly_1_spike_point_18_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   + 1544.154294825946 sina_1_sina_2 - 8561.854445083492 sina_1_cosa_2
-   + 8561.854445083492 cosa_1_sina_2 + 1544.154294825946 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_18_inside_2 <= 0
- poly_1_spike_point_19_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 1824.245705174054 sina_1_sina_2 + 7666.654445083494 sina_1_cosa_2
-   - 7666.654445083494 cosa_1_sina_2 + 1824.245705174054 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_19_inside_2 <= 2e+09
- poly_1_spike_point_19_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   - 1824.245705174054 sina_1_sina_2 - 7666.654445083494 sina_1_cosa_2
-   + 7666.654445083494 cosa_1_sina_2 - 1824.245705174054 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_19_inside_2 <= 0
- poly_1_spike_point_20_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 4628.645705174054 sina_1_sina_2 + 6639.454445083494 sina_1_cosa_2
-   - 6639.454445083494 cosa_1_sina_2 + 4628.645705174054 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_20_inside_2 <= 2e+09
- poly_1_spike_point_20_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   - 4628.645705174054 sina_1_sina_2 - 6639.454445083494 sina_1_cosa_2
-   + 6639.454445083494 cosa_1_sina_2 - 4628.645705174054 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_20_inside_2 <= 0
- poly_1_spike_point_21_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 7091.045705174053 sina_1_sina_2 + 5294.254445083494 sina_1_cosa_2
-   - 5294.254445083494 cosa_1_sina_2 + 7091.045705174053 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_21_inside_2 <= 2e+09
- poly_1_spike_point_21_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   - 7091.045705174053 sina_1_sina_2 - 5294.254445083494 sina_1_cosa_2
-   + 5294.254445083494 cosa_1_sina_2 - 7091.045705174053 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_21_inside_2 <= 0
- poly_1_spike_point_22_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 9305.045705174052 sina_1_sina_2 + 3968.254445083493 sina_1_cosa_2
-   - 3968.254445083493 cosa_1_sina_2 + 9305.045705174052 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_22_inside_2 <= 2e+09
- poly_1_spike_point_22_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   - 9305.045705174052 sina_1_sina_2 - 3968.254445083493 sina_1_cosa_2
-   + 3968.254445083493 cosa_1_sina_2 - 9305.045705174052 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_22_inside_2 <= 0
- poly_1_spike_point_23_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 11865.84570517405 sina_1_sina_2 + 1973.854445083493 sina_1_cosa_2
-   - 1973.854445083493 cosa_1_sina_2 + 11865.84570517405 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_23_inside_2 <= 2e+09
- poly_1_spike_point_23_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   - 11865.84570517405 sina_1_sina_2 - 1973.854445083493 sina_1_cosa_2
-   + 1973.854445083493 cosa_1_sina_2 - 11865.84570517405 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_23_inside_2 <= 0
- poly_1_spike_point_24_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 13631.04570517405 sina_1_sina_2 + 608.2544450834932 sina_1_cosa_2
-   - 608.2544450834932 cosa_1_sina_2 + 13631.04570517405 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_24_inside_2 <= 2e+09
- poly_1_spike_point_24_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   - 13631.04570517405 sina_1_sina_2 - 608.2544450834932 sina_1_cosa_2
-   + 608.2544450834932 cosa_1_sina_2 - 13631.04570517405 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_24_inside_2 <= 0
- poly_1_spike_point_25_inside_2_constraint_0_true:
-   - 1938.645554916507 sina_2 - 13735.84570517405 cosa_2 - 3 sina_tx_2
-   + 34 cosa_tx_2 + 34 sina_ty_2 + 3 cosa_ty_2
-   + 16367.04570517405 sina_1_sina_2 - 2439.745554916507 sina_1_cosa_2
-   + 2439.745554916507 cosa_1_sina_2 + 16367.04570517405 cosa_1_cosa_2
-   + 3 sina_2_tx_1 - 34 sina_2_ty_1 - 34 cosa_2_tx_1 - 3 cosa_2_ty_1
-   + 2e+09 poly_1_spike_point_25_inside_2 <= 2e+09
- poly_1_spike_point_25_inside_2_constraint_0_false:
-   1938.645554916507 sina_2 + 13735.84570517405 cosa_2 + 3 sina_tx_2
-   - 34 cosa_tx_2 - 34 sina_ty_2 - 3 cosa_ty_2
-   - 16367.04570517405 sina_1_sina_2 + 2439.745554916507 sina_1_cosa_2
-   - 2439.745554916507 cosa_1_sina_2 - 16367.04570517405 cosa_1_cosa_2
-   - 3 sina_2_tx_1 + 34 sina_2_ty_1 + 34 cosa_2_tx_1 + 3 cosa_2_ty_1
-   - 2e+09 poly_1_spike_point_25_inside_2 <= 0
+ R77: poly_2_point_2_inside_0 = 0
+ R78: poly_2_point_3_inside_0 - poly_2_point_3_inside_0_constraint_0_eq
+   <= 0
+ poly_2_point_3_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 - 3.505376344086021 sina_0_sina_2
+   + 4.150537634408601 sina_0_cosa_2 - 4.150537634408601 cosa_0_sina_2
+   - 3.505376344086021 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_3_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_3_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 + 3.505376344086021 sina_0_sina_2
+   - 4.150537634408601 sina_0_cosa_2 + 4.150537634408601 cosa_0_sina_2
+   + 3.505376344086021 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_3_inside_0_constraint_0_eq <= 0
+ R81: - poly_2_point_3_inside_0 + poly_2_point_3_inside_0_constraint_0_eq
+   <= 0
+ R82: poly_2_point_3_inside_0 = 0
+ R83: poly_2_point_4_inside_0 - poly_2_point_4_inside_0_constraint_0_eq
+   <= 0
+ poly_2_point_4_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 - 5.505376344086021 sina_0_sina_2
+   - 1.849462365591399 sina_0_cosa_2 + 1.849462365591399 cosa_0_sina_2
+   - 5.505376344086021 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_4_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_4_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 + 5.505376344086021 sina_0_sina_2
+   + 1.849462365591399 sina_0_cosa_2 - 1.849462365591399 cosa_0_sina_2
+   + 5.505376344086021 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_4_inside_0_constraint_0_eq <= 0
+ R86: - poly_2_point_4_inside_0 + poly_2_point_4_inside_0_constraint_0_eq
+   <= 0
+ R87: poly_2_point_4_inside_0 = 0
+ R88: poly_2_point_5_inside_0 - poly_2_point_5_inside_0_constraint_0_eq
+   <= 0
+ poly_2_point_5_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 - 3.505376344086021 sina_0_sina_2
+   - 7.849462365591399 sina_0_cosa_2 + 7.849462365591399 cosa_0_sina_2
+   - 3.505376344086021 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_5_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_5_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 + 3.505376344086021 sina_0_sina_2
+   + 7.849462365591399 sina_0_cosa_2 - 7.849462365591399 cosa_0_sina_2
+   + 3.505376344086021 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_5_inside_0_constraint_0_eq <= 0
+ R91: - poly_2_point_5_inside_0 + poly_2_point_5_inside_0_constraint_0_eq
+   <= 0
+ R92: poly_2_point_5_inside_0 = 0
+ R93: poly_2_point_6_inside_0 - poly_2_point_6_inside_0_constraint_0_eq
+   <= 0
+ poly_2_point_6_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 + 0.4946236559139789 sina_0_sina_2
+   - 7.849462365591399 sina_0_cosa_2 + 7.849462365591399 cosa_0_sina_2
+   + 0.4946236559139789 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_6_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_6_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 - 0.4946236559139789 sina_0_sina_2
+   + 7.849462365591399 sina_0_cosa_2 - 7.849462365591399 cosa_0_sina_2
+   - 0.4946236559139789 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_6_inside_0_constraint_0_eq <= 0
+ R96: - poly_2_point_6_inside_0 + poly_2_point_6_inside_0_constraint_0_eq
+   <= 0
+ R97: poly_2_point_6_inside_0 = 0
+ R98: poly_2_point_7_inside_0 - poly_2_point_7_inside_0_constraint_0_eq
+   <= 0
+ poly_2_point_7_inside_0_constraint_0_eq_true: 3.849462365591399 sina_0
+   - 4.494623655913979 cosa_0 + 2 sina_tx_0 + 2 cosa_tx_0 + 2 sina_ty_0
+   - 2 cosa_ty_0 + 4.494623655913979 sina_0_sina_2
+   - 3.849462365591399 sina_0_cosa_2 + 3.849462365591399 cosa_0_sina_2
+   + 4.494623655913979 cosa_0_cosa_2 - 2 sina_0_tx_2 - 2 sina_0_ty_2
+   - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_point_7_inside_0_constraint_0_eq <= 2e+12
+ poly_2_point_7_inside_0_constraint_0_eq_false: - 3.849462365591399 sina_0
+   + 4.494623655913979 cosa_0 - 2 sina_tx_0 - 2 cosa_tx_0 - 2 sina_ty_0
+   + 2 cosa_ty_0 - 4.494623655913979 sina_0_sina_2
+   + 3.849462365591399 sina_0_cosa_2 - 3.849462365591399 cosa_0_sina_2
+   - 4.494623655913979 cosa_0_cosa_2 + 2 sina_0_tx_2 + 2 sina_0_ty_2
+   + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_point_7_inside_0_constraint_0_eq <= 0
+ R101: - poly_2_point_7_inside_0 + poly_2_point_7_inside_0_constraint_0_eq
+   <= 0
+ R102: poly_2_point_7_inside_0 = 0
+ R103: poly_2_spike_point_0_inside_0
+   - poly_2_spike_point_0_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_0_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   + 5.294623655913979 sina_0_sina_2 - 4.649462365591399 sina_0_cosa_2
+   + 4.649462365591399 cosa_0_sina_2 + 5.294623655913979 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_0_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_0_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   - 5.294623655913979 sina_0_sina_2 + 4.649462365591399 sina_0_cosa_2
+   - 4.649462365591399 cosa_0_sina_2 - 5.294623655913979 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_0_inside_0_constraint_0_eq <= 0
+ R106: - poly_2_spike_point_0_inside_0
+   + poly_2_spike_point_0_inside_0_constraint_0_eq <= 0
+ R107: poly_2_spike_point_1_inside_0
+   - poly_2_spike_point_1_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_1_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   + 5.294623655913979 sina_0_sina_2 + 4.950537634408601 sina_0_cosa_2
+   - 4.950537634408601 cosa_0_sina_2 + 5.294623655913979 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_1_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_1_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   - 5.294623655913979 sina_0_sina_2 - 4.950537634408601 sina_0_cosa_2
+   + 4.950537634408601 cosa_0_sina_2 - 5.294623655913979 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_1_inside_0_constraint_0_eq <= 0
+ R110: - poly_2_spike_point_1_inside_0
+   + poly_2_spike_point_1_inside_0_constraint_0_eq <= 0
+ R111: poly_2_spike_point_2_inside_0
+   - poly_2_spike_point_2_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_2_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   + 2.894623655913978 sina_0_sina_2 + 12.1505376344086 sina_0_cosa_2
+   - 12.1505376344086 cosa_0_sina_2 + 2.894623655913978 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_2_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_2_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   - 2.894623655913978 sina_0_sina_2 - 12.1505376344086 sina_0_cosa_2
+   + 12.1505376344086 cosa_0_sina_2 - 2.894623655913978 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_2_inside_0_constraint_0_eq <= 0
+ R114: - poly_2_spike_point_2_inside_0
+   + poly_2_spike_point_2_inside_0_constraint_0_eq <= 0
+ R115: poly_2_spike_point_3_inside_0
+   - poly_2_spike_point_3_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_3_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   - 4.305376344086021 sina_0_sina_2 + 4.950537634408601 sina_0_cosa_2
+   - 4.950537634408601 cosa_0_sina_2 - 4.305376344086021 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_3_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_3_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   + 4.305376344086021 sina_0_sina_2 - 4.950537634408601 sina_0_cosa_2
+   + 4.950537634408601 cosa_0_sina_2 + 4.305376344086021 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_3_inside_0_constraint_0_eq <= 0
+ R118: - poly_2_spike_point_3_inside_0
+   + poly_2_spike_point_3_inside_0_constraint_0_eq <= 0
+ R119: poly_2_spike_point_4_inside_0
+   - poly_2_spike_point_4_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_4_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   - 6.705376344086021 sina_0_sina_2 - 2.249462365591399 sina_0_cosa_2
+   + 2.249462365591399 cosa_0_sina_2 - 6.705376344086021 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_4_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_4_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   + 6.705376344086021 sina_0_sina_2 + 2.249462365591399 sina_0_cosa_2
+   - 2.249462365591399 cosa_0_sina_2 + 6.705376344086021 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_4_inside_0_constraint_0_eq <= 0
+ R122: - poly_2_spike_point_4_inside_0
+   + poly_2_spike_point_4_inside_0_constraint_0_eq <= 0
+ R123: poly_2_spike_point_5_inside_0
+   - poly_2_spike_point_5_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_5_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   - 4.305376344086021 sina_0_sina_2 - 9.449462365591399 sina_0_cosa_2
+   + 9.449462365591399 cosa_0_sina_2 - 4.305376344086021 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_5_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_5_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   + 4.305376344086021 sina_0_sina_2 + 9.449462365591399 sina_0_cosa_2
+   - 9.449462365591399 cosa_0_sina_2 + 4.305376344086021 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_5_inside_0_constraint_0_eq <= 0
+ R126: - poly_2_spike_point_5_inside_0
+   + poly_2_spike_point_5_inside_0_constraint_0_eq <= 0
+ R127: poly_2_spike_point_6_inside_0
+   - poly_2_spike_point_6_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_6_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   + 0.4946236559139789 sina_0_sina_2 - 9.449462365591398 sina_0_cosa_2
+   + 9.449462365591398 cosa_0_sina_2 + 0.4946236559139789 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_6_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_6_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   - 0.4946236559139789 sina_0_sina_2 + 9.449462365591398 sina_0_cosa_2
+   - 9.449462365591398 cosa_0_sina_2 - 0.4946236559139789 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_6_inside_0_constraint_0_eq <= 0
+ R130: - poly_2_spike_point_6_inside_0
+   + poly_2_spike_point_6_inside_0_constraint_0_eq <= 0
+ R131: poly_2_spike_point_7_inside_0
+   - poly_2_spike_point_7_inside_0_constraint_0_eq <= 0
+ poly_2_spike_point_7_inside_0_constraint_0_eq_true:
+   3.849462365591399 sina_0 - 4.494623655913979 cosa_0 + 2 sina_tx_0
+   + 2 cosa_tx_0 + 2 sina_ty_0 - 2 cosa_ty_0
+   + 5.294623655913979 sina_0_sina_2 - 4.649462365591399 sina_0_cosa_2
+   + 4.649462365591399 cosa_0_sina_2 + 5.294623655913979 cosa_0_cosa_2
+   - 2 sina_0_tx_2 - 2 sina_0_ty_2 - 2 cosa_0_tx_2 + 2 cosa_0_ty_2
+   + 2e+12 poly_2_spike_point_7_inside_0_constraint_0_eq <= 2e+12
+ poly_2_spike_point_7_inside_0_constraint_0_eq_false:
+   - 3.849462365591399 sina_0 + 4.494623655913979 cosa_0 - 2 sina_tx_0
+   - 2 cosa_tx_0 - 2 sina_ty_0 + 2 cosa_ty_0
+   - 5.294623655913979 sina_0_sina_2 + 4.649462365591399 sina_0_cosa_2
+   - 4.649462365591399 cosa_0_sina_2 - 5.294623655913979 cosa_0_cosa_2
+   + 2 sina_0_tx_2 + 2 sina_0_ty_2 + 2 cosa_0_tx_2 - 2 cosa_0_ty_2
+   - 2e+12 poly_2_spike_point_7_inside_0_constraint_0_eq <= 0
+ R134: - poly_2_spike_point_7_inside_0
+   + poly_2_spike_point_7_inside_0_constraint_0_eq <= 0
+ R135: poly_0_point_0_inside_1 - poly_0_point_0_inside_1_constraint_0_eq
+   <= 0
+ poly_0_point_0_inside_1_constraint_0_eq_true: 5.571428571428571 sina_1
+   - 5.642857142857144 cosa_1 + 3 sina_tx_1 - 3 cosa_ty_1
+   + 5.642857142857144 sina_0_sina_1 + 5.571428571428571 sina_0_cosa_1
+   - 5.571428571428571 cosa_0_sina_1 + 5.642857142857144 cosa_0_cosa_1
+   - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_point_0_inside_1_constraint_0_eq <= 2e+12
+ poly_0_point_0_inside_1_constraint_0_eq_false: - 5.571428571428571 sina_1
+   + 5.642857142857144 cosa_1 - 3 sina_tx_1 + 3 cosa_ty_1
+   - 5.642857142857144 sina_0_sina_1 - 5.571428571428571 sina_0_cosa_1
+   + 5.571428571428571 cosa_0_sina_1 - 5.642857142857144 cosa_0_cosa_1
+   + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_point_0_inside_1_constraint_0_eq <= 0
+ R138: - poly_0_point_0_inside_1 + poly_0_point_0_inside_1_constraint_0_eq
+   <= 0
+ R139: poly_0_point_0_inside_1 = 0
+ R140: poly_0_point_1_inside_1 - poly_0_point_1_inside_1_constraint_0_eq
+   <= 0
+ poly_0_point_1_inside_1_constraint_0_eq_true: 5.571428571428571 sina_1
+   - 5.642857142857144 cosa_1 + 3 sina_tx_1 - 3 cosa_ty_1
+   + 5.642857142857144 sina_0_sina_1 - 3.428571428571428 sina_0_cosa_1
+   + 3.428571428571428 cosa_0_sina_1 + 5.642857142857144 cosa_0_cosa_1
+   - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_point_1_inside_1_constraint_0_eq <= 2e+12
+ poly_0_point_1_inside_1_constraint_0_eq_false: - 5.571428571428571 sina_1
+   + 5.642857142857144 cosa_1 - 3 sina_tx_1 + 3 cosa_ty_1
+   - 5.642857142857144 sina_0_sina_1 + 3.428571428571428 sina_0_cosa_1
+   - 3.428571428571428 cosa_0_sina_1 - 5.642857142857144 cosa_0_cosa_1
+   + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_point_1_inside_1_constraint_0_eq <= 0
+ R143: - poly_0_point_1_inside_1 + poly_0_point_1_inside_1_constraint_0_eq
+   <= 0
+ R144: poly_0_point_1_inside_1 = 0
+ R145: poly_0_point_2_inside_1 - poly_0_point_2_inside_1_constraint_0_eq
+   <= 0
+ poly_0_point_2_inside_1_constraint_0_eq_true: 5.571428571428571 sina_1
+   - 5.642857142857144 cosa_1 + 3 sina_tx_1 - 3 cosa_ty_1
+   - 0.3571428571428559 sina_0_sina_1 - 6.428571428571429 sina_0_cosa_1
+   + 6.428571428571429 cosa_0_sina_1 - 0.3571428571428559 cosa_0_cosa_1
+   - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_point_2_inside_1_constraint_0_eq <= 2e+12
+ poly_0_point_2_inside_1_constraint_0_eq_false: - 5.571428571428571 sina_1
+   + 5.642857142857144 cosa_1 - 3 sina_tx_1 + 3 cosa_ty_1
+   + 0.3571428571428559 sina_0_sina_1 + 6.428571428571429 sina_0_cosa_1
+   - 6.428571428571429 cosa_0_sina_1 + 0.3571428571428559 cosa_0_cosa_1
+   + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_point_2_inside_1_constraint_0_eq <= 0
+ R148: - poly_0_point_2_inside_1 + poly_0_point_2_inside_1_constraint_0_eq
+   <= 0
+ R149: poly_0_point_2_inside_1 = 0
+ R150: poly_0_point_3_inside_1 - poly_0_point_3_inside_1_constraint_0_eq
+   <= 0
+ poly_0_point_3_inside_1_constraint_0_eq_true: 5.571428571428571 sina_1
+   - 5.642857142857144 cosa_1 + 3 sina_tx_1 - 3 cosa_ty_1
+   - 9.357142857142856 sina_0_sina_1 - 3.428571428571428 sina_0_cosa_1
+   + 3.428571428571428 cosa_0_sina_1 - 9.357142857142856 cosa_0_cosa_1
+   - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_point_3_inside_1_constraint_0_eq <= 2e+12
+ poly_0_point_3_inside_1_constraint_0_eq_false: - 5.571428571428571 sina_1
+   + 5.642857142857144 cosa_1 - 3 sina_tx_1 + 3 cosa_ty_1
+   + 9.357142857142856 sina_0_sina_1 + 3.428571428571428 sina_0_cosa_1
+   - 3.428571428571428 cosa_0_sina_1 + 9.357142857142856 cosa_0_cosa_1
+   + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_point_3_inside_1_constraint_0_eq <= 0
+ R153: - poly_0_point_3_inside_1 + poly_0_point_3_inside_1_constraint_0_eq
+   <= 0
+ R154: poly_0_point_3_inside_1 = 0
+ R155: poly_0_point_4_inside_1 - poly_0_point_4_inside_1_constraint_0_eq
+   <= 0
+ poly_0_point_4_inside_1_constraint_0_eq_true: 5.571428571428571 sina_1
+   - 5.642857142857144 cosa_1 + 3 sina_tx_1 - 3 cosa_ty_1
+   - 3.357142857142856 sina_0_sina_1 + 2.571428571428572 sina_0_cosa_1
+   - 2.571428571428572 cosa_0_sina_1 - 3.357142857142856 cosa_0_cosa_1
+   - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_point_4_inside_1_constraint_0_eq <= 2e+12
+ poly_0_point_4_inside_1_constraint_0_eq_false: - 5.571428571428571 sina_1
+   + 5.642857142857144 cosa_1 - 3 sina_tx_1 + 3 cosa_ty_1
+   + 3.357142857142856 sina_0_sina_1 - 2.571428571428572 sina_0_cosa_1
+   + 2.571428571428572 cosa_0_sina_1 + 3.357142857142856 cosa_0_cosa_1
+   + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_point_4_inside_1_constraint_0_eq <= 0
+ R158: - poly_0_point_4_inside_1 + poly_0_point_4_inside_1_constraint_0_eq
+   <= 0
+ R159: poly_0_point_4_inside_1 = 0
+ R160: poly_0_point_5_inside_1 - poly_0_point_5_inside_1_constraint_0_eq
+   <= 0
+ poly_0_point_5_inside_1_constraint_0_eq_true: 5.571428571428571 sina_1
+   - 5.642857142857144 cosa_1 + 3 sina_tx_1 - 3 cosa_ty_1
+   + 2.642857142857144 sina_0_sina_1 + 8.571428571428571 sina_0_cosa_1
+   - 8.571428571428571 cosa_0_sina_1 + 2.642857142857144 cosa_0_cosa_1
+   - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_point_5_inside_1_constraint_0_eq <= 2e+12
+ poly_0_point_5_inside_1_constraint_0_eq_false: - 5.571428571428571 sina_1
+   + 5.642857142857144 cosa_1 - 3 sina_tx_1 + 3 cosa_ty_1
+   - 2.642857142857144 sina_0_sina_1 - 8.571428571428571 sina_0_cosa_1
+   + 8.571428571428571 cosa_0_sina_1 - 2.642857142857144 cosa_0_cosa_1
+   + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_point_5_inside_1_constraint_0_eq <= 0
+ R163: - poly_0_point_5_inside_1 + poly_0_point_5_inside_1_constraint_0_eq
+   <= 0
+ R164: poly_0_point_5_inside_1 = 0
+ R165: poly_0_point_6_inside_1 - poly_0_point_6_inside_1_constraint_0_eq
+   <= 0
+ poly_0_point_6_inside_1_constraint_0_eq_true: 5.571428571428571 sina_1
+   - 5.642857142857144 cosa_1 + 3 sina_tx_1 - 3 cosa_ty_1
+   + 5.642857142857144 sina_0_sina_1 + 5.571428571428571 sina_0_cosa_1
+   - 5.571428571428571 cosa_0_sina_1 + 5.642857142857144 cosa_0_cosa_1
+   - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_point_6_inside_1_constraint_0_eq <= 2e+12
+ poly_0_point_6_inside_1_constraint_0_eq_false: - 5.571428571428571 sina_1
+   + 5.642857142857144 cosa_1 - 3 sina_tx_1 + 3 cosa_ty_1
+   - 5.642857142857144 sina_0_sina_1 - 5.571428571428571 sina_0_cosa_1
+   + 5.571428571428571 cosa_0_sina_1 - 5.642857142857144 cosa_0_cosa_1
+   + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_point_6_inside_1_constraint_0_eq <= 0
+ R168: - poly_0_point_6_inside_1 + poly_0_point_6_inside_1_constraint_0_eq
+   <= 0
+ R169: poly_0_point_6_inside_1 = 0
+ R170: poly_0_spike_point_0_inside_1
+   - poly_0_spike_point_0_inside_1_constraint_0_eq <= 0
+ poly_0_spike_point_0_inside_1_constraint_0_eq_true:
+   5.571428571428571 sina_1 - 5.642857142857144 cosa_1 + 3 sina_tx_1
+   - 3 cosa_ty_1 + 7.142857142857144 sina_0_sina_1
+   + 6.471428571428572 sina_0_cosa_1 - 6.471428571428572 cosa_0_sina_1
+   + 7.142857142857144 cosa_0_cosa_1 - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_spike_point_0_inside_1_constraint_0_eq <= 2e+12
+ poly_0_spike_point_0_inside_1_constraint_0_eq_false:
+   - 5.571428571428571 sina_1 + 5.642857142857144 cosa_1 - 3 sina_tx_1
+   + 3 cosa_ty_1 - 7.142857142857144 sina_0_sina_1
+   - 6.471428571428572 sina_0_cosa_1 + 6.471428571428572 cosa_0_sina_1
+   - 7.142857142857144 cosa_0_cosa_1 + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_spike_point_0_inside_1_constraint_0_eq <= 0
+ R173: - poly_0_spike_point_0_inside_1
+   + poly_0_spike_point_0_inside_1_constraint_0_eq <= 0
+ R174: poly_0_spike_point_1_inside_1
+   - poly_0_spike_point_1_inside_1_constraint_0_eq <= 0
+ poly_0_spike_point_1_inside_1_constraint_0_eq_true:
+   5.571428571428571 sina_1 - 5.642857142857144 cosa_1 + 3 sina_tx_1
+   - 3 cosa_ty_1 + 7.142857142857144 sina_0_sina_1
+   - 4.328571428571427 sina_0_cosa_1 + 4.328571428571427 cosa_0_sina_1
+   + 7.142857142857144 cosa_0_cosa_1 - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_spike_point_1_inside_1_constraint_0_eq <= 2e+12
+ poly_0_spike_point_1_inside_1_constraint_0_eq_false:
+   - 5.571428571428571 sina_1 + 5.642857142857144 cosa_1 - 3 sina_tx_1
+   + 3 cosa_ty_1 - 7.142857142857144 sina_0_sina_1
+   + 4.328571428571427 sina_0_cosa_1 - 4.328571428571427 cosa_0_sina_1
+   - 7.142857142857144 cosa_0_cosa_1 + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_spike_point_1_inside_1_constraint_0_eq <= 0
+ R177: - poly_0_spike_point_1_inside_1
+   + poly_0_spike_point_1_inside_1_constraint_0_eq <= 0
+ R178: poly_0_spike_point_2_inside_1
+   - poly_0_spike_point_2_inside_1_constraint_0_eq <= 0
+ poly_0_spike_point_2_inside_1_constraint_0_eq_true:
+   5.571428571428571 sina_1 - 5.642857142857144 cosa_1 + 3 sina_tx_1
+   - 3 cosa_ty_1 - 0.0571428571428559 sina_0_sina_1
+   - 7.928571428571429 sina_0_cosa_1 + 7.928571428571429 cosa_0_sina_1
+   - 0.0571428571428559 cosa_0_cosa_1 - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_spike_point_2_inside_1_constraint_0_eq <= 2e+12
+ poly_0_spike_point_2_inside_1_constraint_0_eq_false:
+   - 5.571428571428571 sina_1 + 5.642857142857144 cosa_1 - 3 sina_tx_1
+   + 3 cosa_ty_1 + 0.0571428571428559 sina_0_sina_1
+   + 7.928571428571429 sina_0_cosa_1 - 7.928571428571429 cosa_0_sina_1
+   + 0.0571428571428559 cosa_0_cosa_1 + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_spike_point_2_inside_1_constraint_0_eq <= 0
+ R181: - poly_0_spike_point_2_inside_1
+   + poly_0_spike_point_2_inside_1_constraint_0_eq <= 0
+ R182: poly_0_spike_point_3_inside_1
+   - poly_0_spike_point_3_inside_1_constraint_0_eq <= 0
+ poly_0_spike_point_3_inside_1_constraint_0_eq_true:
+   5.571428571428571 sina_1 - 5.642857142857144 cosa_1 + 3 sina_tx_1
+   - 3 cosa_ty_1 - 10.85714285714285 sina_0_sina_1
+   - 4.328571428571427 sina_0_cosa_1 + 4.328571428571427 cosa_0_sina_1
+   - 10.85714285714285 cosa_0_cosa_1 - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_spike_point_3_inside_1_constraint_0_eq <= 2e+12
+ poly_0_spike_point_3_inside_1_constraint_0_eq_false:
+   - 5.571428571428571 sina_1 + 5.642857142857144 cosa_1 - 3 sina_tx_1
+   + 3 cosa_ty_1 + 10.85714285714285 sina_0_sina_1
+   + 4.328571428571427 sina_0_cosa_1 - 4.328571428571427 cosa_0_sina_1
+   + 10.85714285714285 cosa_0_cosa_1 + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_spike_point_3_inside_1_constraint_0_eq <= 0
+ R185: - poly_0_spike_point_3_inside_1
+   + poly_0_spike_point_3_inside_1_constraint_0_eq <= 0
+ R186: poly_0_spike_point_4_inside_1
+   - poly_0_spike_point_4_inside_1_constraint_0_eq <= 0
+ poly_0_spike_point_4_inside_1_constraint_0_eq_true:
+   5.571428571428571 sina_1 - 5.642857142857144 cosa_1 + 3 sina_tx_1
+   - 3 cosa_ty_1 - 3.657142857142856 sina_0_sina_1
+   + 2.871428571428572 sina_0_cosa_1 - 2.871428571428572 cosa_0_sina_1
+   - 3.657142857142856 cosa_0_cosa_1 - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_spike_point_4_inside_1_constraint_0_eq <= 2e+12
+ poly_0_spike_point_4_inside_1_constraint_0_eq_false:
+   - 5.571428571428571 sina_1 + 5.642857142857144 cosa_1 - 3 sina_tx_1
+   + 3 cosa_ty_1 + 3.657142857142856 sina_0_sina_1
+   - 2.871428571428572 sina_0_cosa_1 + 2.871428571428572 cosa_0_sina_1
+   + 3.657142857142856 cosa_0_cosa_1 + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_spike_point_4_inside_1_constraint_0_eq <= 0
+ R189: - poly_0_spike_point_4_inside_1
+   + poly_0_spike_point_4_inside_1_constraint_0_eq <= 0
+ R190: poly_0_spike_point_5_inside_1
+   - poly_0_spike_point_5_inside_1_constraint_0_eq <= 0
+ poly_0_spike_point_5_inside_1_constraint_0_eq_true:
+   5.571428571428571 sina_1 - 5.642857142857144 cosa_1 + 3 sina_tx_1
+   - 3 cosa_ty_1 + 3.542857142857144 sina_0_sina_1
+   + 10.07142857142857 sina_0_cosa_1 - 10.07142857142857 cosa_0_sina_1
+   + 3.542857142857144 cosa_0_cosa_1 - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_spike_point_5_inside_1_constraint_0_eq <= 2e+12
+ poly_0_spike_point_5_inside_1_constraint_0_eq_false:
+   - 5.571428571428571 sina_1 + 5.642857142857144 cosa_1 - 3 sina_tx_1
+   + 3 cosa_ty_1 - 3.542857142857144 sina_0_sina_1
+   - 10.07142857142857 sina_0_cosa_1 + 10.07142857142857 cosa_0_sina_1
+   - 3.542857142857144 cosa_0_cosa_1 + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_spike_point_5_inside_1_constraint_0_eq <= 0
+ R193: - poly_0_spike_point_5_inside_1
+   + poly_0_spike_point_5_inside_1_constraint_0_eq <= 0
+ R194: poly_0_spike_point_6_inside_1
+   - poly_0_spike_point_6_inside_1_constraint_0_eq <= 0
+ poly_0_spike_point_6_inside_1_constraint_0_eq_true:
+   5.571428571428571 sina_1 - 5.642857142857144 cosa_1 + 3 sina_tx_1
+   - 3 cosa_ty_1 + 7.142857142857144 sina_0_sina_1
+   + 6.471428571428572 sina_0_cosa_1 - 6.471428571428572 cosa_0_sina_1
+   + 7.142857142857144 cosa_0_cosa_1 - 3 sina_1_tx_0 + 3 cosa_1_ty_0
+   + 2e+12 poly_0_spike_point_6_inside_1_constraint_0_eq <= 2e+12
+ poly_0_spike_point_6_inside_1_constraint_0_eq_false:
+   - 5.571428571428571 sina_1 + 5.642857142857144 cosa_1 - 3 sina_tx_1
+   + 3 cosa_ty_1 - 7.142857142857144 sina_0_sina_1
+   - 6.471428571428572 sina_0_cosa_1 + 6.471428571428572 cosa_0_sina_1
+   - 7.142857142857144 cosa_0_cosa_1 + 3 sina_1_tx_0 - 3 cosa_1_ty_0
+   - 2e+12 poly_0_spike_point_6_inside_1_constraint_0_eq <= 0
+ R197: - poly_0_spike_point_6_inside_1
+   + poly_0_spike_point_6_inside_1_constraint_0_eq <= 0
+ R198: poly_2_point_0_inside_1 - poly_2_point_0_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_0_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 + 4.494623655913979 sina_1_sina_2
+   - 3.849462365591399 sina_1_cosa_2 + 3.849462365591399 cosa_1_sina_2
+   + 4.494623655913979 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_0_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_0_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 - 4.494623655913979 sina_1_sina_2
+   + 3.849462365591399 sina_1_cosa_2 - 3.849462365591399 cosa_1_sina_2
+   - 4.494623655913979 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_0_inside_1_constraint_0_eq <= 0
+ R201: - poly_2_point_0_inside_1 + poly_2_point_0_inside_1_constraint_0_eq
+   <= 0
+ R202: poly_2_point_0_inside_1 = 0
+ R203: poly_2_point_1_inside_1 - poly_2_point_1_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_1_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 + 4.494623655913979 sina_1_sina_2
+   + 4.150537634408601 sina_1_cosa_2 - 4.150537634408601 cosa_1_sina_2
+   + 4.494623655913979 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_1_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_1_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 - 4.494623655913979 sina_1_sina_2
+   - 4.150537634408601 sina_1_cosa_2 + 4.150537634408601 cosa_1_sina_2
+   - 4.494623655913979 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_1_inside_1_constraint_0_eq <= 0
+ R206: - poly_2_point_1_inside_1 + poly_2_point_1_inside_1_constraint_0_eq
+   <= 0
+ R207: poly_2_point_1_inside_1 = 0
+ R208: poly_2_point_2_inside_1 - poly_2_point_2_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_2_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 + 2.494623655913979 sina_1_sina_2
+   + 10.1505376344086 sina_1_cosa_2 - 10.1505376344086 cosa_1_sina_2
+   + 2.494623655913979 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_2_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_2_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 - 2.494623655913979 sina_1_sina_2
+   - 10.1505376344086 sina_1_cosa_2 + 10.1505376344086 cosa_1_sina_2
+   - 2.494623655913979 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_2_inside_1_constraint_0_eq <= 0
+ R211: - poly_2_point_2_inside_1 + poly_2_point_2_inside_1_constraint_0_eq
+   <= 0
+ R212: poly_2_point_2_inside_1 = 0
+ R213: poly_2_point_3_inside_1 - poly_2_point_3_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_3_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 - 3.505376344086021 sina_1_sina_2
+   + 4.150537634408601 sina_1_cosa_2 - 4.150537634408601 cosa_1_sina_2
+   - 3.505376344086021 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_3_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_3_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 + 3.505376344086021 sina_1_sina_2
+   - 4.150537634408601 sina_1_cosa_2 + 4.150537634408601 cosa_1_sina_2
+   + 3.505376344086021 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_3_inside_1_constraint_0_eq <= 0
+ R216: - poly_2_point_3_inside_1 + poly_2_point_3_inside_1_constraint_0_eq
+   <= 0
+ R217: poly_2_point_3_inside_1 = 0
+ R218: poly_2_point_4_inside_1 - poly_2_point_4_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_4_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 - 5.505376344086021 sina_1_sina_2
+   - 1.849462365591399 sina_1_cosa_2 + 1.849462365591399 cosa_1_sina_2
+   - 5.505376344086021 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_4_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_4_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 + 5.505376344086021 sina_1_sina_2
+   + 1.849462365591399 sina_1_cosa_2 - 1.849462365591399 cosa_1_sina_2
+   + 5.505376344086021 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_4_inside_1_constraint_0_eq <= 0
+ R221: - poly_2_point_4_inside_1 + poly_2_point_4_inside_1_constraint_0_eq
+   <= 0
+ R222: poly_2_point_4_inside_1 = 0
+ R223: poly_2_point_5_inside_1 - poly_2_point_5_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_5_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 - 3.505376344086021 sina_1_sina_2
+   - 7.849462365591399 sina_1_cosa_2 + 7.849462365591399 cosa_1_sina_2
+   - 3.505376344086021 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_5_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_5_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 + 3.505376344086021 sina_1_sina_2
+   + 7.849462365591399 sina_1_cosa_2 - 7.849462365591399 cosa_1_sina_2
+   + 3.505376344086021 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_5_inside_1_constraint_0_eq <= 0
+ R226: - poly_2_point_5_inside_1 + poly_2_point_5_inside_1_constraint_0_eq
+   <= 0
+ R227: poly_2_point_5_inside_1 = 0
+ R228: poly_2_point_6_inside_1 - poly_2_point_6_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_6_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 + 0.4946236559139789 sina_1_sina_2
+   - 7.849462365591399 sina_1_cosa_2 + 7.849462365591399 cosa_1_sina_2
+   + 0.4946236559139789 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_6_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_6_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 - 0.4946236559139789 sina_1_sina_2
+   + 7.849462365591399 sina_1_cosa_2 - 7.849462365591399 cosa_1_sina_2
+   - 0.4946236559139789 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_6_inside_1_constraint_0_eq <= 0
+ R231: - poly_2_point_6_inside_1 + poly_2_point_6_inside_1_constraint_0_eq
+   <= 0
+ R232: poly_2_point_6_inside_1 = 0
+ R233: poly_2_point_7_inside_1 - poly_2_point_7_inside_1_constraint_0_eq
+   <= 0
+ poly_2_point_7_inside_1_constraint_0_eq_true: 3.849462365591399 sina_1
+   - 4.494623655913979 cosa_1 + 2 sina_tx_1 + 2 cosa_tx_1 + 2 sina_ty_1
+   - 2 cosa_ty_1 + 4.494623655913979 sina_1_sina_2
+   - 3.849462365591399 sina_1_cosa_2 + 3.849462365591399 cosa_1_sina_2
+   + 4.494623655913979 cosa_1_cosa_2 - 2 sina_1_tx_2 - 2 sina_1_ty_2
+   - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_point_7_inside_1_constraint_0_eq <= 2e+12
+ poly_2_point_7_inside_1_constraint_0_eq_false: - 3.849462365591399 sina_1
+   + 4.494623655913979 cosa_1 - 2 sina_tx_1 - 2 cosa_tx_1 - 2 sina_ty_1
+   + 2 cosa_ty_1 - 4.494623655913979 sina_1_sina_2
+   + 3.849462365591399 sina_1_cosa_2 - 3.849462365591399 cosa_1_sina_2
+   - 4.494623655913979 cosa_1_cosa_2 + 2 sina_1_tx_2 + 2 sina_1_ty_2
+   + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_point_7_inside_1_constraint_0_eq <= 0
+ R236: - poly_2_point_7_inside_1 + poly_2_point_7_inside_1_constraint_0_eq
+   <= 0
+ R237: poly_2_point_7_inside_1 = 0
+ R238: poly_2_spike_point_0_inside_1
+   - poly_2_spike_point_0_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_0_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   + 5.294623655913979 sina_1_sina_2 - 4.649462365591399 sina_1_cosa_2
+   + 4.649462365591399 cosa_1_sina_2 + 5.294623655913979 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_0_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_0_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   - 5.294623655913979 sina_1_sina_2 + 4.649462365591399 sina_1_cosa_2
+   - 4.649462365591399 cosa_1_sina_2 - 5.294623655913979 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_0_inside_1_constraint_0_eq <= 0
+ R241: - poly_2_spike_point_0_inside_1
+   + poly_2_spike_point_0_inside_1_constraint_0_eq <= 0
+ R242: poly_2_spike_point_1_inside_1
+   - poly_2_spike_point_1_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_1_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   + 5.294623655913979 sina_1_sina_2 + 4.950537634408601 sina_1_cosa_2
+   - 4.950537634408601 cosa_1_sina_2 + 5.294623655913979 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_1_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_1_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   - 5.294623655913979 sina_1_sina_2 - 4.950537634408601 sina_1_cosa_2
+   + 4.950537634408601 cosa_1_sina_2 - 5.294623655913979 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_1_inside_1_constraint_0_eq <= 0
+ R245: - poly_2_spike_point_1_inside_1
+   + poly_2_spike_point_1_inside_1_constraint_0_eq <= 0
+ R246: poly_2_spike_point_2_inside_1
+   - poly_2_spike_point_2_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_2_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   + 2.894623655913978 sina_1_sina_2 + 12.1505376344086 sina_1_cosa_2
+   - 12.1505376344086 cosa_1_sina_2 + 2.894623655913978 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_2_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_2_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   - 2.894623655913978 sina_1_sina_2 - 12.1505376344086 sina_1_cosa_2
+   + 12.1505376344086 cosa_1_sina_2 - 2.894623655913978 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_2_inside_1_constraint_0_eq <= 0
+ R249: - poly_2_spike_point_2_inside_1
+   + poly_2_spike_point_2_inside_1_constraint_0_eq <= 0
+ R250: poly_2_spike_point_3_inside_1
+   - poly_2_spike_point_3_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_3_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   - 4.305376344086021 sina_1_sina_2 + 4.950537634408601 sina_1_cosa_2
+   - 4.950537634408601 cosa_1_sina_2 - 4.305376344086021 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_3_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_3_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   + 4.305376344086021 sina_1_sina_2 - 4.950537634408601 sina_1_cosa_2
+   + 4.950537634408601 cosa_1_sina_2 + 4.305376344086021 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_3_inside_1_constraint_0_eq <= 0
+ R253: - poly_2_spike_point_3_inside_1
+   + poly_2_spike_point_3_inside_1_constraint_0_eq <= 0
+ R254: poly_2_spike_point_4_inside_1
+   - poly_2_spike_point_4_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_4_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   - 6.705376344086021 sina_1_sina_2 - 2.249462365591399 sina_1_cosa_2
+   + 2.249462365591399 cosa_1_sina_2 - 6.705376344086021 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_4_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_4_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   + 6.705376344086021 sina_1_sina_2 + 2.249462365591399 sina_1_cosa_2
+   - 2.249462365591399 cosa_1_sina_2 + 6.705376344086021 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_4_inside_1_constraint_0_eq <= 0
+ R257: - poly_2_spike_point_4_inside_1
+   + poly_2_spike_point_4_inside_1_constraint_0_eq <= 0
+ R258: poly_2_spike_point_5_inside_1
+   - poly_2_spike_point_5_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_5_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   - 4.305376344086021 sina_1_sina_2 - 9.449462365591399 sina_1_cosa_2
+   + 9.449462365591399 cosa_1_sina_2 - 4.305376344086021 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_5_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_5_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   + 4.305376344086021 sina_1_sina_2 + 9.449462365591399 sina_1_cosa_2
+   - 9.449462365591399 cosa_1_sina_2 + 4.305376344086021 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_5_inside_1_constraint_0_eq <= 0
+ R261: - poly_2_spike_point_5_inside_1
+   + poly_2_spike_point_5_inside_1_constraint_0_eq <= 0
+ R262: poly_2_spike_point_6_inside_1
+   - poly_2_spike_point_6_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_6_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   + 0.4946236559139789 sina_1_sina_2 - 9.449462365591398 sina_1_cosa_2
+   + 9.449462365591398 cosa_1_sina_2 + 0.4946236559139789 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_6_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_6_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   - 0.4946236559139789 sina_1_sina_2 + 9.449462365591398 sina_1_cosa_2
+   - 9.449462365591398 cosa_1_sina_2 - 0.4946236559139789 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_6_inside_1_constraint_0_eq <= 0
+ R265: - poly_2_spike_point_6_inside_1
+   + poly_2_spike_point_6_inside_1_constraint_0_eq <= 0
+ R266: poly_2_spike_point_7_inside_1
+   - poly_2_spike_point_7_inside_1_constraint_0_eq <= 0
+ poly_2_spike_point_7_inside_1_constraint_0_eq_true:
+   3.849462365591399 sina_1 - 4.494623655913979 cosa_1 + 2 sina_tx_1
+   + 2 cosa_tx_1 + 2 sina_ty_1 - 2 cosa_ty_1
+   + 5.294623655913979 sina_1_sina_2 - 4.649462365591399 sina_1_cosa_2
+   + 4.649462365591399 cosa_1_sina_2 + 5.294623655913979 cosa_1_cosa_2
+   - 2 sina_1_tx_2 - 2 sina_1_ty_2 - 2 cosa_1_tx_2 + 2 cosa_1_ty_2
+   + 2e+12 poly_2_spike_point_7_inside_1_constraint_0_eq <= 2e+12
+ poly_2_spike_point_7_inside_1_constraint_0_eq_false:
+   - 3.849462365591399 sina_1 + 4.494623655913979 cosa_1 - 2 sina_tx_1
+   - 2 cosa_tx_1 - 2 sina_ty_1 + 2 cosa_ty_1
+   - 5.294623655913979 sina_1_sina_2 + 4.649462365591399 sina_1_cosa_2
+   - 4.649462365591399 cosa_1_sina_2 - 5.294623655913979 cosa_1_cosa_2
+   + 2 sina_1_tx_2 + 2 sina_1_ty_2 + 2 cosa_1_tx_2 - 2 cosa_1_ty_2
+   - 2e+12 poly_2_spike_point_7_inside_1_constraint_0_eq <= 0
+ R269: - poly_2_spike_point_7_inside_1
+   + poly_2_spike_point_7_inside_1_constraint_0_eq <= 0
+ R270: poly_0_point_0_inside_2 - poly_0_point_0_inside_2_constraint_0_eq
+   <= 0
+ poly_0_point_0_inside_2_constraint_0_eq_true: 5.571428571428571 sina_2
+   - 5.642857142857144 cosa_2 + 3 sina_tx_2 - 3 cosa_ty_2
+   + 5.642857142857144 sina_0_sina_2 + 5.571428571428571 sina_0_cosa_2
+   - 5.571428571428571 cosa_0_sina_2 + 5.642857142857144 cosa_0_cosa_2
+   - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_point_0_inside_2_constraint_0_eq <= 2e+12
+ poly_0_point_0_inside_2_constraint_0_eq_false: - 5.571428571428571 sina_2
+   + 5.642857142857144 cosa_2 - 3 sina_tx_2 + 3 cosa_ty_2
+   - 5.642857142857144 sina_0_sina_2 - 5.571428571428571 sina_0_cosa_2
+   + 5.571428571428571 cosa_0_sina_2 - 5.642857142857144 cosa_0_cosa_2
+   + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_point_0_inside_2_constraint_0_eq <= 0
+ R273: - poly_0_point_0_inside_2 + poly_0_point_0_inside_2_constraint_0_eq
+   <= 0
+ R274: poly_0_point_0_inside_2 = 0
+ R275: poly_0_point_1_inside_2 - poly_0_point_1_inside_2_constraint_0_eq
+   <= 0
+ poly_0_point_1_inside_2_constraint_0_eq_true: 5.571428571428571 sina_2
+   - 5.642857142857144 cosa_2 + 3 sina_tx_2 - 3 cosa_ty_2
+   + 5.642857142857144 sina_0_sina_2 - 3.428571428571428 sina_0_cosa_2
+   + 3.428571428571428 cosa_0_sina_2 + 5.642857142857144 cosa_0_cosa_2
+   - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_point_1_inside_2_constraint_0_eq <= 2e+12
+ poly_0_point_1_inside_2_constraint_0_eq_false: - 5.571428571428571 sina_2
+   + 5.642857142857144 cosa_2 - 3 sina_tx_2 + 3 cosa_ty_2
+   - 5.642857142857144 sina_0_sina_2 + 3.428571428571428 sina_0_cosa_2
+   - 3.428571428571428 cosa_0_sina_2 - 5.642857142857144 cosa_0_cosa_2
+   + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_point_1_inside_2_constraint_0_eq <= 0
+ R278: - poly_0_point_1_inside_2 + poly_0_point_1_inside_2_constraint_0_eq
+   <= 0
+ R279: poly_0_point_1_inside_2 = 0
+ R280: poly_0_point_2_inside_2 - poly_0_point_2_inside_2_constraint_0_eq
+   <= 0
+ poly_0_point_2_inside_2_constraint_0_eq_true: 5.571428571428571 sina_2
+   - 5.642857142857144 cosa_2 + 3 sina_tx_2 - 3 cosa_ty_2
+   - 0.3571428571428559 sina_0_sina_2 - 6.428571428571429 sina_0_cosa_2
+   + 6.428571428571429 cosa_0_sina_2 - 0.3571428571428559 cosa_0_cosa_2
+   - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_point_2_inside_2_constraint_0_eq <= 2e+12
+ poly_0_point_2_inside_2_constraint_0_eq_false: - 5.571428571428571 sina_2
+   + 5.642857142857144 cosa_2 - 3 sina_tx_2 + 3 cosa_ty_2
+   + 0.3571428571428559 sina_0_sina_2 + 6.428571428571429 sina_0_cosa_2
+   - 6.428571428571429 cosa_0_sina_2 + 0.3571428571428559 cosa_0_cosa_2
+   + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_point_2_inside_2_constraint_0_eq <= 0
+ R283: - poly_0_point_2_inside_2 + poly_0_point_2_inside_2_constraint_0_eq
+   <= 0
+ R284: poly_0_point_2_inside_2 = 0
+ R285: poly_0_point_3_inside_2 - poly_0_point_3_inside_2_constraint_0_eq
+   <= 0
+ poly_0_point_3_inside_2_constraint_0_eq_true: 5.571428571428571 sina_2
+   - 5.642857142857144 cosa_2 + 3 sina_tx_2 - 3 cosa_ty_2
+   - 9.357142857142856 sina_0_sina_2 - 3.428571428571428 sina_0_cosa_2
+   + 3.428571428571428 cosa_0_sina_2 - 9.357142857142856 cosa_0_cosa_2
+   - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_point_3_inside_2_constraint_0_eq <= 2e+12
+ poly_0_point_3_inside_2_constraint_0_eq_false: - 5.571428571428571 sina_2
+   + 5.642857142857144 cosa_2 - 3 sina_tx_2 + 3 cosa_ty_2
+   + 9.357142857142856 sina_0_sina_2 + 3.428571428571428 sina_0_cosa_2
+   - 3.428571428571428 cosa_0_sina_2 + 9.357142857142856 cosa_0_cosa_2
+   + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_point_3_inside_2_constraint_0_eq <= 0
+ R288: - poly_0_point_3_inside_2 + poly_0_point_3_inside_2_constraint_0_eq
+   <= 0
+ R289: poly_0_point_3_inside_2 = 0
+ R290: poly_0_point_4_inside_2 - poly_0_point_4_inside_2_constraint_0_eq
+   <= 0
+ poly_0_point_4_inside_2_constraint_0_eq_true: 5.571428571428571 sina_2
+   - 5.642857142857144 cosa_2 + 3 sina_tx_2 - 3 cosa_ty_2
+   - 3.357142857142856 sina_0_sina_2 + 2.571428571428572 sina_0_cosa_2
+   - 2.571428571428572 cosa_0_sina_2 - 3.357142857142856 cosa_0_cosa_2
+   - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_point_4_inside_2_constraint_0_eq <= 2e+12
+ poly_0_point_4_inside_2_constraint_0_eq_false: - 5.571428571428571 sina_2
+   + 5.642857142857144 cosa_2 - 3 sina_tx_2 + 3 cosa_ty_2
+   + 3.357142857142856 sina_0_sina_2 - 2.571428571428572 sina_0_cosa_2
+   + 2.571428571428572 cosa_0_sina_2 + 3.357142857142856 cosa_0_cosa_2
+   + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_point_4_inside_2_constraint_0_eq <= 0
+ R293: - poly_0_point_4_inside_2 + poly_0_point_4_inside_2_constraint_0_eq
+   <= 0
+ R294: poly_0_point_4_inside_2 = 0
+ R295: poly_0_point_5_inside_2 - poly_0_point_5_inside_2_constraint_0_eq
+   <= 0
+ poly_0_point_5_inside_2_constraint_0_eq_true: 5.571428571428571 sina_2
+   - 5.642857142857144 cosa_2 + 3 sina_tx_2 - 3 cosa_ty_2
+   + 2.642857142857144 sina_0_sina_2 + 8.571428571428571 sina_0_cosa_2
+   - 8.571428571428571 cosa_0_sina_2 + 2.642857142857144 cosa_0_cosa_2
+   - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_point_5_inside_2_constraint_0_eq <= 2e+12
+ poly_0_point_5_inside_2_constraint_0_eq_false: - 5.571428571428571 sina_2
+   + 5.642857142857144 cosa_2 - 3 sina_tx_2 + 3 cosa_ty_2
+   - 2.642857142857144 sina_0_sina_2 - 8.571428571428571 sina_0_cosa_2
+   + 8.571428571428571 cosa_0_sina_2 - 2.642857142857144 cosa_0_cosa_2
+   + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_point_5_inside_2_constraint_0_eq <= 0
+ R298: - poly_0_point_5_inside_2 + poly_0_point_5_inside_2_constraint_0_eq
+   <= 0
+ R299: poly_0_point_5_inside_2 = 0
+ R300: poly_0_point_6_inside_2 - poly_0_point_6_inside_2_constraint_0_eq
+   <= 0
+ poly_0_point_6_inside_2_constraint_0_eq_true: 5.571428571428571 sina_2
+   - 5.642857142857144 cosa_2 + 3 sina_tx_2 - 3 cosa_ty_2
+   + 5.642857142857144 sina_0_sina_2 + 5.571428571428571 sina_0_cosa_2
+   - 5.571428571428571 cosa_0_sina_2 + 5.642857142857144 cosa_0_cosa_2
+   - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_point_6_inside_2_constraint_0_eq <= 2e+12
+ poly_0_point_6_inside_2_constraint_0_eq_false: - 5.571428571428571 sina_2
+   + 5.642857142857144 cosa_2 - 3 sina_tx_2 + 3 cosa_ty_2
+   - 5.642857142857144 sina_0_sina_2 - 5.571428571428571 sina_0_cosa_2
+   + 5.571428571428571 cosa_0_sina_2 - 5.642857142857144 cosa_0_cosa_2
+   + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_point_6_inside_2_constraint_0_eq <= 0
+ R303: - poly_0_point_6_inside_2 + poly_0_point_6_inside_2_constraint_0_eq
+   <= 0
+ R304: poly_0_point_6_inside_2 = 0
+ R305: poly_0_spike_point_0_inside_2
+   - poly_0_spike_point_0_inside_2_constraint_0_eq <= 0
+ poly_0_spike_point_0_inside_2_constraint_0_eq_true:
+   5.571428571428571 sina_2 - 5.642857142857144 cosa_2 + 3 sina_tx_2
+   - 3 cosa_ty_2 + 7.142857142857144 sina_0_sina_2
+   + 6.471428571428572 sina_0_cosa_2 - 6.471428571428572 cosa_0_sina_2
+   + 7.142857142857144 cosa_0_cosa_2 - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_spike_point_0_inside_2_constraint_0_eq <= 2e+12
+ poly_0_spike_point_0_inside_2_constraint_0_eq_false:
+   - 5.571428571428571 sina_2 + 5.642857142857144 cosa_2 - 3 sina_tx_2
+   + 3 cosa_ty_2 - 7.142857142857144 sina_0_sina_2
+   - 6.471428571428572 sina_0_cosa_2 + 6.471428571428572 cosa_0_sina_2
+   - 7.142857142857144 cosa_0_cosa_2 + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_spike_point_0_inside_2_constraint_0_eq <= 0
+ R308: - poly_0_spike_point_0_inside_2
+   + poly_0_spike_point_0_inside_2_constraint_0_eq <= 0
+ R309: poly_0_spike_point_1_inside_2
+   - poly_0_spike_point_1_inside_2_constraint_0_eq <= 0
+ poly_0_spike_point_1_inside_2_constraint_0_eq_true:
+   5.571428571428571 sina_2 - 5.642857142857144 cosa_2 + 3 sina_tx_2
+   - 3 cosa_ty_2 + 7.142857142857144 sina_0_sina_2
+   - 4.328571428571427 sina_0_cosa_2 + 4.328571428571427 cosa_0_sina_2
+   + 7.142857142857144 cosa_0_cosa_2 - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_spike_point_1_inside_2_constraint_0_eq <= 2e+12
+ poly_0_spike_point_1_inside_2_constraint_0_eq_false:
+   - 5.571428571428571 sina_2 + 5.642857142857144 cosa_2 - 3 sina_tx_2
+   + 3 cosa_ty_2 - 7.142857142857144 sina_0_sina_2
+   + 4.328571428571427 sina_0_cosa_2 - 4.328571428571427 cosa_0_sina_2
+   - 7.142857142857144 cosa_0_cosa_2 + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_spike_point_1_inside_2_constraint_0_eq <= 0
+ R312: - poly_0_spike_point_1_inside_2
+   + poly_0_spike_point_1_inside_2_constraint_0_eq <= 0
+ R313: poly_0_spike_point_2_inside_2
+   - poly_0_spike_point_2_inside_2_constraint_0_eq <= 0
+ poly_0_spike_point_2_inside_2_constraint_0_eq_true:
+   5.571428571428571 sina_2 - 5.642857142857144 cosa_2 + 3 sina_tx_2
+   - 3 cosa_ty_2 - 0.0571428571428559 sina_0_sina_2
+   - 7.928571428571429 sina_0_cosa_2 + 7.928571428571429 cosa_0_sina_2
+   - 0.0571428571428559 cosa_0_cosa_2 - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_spike_point_2_inside_2_constraint_0_eq <= 2e+12
+ poly_0_spike_point_2_inside_2_constraint_0_eq_false:
+   - 5.571428571428571 sina_2 + 5.642857142857144 cosa_2 - 3 sina_tx_2
+   + 3 cosa_ty_2 + 0.0571428571428559 sina_0_sina_2
+   + 7.928571428571429 sina_0_cosa_2 - 7.928571428571429 cosa_0_sina_2
+   + 0.0571428571428559 cosa_0_cosa_2 + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_spike_point_2_inside_2_constraint_0_eq <= 0
+ R316: - poly_0_spike_point_2_inside_2
+   + poly_0_spike_point_2_inside_2_constraint_0_eq <= 0
+ R317: poly_0_spike_point_3_inside_2
+   - poly_0_spike_point_3_inside_2_constraint_0_eq <= 0
+ poly_0_spike_point_3_inside_2_constraint_0_eq_true:
+   5.571428571428571 sina_2 - 5.642857142857144 cosa_2 + 3 sina_tx_2
+   - 3 cosa_ty_2 - 10.85714285714285 sina_0_sina_2
+   - 4.328571428571427 sina_0_cosa_2 + 4.328571428571427 cosa_0_sina_2
+   - 10.85714285714285 cosa_0_cosa_2 - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_spike_point_3_inside_2_constraint_0_eq <= 2e+12
+ poly_0_spike_point_3_inside_2_constraint_0_eq_false:
+   - 5.571428571428571 sina_2 + 5.642857142857144 cosa_2 - 3 sina_tx_2
+   + 3 cosa_ty_2 + 10.85714285714285 sina_0_sina_2
+   + 4.328571428571427 sina_0_cosa_2 - 4.328571428571427 cosa_0_sina_2
+   + 10.85714285714285 cosa_0_cosa_2 + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_spike_point_3_inside_2_constraint_0_eq <= 0
+ R320: - poly_0_spike_point_3_inside_2
+   + poly_0_spike_point_3_inside_2_constraint_0_eq <= 0
+ R321: poly_0_spike_point_4_inside_2
+   - poly_0_spike_point_4_inside_2_constraint_0_eq <= 0
+ poly_0_spike_point_4_inside_2_constraint_0_eq_true:
+   5.571428571428571 sina_2 - 5.642857142857144 cosa_2 + 3 sina_tx_2
+   - 3 cosa_ty_2 - 3.657142857142856 sina_0_sina_2
+   + 2.871428571428572 sina_0_cosa_2 - 2.871428571428572 cosa_0_sina_2
+   - 3.657142857142856 cosa_0_cosa_2 - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_spike_point_4_inside_2_constraint_0_eq <= 2e+12
+ poly_0_spike_point_4_inside_2_constraint_0_eq_false:
+   - 5.571428571428571 sina_2 + 5.642857142857144 cosa_2 - 3 sina_tx_2
+   + 3 cosa_ty_2 + 3.657142857142856 sina_0_sina_2
+   - 2.871428571428572 sina_0_cosa_2 + 2.871428571428572 cosa_0_sina_2
+   + 3.657142857142856 cosa_0_cosa_2 + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_spike_point_4_inside_2_constraint_0_eq <= 0
+ R324: - poly_0_spike_point_4_inside_2
+   + poly_0_spike_point_4_inside_2_constraint_0_eq <= 0
+ R325: poly_0_spike_point_5_inside_2
+   - poly_0_spike_point_5_inside_2_constraint_0_eq <= 0
+ poly_0_spike_point_5_inside_2_constraint_0_eq_true:
+   5.571428571428571 sina_2 - 5.642857142857144 cosa_2 + 3 sina_tx_2
+   - 3 cosa_ty_2 + 3.542857142857144 sina_0_sina_2
+   + 10.07142857142857 sina_0_cosa_2 - 10.07142857142857 cosa_0_sina_2
+   + 3.542857142857144 cosa_0_cosa_2 - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_spike_point_5_inside_2_constraint_0_eq <= 2e+12
+ poly_0_spike_point_5_inside_2_constraint_0_eq_false:
+   - 5.571428571428571 sina_2 + 5.642857142857144 cosa_2 - 3 sina_tx_2
+   + 3 cosa_ty_2 - 3.542857142857144 sina_0_sina_2
+   - 10.07142857142857 sina_0_cosa_2 + 10.07142857142857 cosa_0_sina_2
+   - 3.542857142857144 cosa_0_cosa_2 + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_spike_point_5_inside_2_constraint_0_eq <= 0
+ R328: - poly_0_spike_point_5_inside_2
+   + poly_0_spike_point_5_inside_2_constraint_0_eq <= 0
+ R329: poly_0_spike_point_6_inside_2
+   - poly_0_spike_point_6_inside_2_constraint_0_eq <= 0
+ poly_0_spike_point_6_inside_2_constraint_0_eq_true:
+   5.571428571428571 sina_2 - 5.642857142857144 cosa_2 + 3 sina_tx_2
+   - 3 cosa_ty_2 + 7.142857142857144 sina_0_sina_2
+   + 6.471428571428572 sina_0_cosa_2 - 6.471428571428572 cosa_0_sina_2
+   + 7.142857142857144 cosa_0_cosa_2 - 3 sina_2_tx_0 + 3 cosa_2_ty_0
+   + 2e+12 poly_0_spike_point_6_inside_2_constraint_0_eq <= 2e+12
+ poly_0_spike_point_6_inside_2_constraint_0_eq_false:
+   - 5.571428571428571 sina_2 + 5.642857142857144 cosa_2 - 3 sina_tx_2
+   + 3 cosa_ty_2 - 7.142857142857144 sina_0_sina_2
+   - 6.471428571428572 sina_0_cosa_2 + 6.471428571428572 cosa_0_sina_2
+   - 7.142857142857144 cosa_0_cosa_2 + 3 sina_2_tx_0 - 3 cosa_2_ty_0
+   - 2e+12 poly_0_spike_point_6_inside_2_constraint_0_eq <= 0
+ R332: - poly_0_spike_point_6_inside_2
+   + poly_0_spike_point_6_inside_2_constraint_0_eq <= 0
+ R333: poly_1_point_0_inside_2 - poly_1_point_0_inside_2_constraint_0_eq
+   <= 0
+ poly_1_point_0_inside_2_constraint_0_eq_true: 0.9761904761904772 sina_2
+   - 4.535714285714287 cosa_2 + sina_tx_2 + 2 cosa_tx_2 + 2 sina_ty_2
+   - cosa_ty_2 + 4.535714285714287 sina_1_sina_2
+   + 0.9761904761904772 sina_1_cosa_2 - 0.9761904761904772 cosa_1_sina_2
+   + 4.535714285714287 cosa_1_cosa_2 - sina_2_tx_1 - 2 sina_2_ty_1
+   - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_point_0_inside_2_constraint_0_eq <= 2e+12
+ poly_1_point_0_inside_2_constraint_0_eq_false: - 0.9761904761904772 sina_2
+   + 4.535714285714287 cosa_2 - sina_tx_2 - 2 cosa_tx_2 - 2 sina_ty_2
+   + cosa_ty_2 - 4.535714285714287 sina_1_sina_2
+   - 0.9761904761904772 sina_1_cosa_2 + 0.9761904761904772 cosa_1_sina_2
+   - 4.535714285714287 cosa_1_cosa_2 + sina_2_tx_1 + 2 sina_2_ty_1
+   + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_point_0_inside_2_constraint_0_eq <= 0
+ R336: - poly_1_point_0_inside_2 + poly_1_point_0_inside_2_constraint_0_eq
+   <= 0
+ R337: poly_1_point_0_inside_2 = 0
+ R338: poly_1_point_1_inside_2 - poly_1_point_1_inside_2_constraint_0_eq
+   <= 0
+ poly_1_point_1_inside_2_constraint_0_eq_true: 0.9761904761904772 sina_2
+   - 4.535714285714287 cosa_2 + sina_tx_2 + 2 cosa_tx_2 + 2 sina_ty_2
+   - cosa_ty_2 + 4.535714285714287 sina_1_sina_2
+   - 4.023809523809523 sina_1_cosa_2 + 4.023809523809523 cosa_1_sina_2
+   + 4.535714285714287 cosa_1_cosa_2 - sina_2_tx_1 - 2 sina_2_ty_1
+   - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_point_1_inside_2_constraint_0_eq <= 2e+12
+ poly_1_point_1_inside_2_constraint_0_eq_false: - 0.9761904761904772 sina_2
+   + 4.535714285714287 cosa_2 - sina_tx_2 - 2 cosa_tx_2 - 2 sina_ty_2
+   + cosa_ty_2 - 4.535714285714287 sina_1_sina_2
+   + 4.023809523809523 sina_1_cosa_2 - 4.023809523809523 cosa_1_sina_2
+   - 4.535714285714287 cosa_1_cosa_2 + sina_2_tx_1 + 2 sina_2_ty_1
+   + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_point_1_inside_2_constraint_0_eq <= 0
+ R341: - poly_1_point_1_inside_2 + poly_1_point_1_inside_2_constraint_0_eq
+   <= 0
+ R342: poly_1_point_1_inside_2 = 0
+ R343: poly_1_point_2_inside_2 - poly_1_point_2_inside_2_constraint_0_eq
+   <= 0
+ poly_1_point_2_inside_2_constraint_0_eq_true: 0.9761904761904772 sina_2
+   - 4.535714285714287 cosa_2 + sina_tx_2 + 2 cosa_tx_2 + 2 sina_ty_2
+   - cosa_ty_2 + 1.535714285714287 sina_1_sina_2
+   - 5.023809523809523 sina_1_cosa_2 + 5.023809523809523 cosa_1_sina_2
+   + 1.535714285714287 cosa_1_cosa_2 - sina_2_tx_1 - 2 sina_2_ty_1
+   - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_point_2_inside_2_constraint_0_eq <= 2e+12
+ poly_1_point_2_inside_2_constraint_0_eq_false: - 0.9761904761904772 sina_2
+   + 4.535714285714287 cosa_2 - sina_tx_2 - 2 cosa_tx_2 - 2 sina_ty_2
+   + cosa_ty_2 - 1.535714285714287 sina_1_sina_2
+   + 5.023809523809523 sina_1_cosa_2 - 5.023809523809523 cosa_1_sina_2
+   - 1.535714285714287 cosa_1_cosa_2 + sina_2_tx_1 + 2 sina_2_ty_1
+   + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_point_2_inside_2_constraint_0_eq <= 0
+ R346: - poly_1_point_2_inside_2 + poly_1_point_2_inside_2_constraint_0_eq
+   <= 0
+ R347: poly_1_point_2_inside_2 = 0
+ R348: poly_1_point_3_inside_2 - poly_1_point_3_inside_2_constraint_0_eq
+   <= 0
+ poly_1_point_3_inside_2_constraint_0_eq_true: 0.9761904761904772 sina_2
+   - 4.535714285714287 cosa_2 + sina_tx_2 + 2 cosa_tx_2 + 2 sina_ty_2
+   - cosa_ty_2 - 4.464285714285713 sina_1_sina_2
+   - 2.023809523809523 sina_1_cosa_2 + 2.023809523809523 cosa_1_sina_2
+   - 4.464285714285713 cosa_1_cosa_2 - sina_2_tx_1 - 2 sina_2_ty_1
+   - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_point_3_inside_2_constraint_0_eq <= 2e+12
+ poly_1_point_3_inside_2_constraint_0_eq_false: - 0.9761904761904772 sina_2
+   + 4.535714285714287 cosa_2 - sina_tx_2 - 2 cosa_tx_2 - 2 sina_ty_2
+   + cosa_ty_2 + 4.464285714285713 sina_1_sina_2
+   + 2.023809523809523 sina_1_cosa_2 - 2.023809523809523 cosa_1_sina_2
+   + 4.464285714285713 cosa_1_cosa_2 + sina_2_tx_1 + 2 sina_2_ty_1
+   + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_point_3_inside_2_constraint_0_eq <= 0
+ R351: - poly_1_point_3_inside_2 + poly_1_point_3_inside_2_constraint_0_eq
+   <= 0
+ R352: poly_1_point_3_inside_2 = 0
+ R353: poly_1_point_4_inside_2 - poly_1_point_4_inside_2_constraint_0_eq
+   <= 0
+ poly_1_point_4_inside_2_constraint_0_eq_true: 0.9761904761904772 sina_2
+   - 4.535714285714287 cosa_2 + sina_tx_2 + 2 cosa_tx_2 + 2 sina_ty_2
+   - cosa_ty_2 - 5.464285714285713 sina_1_sina_2
+   + 0.9761904761904772 sina_1_cosa_2 - 0.9761904761904772 cosa_1_sina_2
+   - 5.464285714285713 cosa_1_cosa_2 - sina_2_tx_1 - 2 sina_2_ty_1
+   - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_point_4_inside_2_constraint_0_eq <= 2e+12
+ poly_1_point_4_inside_2_constraint_0_eq_false: - 0.9761904761904772 sina_2
+   + 4.535714285714287 cosa_2 - sina_tx_2 - 2 cosa_tx_2 - 2 sina_ty_2
+   + cosa_ty_2 + 5.464285714285713 sina_1_sina_2
+   - 0.9761904761904772 sina_1_cosa_2 + 0.9761904761904772 cosa_1_sina_2
+   + 5.464285714285713 cosa_1_cosa_2 + sina_2_tx_1 + 2 sina_2_ty_1
+   + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_point_4_inside_2_constraint_0_eq <= 0
+ R356: - poly_1_point_4_inside_2 + poly_1_point_4_inside_2_constraint_0_eq
+   <= 0
+ R357: poly_1_point_4_inside_2 = 0
+ R358: poly_1_point_5_inside_2 - poly_1_point_5_inside_2_constraint_0_eq
+   <= 0
+ poly_1_point_5_inside_2_constraint_0_eq_true: 0.9761904761904772 sina_2
+   - 4.535714285714287 cosa_2 + sina_tx_2 + 2 cosa_tx_2 + 2 sina_ty_2
+   - cosa_ty_2 - 0.4642857142857126 sina_1_sina_2
+   + 5.976190476190477 sina_1_cosa_2 - 5.976190476190477 cosa_1_sina_2
+   - 0.4642857142857126 cosa_1_cosa_2 - sina_2_tx_1 - 2 sina_2_ty_1
+   - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_point_5_inside_2_constraint_0_eq <= 2e+12
+ poly_1_point_5_inside_2_constraint_0_eq_false: - 0.9761904761904772 sina_2
+   + 4.535714285714287 cosa_2 - sina_tx_2 - 2 cosa_tx_2 - 2 sina_ty_2
+   + cosa_ty_2 + 0.4642857142857126 sina_1_sina_2
+   - 5.976190476190477 sina_1_cosa_2 + 5.976190476190477 cosa_1_sina_2
+   + 0.4642857142857126 cosa_1_cosa_2 + sina_2_tx_1 + 2 sina_2_ty_1
+   + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_point_5_inside_2_constraint_0_eq <= 0
+ R361: - poly_1_point_5_inside_2 + poly_1_point_5_inside_2_constraint_0_eq
+   <= 0
+ R362: poly_1_point_5_inside_2 = 0
+ R363: poly_1_point_6_inside_2 - poly_1_point_6_inside_2_constraint_0_eq
+   <= 0
+ poly_1_point_6_inside_2_constraint_0_eq_true: 0.9761904761904772 sina_2
+   - 4.535714285714287 cosa_2 + sina_tx_2 + 2 cosa_tx_2 + 2 sina_ty_2
+   - cosa_ty_2 + 4.535714285714287 sina_1_sina_2
+   + 0.9761904761904772 sina_1_cosa_2 - 0.9761904761904772 cosa_1_sina_2
+   + 4.535714285714287 cosa_1_cosa_2 - sina_2_tx_1 - 2 sina_2_ty_1
+   - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_point_6_inside_2_constraint_0_eq <= 2e+12
+ poly_1_point_6_inside_2_constraint_0_eq_false: - 0.9761904761904772 sina_2
+   + 4.535714285714287 cosa_2 - sina_tx_2 - 2 cosa_tx_2 - 2 sina_ty_2
+   + cosa_ty_2 - 4.535714285714287 sina_1_sina_2
+   - 0.9761904761904772 sina_1_cosa_2 + 0.9761904761904772 cosa_1_sina_2
+   - 4.535714285714287 cosa_1_cosa_2 + sina_2_tx_1 + 2 sina_2_ty_1
+   + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_point_6_inside_2_constraint_0_eq <= 0
+ R366: - poly_1_point_6_inside_2 + poly_1_point_6_inside_2_constraint_0_eq
+   <= 0
+ R367: poly_1_point_6_inside_2 = 0
+ R368: poly_1_spike_point_0_inside_2
+   - poly_1_spike_point_0_inside_2_constraint_0_eq <= 0
+ poly_1_spike_point_0_inside_2_constraint_0_eq_true:
+   0.9761904761904772 sina_2 - 4.535714285714287 cosa_2 + sina_tx_2
+   + 2 cosa_tx_2 + 2 sina_ty_2 - cosa_ty_2
+   + 5.335714285714287 sina_1_sina_2 + 1.076190476190478 sina_1_cosa_2
+   - 1.076190476190478 cosa_1_sina_2 + 5.335714285714287 cosa_1_cosa_2
+   - sina_2_tx_1 - 2 sina_2_ty_1 - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_spike_point_0_inside_2_constraint_0_eq <= 2e+12
+ poly_1_spike_point_0_inside_2_constraint_0_eq_false:
+   - 0.9761904761904772 sina_2 + 4.535714285714287 cosa_2 - sina_tx_2
+   - 2 cosa_tx_2 - 2 sina_ty_2 + cosa_ty_2
+   - 5.335714285714287 sina_1_sina_2 - 1.076190476190478 sina_1_cosa_2
+   + 1.076190476190478 cosa_1_sina_2 - 5.335714285714287 cosa_1_cosa_2
+   + sina_2_tx_1 + 2 sina_2_ty_1 + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_spike_point_0_inside_2_constraint_0_eq <= 0
+ R371: - poly_1_spike_point_0_inside_2
+   + poly_1_spike_point_0_inside_2_constraint_0_eq <= 0
+ R372: poly_1_spike_point_1_inside_2
+   - poly_1_spike_point_1_inside_2_constraint_0_eq <= 0
+ poly_1_spike_point_1_inside_2_constraint_0_eq_true:
+   0.9761904761904772 sina_2 - 4.535714285714287 cosa_2 + sina_tx_2
+   + 2 cosa_tx_2 + 2 sina_ty_2 - cosa_ty_2
+   + 5.335714285714287 sina_1_sina_2 - 4.923809523809522 sina_1_cosa_2
+   + 4.923809523809522 cosa_1_sina_2 + 5.335714285714287 cosa_1_cosa_2
+   - sina_2_tx_1 - 2 sina_2_ty_1 - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_spike_point_1_inside_2_constraint_0_eq <= 2e+12
+ poly_1_spike_point_1_inside_2_constraint_0_eq_false:
+   - 0.9761904761904772 sina_2 + 4.535714285714287 cosa_2 - sina_tx_2
+   - 2 cosa_tx_2 - 2 sina_ty_2 + cosa_ty_2
+   - 5.335714285714287 sina_1_sina_2 + 4.923809523809522 sina_1_cosa_2
+   - 4.923809523809522 cosa_1_sina_2 - 5.335714285714287 cosa_1_cosa_2
+   + sina_2_tx_1 + 2 sina_2_ty_1 + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_spike_point_1_inside_2_constraint_0_eq <= 0
+ R375: - poly_1_spike_point_1_inside_2
+   + poly_1_spike_point_1_inside_2_constraint_0_eq <= 0
+ R376: poly_1_spike_point_2_inside_2
+   - poly_1_spike_point_2_inside_2_constraint_0_eq <= 0
+ poly_1_spike_point_2_inside_2_constraint_0_eq_true:
+   0.9761904761904772 sina_2 - 4.535714285714287 cosa_2 + sina_tx_2
+   + 2 cosa_tx_2 + 2 sina_ty_2 - cosa_ty_2
+   + 1.735714285714287 sina_1_sina_2 - 6.123809523809522 sina_1_cosa_2
+   + 6.123809523809522 cosa_1_sina_2 + 1.735714285714287 cosa_1_cosa_2
+   - sina_2_tx_1 - 2 sina_2_ty_1 - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_spike_point_2_inside_2_constraint_0_eq <= 2e+12
+ poly_1_spike_point_2_inside_2_constraint_0_eq_false:
+   - 0.9761904761904772 sina_2 + 4.535714285714287 cosa_2 - sina_tx_2
+   - 2 cosa_tx_2 - 2 sina_ty_2 + cosa_ty_2
+   - 1.735714285714287 sina_1_sina_2 + 6.123809523809522 sina_1_cosa_2
+   - 6.123809523809522 cosa_1_sina_2 - 1.735714285714287 cosa_1_cosa_2
+   + sina_2_tx_1 + 2 sina_2_ty_1 + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_spike_point_2_inside_2_constraint_0_eq <= 0
+ R379: - poly_1_spike_point_2_inside_2
+   + poly_1_spike_point_2_inside_2_constraint_0_eq <= 0
+ R380: poly_1_spike_point_3_inside_2
+   - poly_1_spike_point_3_inside_2_constraint_0_eq <= 0
+ poly_1_spike_point_3_inside_2_constraint_0_eq_true:
+   0.9761904761904772 sina_2 - 4.535714285714287 cosa_2 + sina_tx_2
+   + 2 cosa_tx_2 + 2 sina_ty_2 - cosa_ty_2
+   - 5.464285714285713 sina_1_sina_2 - 2.523809523809523 sina_1_cosa_2
+   + 2.523809523809523 cosa_1_sina_2 - 5.464285714285713 cosa_1_cosa_2
+   - sina_2_tx_1 - 2 sina_2_ty_1 - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_spike_point_3_inside_2_constraint_0_eq <= 2e+12
+ poly_1_spike_point_3_inside_2_constraint_0_eq_false:
+   - 0.9761904761904772 sina_2 + 4.535714285714287 cosa_2 - sina_tx_2
+   - 2 cosa_tx_2 - 2 sina_ty_2 + cosa_ty_2
+   + 5.464285714285713 sina_1_sina_2 + 2.523809523809523 sina_1_cosa_2
+   - 2.523809523809523 cosa_1_sina_2 + 5.464285714285713 cosa_1_cosa_2
+   + sina_2_tx_1 + 2 sina_2_ty_1 + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_spike_point_3_inside_2_constraint_0_eq <= 0
+ R383: - poly_1_spike_point_3_inside_2
+   + poly_1_spike_point_3_inside_2_constraint_0_eq <= 0
+ R384: poly_1_spike_point_4_inside_2
+   - poly_1_spike_point_4_inside_2_constraint_0_eq <= 0
+ poly_1_spike_point_4_inside_2_constraint_0_eq_true:
+   0.9761904761904772 sina_2 - 4.535714285714287 cosa_2 + sina_tx_2
+   + 2 cosa_tx_2 + 2 sina_ty_2 - cosa_ty_2
+   - 6.664285714285712 sina_1_sina_2 + 1.076190476190477 sina_1_cosa_2
+   - 1.076190476190477 cosa_1_sina_2 - 6.664285714285712 cosa_1_cosa_2
+   - sina_2_tx_1 - 2 sina_2_ty_1 - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_spike_point_4_inside_2_constraint_0_eq <= 2e+12
+ poly_1_spike_point_4_inside_2_constraint_0_eq_false:
+   - 0.9761904761904772 sina_2 + 4.535714285714287 cosa_2 - sina_tx_2
+   - 2 cosa_tx_2 - 2 sina_ty_2 + cosa_ty_2
+   + 6.664285714285712 sina_1_sina_2 - 1.076190476190477 sina_1_cosa_2
+   + 1.076190476190477 cosa_1_sina_2 + 6.664285714285712 cosa_1_cosa_2
+   + sina_2_tx_1 + 2 sina_2_ty_1 + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_spike_point_4_inside_2_constraint_0_eq <= 0
+ R387: - poly_1_spike_point_4_inside_2
+   + poly_1_spike_point_4_inside_2_constraint_0_eq <= 0
+ R388: poly_1_spike_point_5_inside_2
+   - poly_1_spike_point_5_inside_2_constraint_0_eq <= 0
+ poly_1_spike_point_5_inside_2_constraint_0_eq_true:
+   0.9761904761904772 sina_2 - 4.535714285714287 cosa_2 + sina_tx_2
+   + 2 cosa_tx_2 + 2 sina_ty_2 - cosa_ty_2
+   - 0.6642857142857128 sina_1_sina_2 + 7.076190476190477 sina_1_cosa_2
+   - 7.076190476190477 cosa_1_sina_2 - 0.6642857142857128 cosa_1_cosa_2
+   - sina_2_tx_1 - 2 sina_2_ty_1 - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_spike_point_5_inside_2_constraint_0_eq <= 2e+12
+ poly_1_spike_point_5_inside_2_constraint_0_eq_false:
+   - 0.9761904761904772 sina_2 + 4.535714285714287 cosa_2 - sina_tx_2
+   - 2 cosa_tx_2 - 2 sina_ty_2 + cosa_ty_2
+   + 0.6642857142857128 sina_1_sina_2 - 7.076190476190477 sina_1_cosa_2
+   + 7.076190476190477 cosa_1_sina_2 + 0.6642857142857128 cosa_1_cosa_2
+   + sina_2_tx_1 + 2 sina_2_ty_1 + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_spike_point_5_inside_2_constraint_0_eq <= 0
+ R391: - poly_1_spike_point_5_inside_2
+   + poly_1_spike_point_5_inside_2_constraint_0_eq <= 0
+ R392: poly_1_spike_point_6_inside_2
+   - poly_1_spike_point_6_inside_2_constraint_0_eq <= 0
+ poly_1_spike_point_6_inside_2_constraint_0_eq_true:
+   0.9761904761904772 sina_2 - 4.535714285714287 cosa_2 + sina_tx_2
+   + 2 cosa_tx_2 + 2 sina_ty_2 - cosa_ty_2
+   + 5.335714285714287 sina_1_sina_2 + 1.076190476190478 sina_1_cosa_2
+   - 1.076190476190478 cosa_1_sina_2 + 5.335714285714287 cosa_1_cosa_2
+   - sina_2_tx_1 - 2 sina_2_ty_1 - 2 cosa_2_tx_1 + cosa_2_ty_1
+   + 2e+12 poly_1_spike_point_6_inside_2_constraint_0_eq <= 2e+12
+ poly_1_spike_point_6_inside_2_constraint_0_eq_false:
+   - 0.9761904761904772 sina_2 + 4.535714285714287 cosa_2 - sina_tx_2
+   - 2 cosa_tx_2 - 2 sina_ty_2 + cosa_ty_2
+   - 5.335714285714287 sina_1_sina_2 - 1.076190476190478 sina_1_cosa_2
+   + 1.076190476190478 cosa_1_sina_2 - 5.335714285714287 cosa_1_cosa_2
+   + sina_2_tx_1 + 2 sina_2_ty_1 + 2 cosa_2_tx_1 - cosa_2_ty_1
+   - 2e+12 poly_1_spike_point_6_inside_2_constraint_0_eq <= 0
+ R395: - poly_1_spike_point_6_inside_2
+   + poly_1_spike_point_6_inside_2_constraint_0_eq <= 0
  sinacosa_0: [ sina_0 ^2 + cosa_0 ^2 ] = 1
  sina_tx_0: - sina_tx_0 + [ tx_0 * sina_0 ] = 0
  cosa_tx_0: - cosa_tx_0 + [ tx_0 * cosa_0 ] = 0
@@ -6153,191 +1648,144 @@ Subject To
  cosa_2_tx_1: - cosa_2_tx_1 + [ tx_1 * cosa_2 ] = 0
  cosa_2_ty_1: - cosa_2_ty_1 + [ ty_1 * cosa_2 ] = 0
 Bounds
+ tx_0 <= 10000
+ ty_0 <= 10000
  -1 <= sina_0 <= 1
  -1 <= cosa_0 <= 1
+ tx_1 <= 10000
+ ty_1 <= 10000
  -1 <= sina_1 <= 1
  -1 <= cosa_1 <= 1
+ tx_2 <= 10000
+ ty_2 <= 10000
  -1 <= sina_2 <= 1
  -1 <= cosa_2 <= 1
 Binaries
- poly_1_point_0_inside_0 poly_1_point_1_inside_0 poly_1_point_2_inside_0
- poly_1_point_3_inside_0 poly_1_point_4_inside_0 poly_1_point_5_inside_0
- poly_1_point_6_inside_0 poly_1_point_7_inside_0 poly_1_point_8_inside_0
- poly_1_point_9_inside_0 poly_1_point_10_inside_0 poly_1_point_11_inside_0
- poly_1_point_12_inside_0 poly_1_point_13_inside_0 poly_1_point_14_inside_0
- poly_1_point_15_inside_0 poly_1_point_16_inside_0 poly_1_point_17_inside_0
- poly_1_point_18_inside_0 poly_1_point_19_inside_0 poly_1_point_20_inside_0
- poly_1_point_21_inside_0 poly_1_point_22_inside_0 poly_1_point_23_inside_0
- poly_1_point_24_inside_0 poly_1_point_25_inside_0
- poly_1_spike_point_0_inside_0 poly_1_spike_point_1_inside_0
- poly_1_spike_point_2_inside_0 poly_1_spike_point_3_inside_0
- poly_1_spike_point_4_inside_0 poly_1_spike_point_5_inside_0
- poly_1_spike_point_6_inside_0 poly_1_spike_point_7_inside_0
- poly_1_spike_point_8_inside_0 poly_1_spike_point_9_inside_0
- poly_1_spike_point_10_inside_0 poly_1_spike_point_11_inside_0
- poly_1_spike_point_12_inside_0 poly_1_spike_point_13_inside_0
- poly_1_spike_point_14_inside_0 poly_1_spike_point_15_inside_0
- poly_1_spike_point_16_inside_0 poly_1_spike_point_17_inside_0
- poly_1_spike_point_18_inside_0 poly_1_spike_point_19_inside_0
- poly_1_spike_point_20_inside_0 poly_1_spike_point_21_inside_0
- poly_1_spike_point_22_inside_0 poly_1_spike_point_23_inside_0
- poly_1_spike_point_24_inside_0 poly_1_spike_point_25_inside_0
- poly_2_point_0_inside_0 poly_2_point_1_inside_0 poly_2_point_2_inside_0
- poly_2_point_3_inside_0 poly_2_point_4_inside_0 poly_2_point_5_inside_0
- poly_2_point_6_inside_0 poly_2_point_7_inside_0 poly_2_point_8_inside_0
- poly_2_point_9_inside_0 poly_2_point_10_inside_0 poly_2_point_11_inside_0
- poly_2_point_12_inside_0 poly_2_point_13_inside_0 poly_2_point_14_inside_0
- poly_2_point_15_inside_0 poly_2_point_16_inside_0 poly_2_point_17_inside_0
- poly_2_point_18_inside_0 poly_2_point_19_inside_0 poly_2_point_20_inside_0
- poly_2_point_21_inside_0 poly_2_point_22_inside_0 poly_2_point_23_inside_0
- poly_2_point_24_inside_0 poly_2_point_25_inside_0 poly_2_point_26_inside_0
- poly_2_point_27_inside_0 poly_2_point_28_inside_0 poly_2_point_29_inside_0
- poly_2_spike_point_0_inside_0 poly_2_spike_point_1_inside_0
- poly_2_spike_point_2_inside_0 poly_2_spike_point_3_inside_0
- poly_2_spike_point_4_inside_0 poly_2_spike_point_5_inside_0
- poly_2_spike_point_6_inside_0 poly_2_spike_point_7_inside_0
- poly_2_spike_point_8_inside_0 poly_2_spike_point_9_inside_0
- poly_2_spike_point_10_inside_0 poly_2_spike_point_11_inside_0
- poly_2_spike_point_12_inside_0 poly_2_spike_point_13_inside_0
- poly_2_spike_point_14_inside_0 poly_2_spike_point_15_inside_0
- poly_2_spike_point_16_inside_0 poly_2_spike_point_17_inside_0
- poly_2_spike_point_18_inside_0 poly_2_spike_point_19_inside_0
- poly_2_spike_point_20_inside_0 poly_2_spike_point_21_inside_0
- poly_2_spike_point_22_inside_0 poly_2_spike_point_23_inside_0
- poly_2_spike_point_24_inside_0 poly_2_spike_point_25_inside_0
- poly_2_spike_point_26_inside_0 poly_2_spike_point_27_inside_0
- poly_2_spike_point_28_inside_0 poly_2_spike_point_29_inside_0
- poly_0_point_0_inside_1 poly_0_point_1_inside_1 poly_0_point_2_inside_1
- poly_0_point_3_inside_1 poly_0_point_4_inside_1 poly_0_point_5_inside_1
- poly_0_point_6_inside_1 poly_0_point_7_inside_1 poly_0_point_8_inside_1
- poly_0_point_9_inside_1 poly_0_point_10_inside_1 poly_0_point_11_inside_1
- poly_0_point_12_inside_1 poly_0_point_13_inside_1 poly_0_point_14_inside_1
- poly_0_point_15_inside_1 poly_0_point_16_inside_1 poly_0_point_17_inside_1
- poly_0_point_18_inside_1 poly_0_point_19_inside_1 poly_0_point_20_inside_1
- poly_0_point_21_inside_1 poly_0_point_22_inside_1 poly_0_point_23_inside_1
- poly_0_point_24_inside_1 poly_0_point_25_inside_1 poly_0_point_26_inside_1
- poly_0_point_27_inside_1 poly_0_point_28_inside_1 poly_0_point_29_inside_1
- poly_0_point_30_inside_1 poly_0_point_31_inside_1 poly_0_point_32_inside_1
- poly_0_point_33_inside_1 poly_0_point_34_inside_1 poly_0_point_35_inside_1
- poly_0_point_36_inside_1 poly_0_point_37_inside_1 poly_0_point_38_inside_1
- poly_0_point_39_inside_1 poly_0_point_40_inside_1 poly_0_point_41_inside_1
- poly_0_point_42_inside_1 poly_0_point_43_inside_1 poly_0_point_44_inside_1
- poly_0_point_45_inside_1 poly_0_point_46_inside_1 poly_0_point_47_inside_1
- poly_0_point_48_inside_1 poly_0_point_49_inside_1 poly_0_point_50_inside_1
- poly_0_spike_point_0_inside_1 poly_0_spike_point_1_inside_1
- poly_0_spike_point_2_inside_1 poly_0_spike_point_3_inside_1
- poly_0_spike_point_4_inside_1 poly_0_spike_point_5_inside_1
- poly_0_spike_point_6_inside_1 poly_0_spike_point_7_inside_1
- poly_0_spike_point_8_inside_1 poly_0_spike_point_9_inside_1
- poly_0_spike_point_10_inside_1 poly_0_spike_point_11_inside_1
- poly_0_spike_point_12_inside_1 poly_0_spike_point_13_inside_1
- poly_0_spike_point_14_inside_1 poly_0_spike_point_15_inside_1
- poly_0_spike_point_16_inside_1 poly_0_spike_point_17_inside_1
- poly_0_spike_point_18_inside_1 poly_0_spike_point_19_inside_1
- poly_0_spike_point_20_inside_1 poly_0_spike_point_21_inside_1
- poly_0_spike_point_22_inside_1 poly_0_spike_point_23_inside_1
- poly_0_spike_point_24_inside_1 poly_0_spike_point_25_inside_1
- poly_0_spike_point_26_inside_1 poly_0_spike_point_27_inside_1
- poly_0_spike_point_28_inside_1 poly_0_spike_point_29_inside_1
- poly_0_spike_point_30_inside_1 poly_0_spike_point_31_inside_1
- poly_0_spike_point_32_inside_1 poly_0_spike_point_33_inside_1
- poly_0_spike_point_34_inside_1 poly_0_spike_point_35_inside_1
- poly_0_spike_point_36_inside_1 poly_0_spike_point_37_inside_1
- poly_0_spike_point_38_inside_1 poly_0_spike_point_39_inside_1
- poly_0_spike_point_40_inside_1 poly_0_spike_point_41_inside_1
- poly_0_spike_point_42_inside_1 poly_0_spike_point_43_inside_1
- poly_0_spike_point_44_inside_1 poly_0_spike_point_45_inside_1
- poly_0_spike_point_46_inside_1 poly_0_spike_point_47_inside_1
- poly_0_spike_point_48_inside_1 poly_0_spike_point_49_inside_1
- poly_0_spike_point_50_inside_1 poly_2_point_0_inside_1
- poly_2_point_1_inside_1 poly_2_point_2_inside_1 poly_2_point_3_inside_1
- poly_2_point_4_inside_1 poly_2_point_5_inside_1 poly_2_point_6_inside_1
- poly_2_point_7_inside_1 poly_2_point_8_inside_1 poly_2_point_9_inside_1
- poly_2_point_10_inside_1 poly_2_point_11_inside_1 poly_2_point_12_inside_1
- poly_2_point_13_inside_1 poly_2_point_14_inside_1 poly_2_point_15_inside_1
- poly_2_point_16_inside_1 poly_2_point_17_inside_1 poly_2_point_18_inside_1
- poly_2_point_19_inside_1 poly_2_point_20_inside_1 poly_2_point_21_inside_1
- poly_2_point_22_inside_1 poly_2_point_23_inside_1 poly_2_point_24_inside_1
- poly_2_point_25_inside_1 poly_2_point_26_inside_1 poly_2_point_27_inside_1
- poly_2_point_28_inside_1 poly_2_point_29_inside_1
- poly_2_spike_point_0_inside_1 poly_2_spike_point_1_inside_1
- poly_2_spike_point_2_inside_1 poly_2_spike_point_3_inside_1
- poly_2_spike_point_4_inside_1 poly_2_spike_point_5_inside_1
- poly_2_spike_point_6_inside_1 poly_2_spike_point_7_inside_1
- poly_2_spike_point_8_inside_1 poly_2_spike_point_9_inside_1
- poly_2_spike_point_10_inside_1 poly_2_spike_point_11_inside_1
- poly_2_spike_point_12_inside_1 poly_2_spike_point_13_inside_1
- poly_2_spike_point_14_inside_1 poly_2_spike_point_15_inside_1
- poly_2_spike_point_16_inside_1 poly_2_spike_point_17_inside_1
- poly_2_spike_point_18_inside_1 poly_2_spike_point_19_inside_1
- poly_2_spike_point_20_inside_1 poly_2_spike_point_21_inside_1
- poly_2_spike_point_22_inside_1 poly_2_spike_point_23_inside_1
- poly_2_spike_point_24_inside_1 poly_2_spike_point_25_inside_1
- poly_2_spike_point_26_inside_1 poly_2_spike_point_27_inside_1
- poly_2_spike_point_28_inside_1 poly_2_spike_point_29_inside_1
- poly_0_point_0_inside_2 poly_0_point_1_inside_2 poly_0_point_2_inside_2
- poly_0_point_3_inside_2 poly_0_point_4_inside_2 poly_0_point_5_inside_2
- poly_0_point_6_inside_2 poly_0_point_7_inside_2 poly_0_point_8_inside_2
- poly_0_point_9_inside_2 poly_0_point_10_inside_2 poly_0_point_11_inside_2
- poly_0_point_12_inside_2 poly_0_point_13_inside_2 poly_0_point_14_inside_2
- poly_0_point_15_inside_2 poly_0_point_16_inside_2 poly_0_point_17_inside_2
- poly_0_point_18_inside_2 poly_0_point_19_inside_2 poly_0_point_20_inside_2
- poly_0_point_21_inside_2 poly_0_point_22_inside_2 poly_0_point_23_inside_2
- poly_0_point_24_inside_2 poly_0_point_25_inside_2 poly_0_point_26_inside_2
- poly_0_point_27_inside_2 poly_0_point_28_inside_2 poly_0_point_29_inside_2
- poly_0_point_30_inside_2 poly_0_point_31_inside_2 poly_0_point_32_inside_2
- poly_0_point_33_inside_2 poly_0_point_34_inside_2 poly_0_point_35_inside_2
- poly_0_point_36_inside_2 poly_0_point_37_inside_2 poly_0_point_38_inside_2
- poly_0_point_39_inside_2 poly_0_point_40_inside_2 poly_0_point_41_inside_2
- poly_0_point_42_inside_2 poly_0_point_43_inside_2 poly_0_point_44_inside_2
- poly_0_point_45_inside_2 poly_0_point_46_inside_2 poly_0_point_47_inside_2
- poly_0_point_48_inside_2 poly_0_point_49_inside_2 poly_0_point_50_inside_2
- poly_0_spike_point_0_inside_2 poly_0_spike_point_1_inside_2
- poly_0_spike_point_2_inside_2 poly_0_spike_point_3_inside_2
- poly_0_spike_point_4_inside_2 poly_0_spike_point_5_inside_2
- poly_0_spike_point_6_inside_2 poly_0_spike_point_7_inside_2
- poly_0_spike_point_8_inside_2 poly_0_spike_point_9_inside_2
- poly_0_spike_point_10_inside_2 poly_0_spike_point_11_inside_2
- poly_0_spike_point_12_inside_2 poly_0_spike_point_13_inside_2
- poly_0_spike_point_14_inside_2 poly_0_spike_point_15_inside_2
- poly_0_spike_point_16_inside_2 poly_0_spike_point_17_inside_2
- poly_0_spike_point_18_inside_2 poly_0_spike_point_19_inside_2
- poly_0_spike_point_20_inside_2 poly_0_spike_point_21_inside_2
- poly_0_spike_point_22_inside_2 poly_0_spike_point_23_inside_2
- poly_0_spike_point_24_inside_2 poly_0_spike_point_25_inside_2
- poly_0_spike_point_26_inside_2 poly_0_spike_point_27_inside_2
- poly_0_spike_point_28_inside_2 poly_0_spike_point_29_inside_2
- poly_0_spike_point_30_inside_2 poly_0_spike_point_31_inside_2
- poly_0_spike_point_32_inside_2 poly_0_spike_point_33_inside_2
- poly_0_spike_point_34_inside_2 poly_0_spike_point_35_inside_2
- poly_0_spike_point_36_inside_2 poly_0_spike_point_37_inside_2
- poly_0_spike_point_38_inside_2 poly_0_spike_point_39_inside_2
- poly_0_spike_point_40_inside_2 poly_0_spike_point_41_inside_2
- poly_0_spike_point_42_inside_2 poly_0_spike_point_43_inside_2
- poly_0_spike_point_44_inside_2 poly_0_spike_point_45_inside_2
- poly_0_spike_point_46_inside_2 poly_0_spike_point_47_inside_2
- poly_0_spike_point_48_inside_2 poly_0_spike_point_49_inside_2
- poly_0_spike_point_50_inside_2 poly_1_point_0_inside_2
- poly_1_point_1_inside_2 poly_1_point_2_inside_2 poly_1_point_3_inside_2
- poly_1_point_4_inside_2 poly_1_point_5_inside_2 poly_1_point_6_inside_2
- poly_1_point_7_inside_2 poly_1_point_8_inside_2 poly_1_point_9_inside_2
- poly_1_point_10_inside_2 poly_1_point_11_inside_2 poly_1_point_12_inside_2
- poly_1_point_13_inside_2 poly_1_point_14_inside_2 poly_1_point_15_inside_2
- poly_1_point_16_inside_2 poly_1_point_17_inside_2 poly_1_point_18_inside_2
- poly_1_point_19_inside_2 poly_1_point_20_inside_2 poly_1_point_21_inside_2
- poly_1_point_22_inside_2 poly_1_point_23_inside_2 poly_1_point_24_inside_2
- poly_1_point_25_inside_2 poly_1_spike_point_0_inside_2
- poly_1_spike_point_1_inside_2 poly_1_spike_point_2_inside_2
- poly_1_spike_point_3_inside_2 poly_1_spike_point_4_inside_2
- poly_1_spike_point_5_inside_2 poly_1_spike_point_6_inside_2
- poly_1_spike_point_7_inside_2 poly_1_spike_point_8_inside_2
- poly_1_spike_point_9_inside_2 poly_1_spike_point_10_inside_2
- poly_1_spike_point_11_inside_2 poly_1_spike_point_12_inside_2
- poly_1_spike_point_13_inside_2 poly_1_spike_point_14_inside_2
- poly_1_spike_point_15_inside_2 poly_1_spike_point_16_inside_2
- poly_1_spike_point_17_inside_2 poly_1_spike_point_18_inside_2
- poly_1_spike_point_19_inside_2 poly_1_spike_point_20_inside_2
- poly_1_spike_point_21_inside_2 poly_1_spike_point_22_inside_2
- poly_1_spike_point_23_inside_2 poly_1_spike_point_24_inside_2
- poly_1_spike_point_25_inside_2
+ poly_1_point_0_inside_0 poly_1_point_0_inside_0_constraint_0_eq
+ poly_1_point_1_inside_0 poly_1_point_1_inside_0_constraint_0_eq
+ poly_1_point_2_inside_0 poly_1_point_2_inside_0_constraint_0_eq
+ poly_1_point_3_inside_0 poly_1_point_3_inside_0_constraint_0_eq
+ poly_1_point_4_inside_0 poly_1_point_4_inside_0_constraint_0_eq
+ poly_1_point_5_inside_0 poly_1_point_5_inside_0_constraint_0_eq
+ poly_1_point_6_inside_0 poly_1_point_6_inside_0_constraint_0_eq
+ poly_1_spike_point_0_inside_0
+ poly_1_spike_point_0_inside_0_constraint_0_eq
+ poly_1_spike_point_1_inside_0
+ poly_1_spike_point_1_inside_0_constraint_0_eq
+ poly_1_spike_point_2_inside_0
+ poly_1_spike_point_2_inside_0_constraint_0_eq
+ poly_1_spike_point_3_inside_0
+ poly_1_spike_point_3_inside_0_constraint_0_eq
+ poly_1_spike_point_4_inside_0
+ poly_1_spike_point_4_inside_0_constraint_0_eq
+ poly_1_spike_point_5_inside_0
+ poly_1_spike_point_5_inside_0_constraint_0_eq
+ poly_1_spike_point_6_inside_0
+ poly_1_spike_point_6_inside_0_constraint_0_eq poly_2_point_0_inside_0
+ poly_2_point_0_inside_0_constraint_0_eq poly_2_point_1_inside_0
+ poly_2_point_1_inside_0_constraint_0_eq poly_2_point_2_inside_0
+ poly_2_point_2_inside_0_constraint_0_eq poly_2_point_3_inside_0
+ poly_2_point_3_inside_0_constraint_0_eq poly_2_point_4_inside_0
+ poly_2_point_4_inside_0_constraint_0_eq poly_2_point_5_inside_0
+ poly_2_point_5_inside_0_constraint_0_eq poly_2_point_6_inside_0
+ poly_2_point_6_inside_0_constraint_0_eq poly_2_point_7_inside_0
+ poly_2_point_7_inside_0_constraint_0_eq poly_2_spike_point_0_inside_0
+ poly_2_spike_point_0_inside_0_constraint_0_eq
+ poly_2_spike_point_1_inside_0
+ poly_2_spike_point_1_inside_0_constraint_0_eq
+ poly_2_spike_point_2_inside_0
+ poly_2_spike_point_2_inside_0_constraint_0_eq
+ poly_2_spike_point_3_inside_0
+ poly_2_spike_point_3_inside_0_constraint_0_eq
+ poly_2_spike_point_4_inside_0
+ poly_2_spike_point_4_inside_0_constraint_0_eq
+ poly_2_spike_point_5_inside_0
+ poly_2_spike_point_5_inside_0_constraint_0_eq
+ poly_2_spike_point_6_inside_0
+ poly_2_spike_point_6_inside_0_constraint_0_eq
+ poly_2_spike_point_7_inside_0
+ poly_2_spike_point_7_inside_0_constraint_0_eq poly_0_point_0_inside_1
+ poly_0_point_0_inside_1_constraint_0_eq poly_0_point_1_inside_1
+ poly_0_point_1_inside_1_constraint_0_eq poly_0_point_2_inside_1
+ poly_0_point_2_inside_1_constraint_0_eq poly_0_point_3_inside_1
+ poly_0_point_3_inside_1_constraint_0_eq poly_0_point_4_inside_1
+ poly_0_point_4_inside_1_constraint_0_eq poly_0_point_5_inside_1
+ poly_0_point_5_inside_1_constraint_0_eq poly_0_point_6_inside_1
+ poly_0_point_6_inside_1_constraint_0_eq poly_0_spike_point_0_inside_1
+ poly_0_spike_point_0_inside_1_constraint_0_eq
+ poly_0_spike_point_1_inside_1
+ poly_0_spike_point_1_inside_1_constraint_0_eq
+ poly_0_spike_point_2_inside_1
+ poly_0_spike_point_2_inside_1_constraint_0_eq
+ poly_0_spike_point_3_inside_1
+ poly_0_spike_point_3_inside_1_constraint_0_eq
+ poly_0_spike_point_4_inside_1
+ poly_0_spike_point_4_inside_1_constraint_0_eq
+ poly_0_spike_point_5_inside_1
+ poly_0_spike_point_5_inside_1_constraint_0_eq
+ poly_0_spike_point_6_inside_1
+ poly_0_spike_point_6_inside_1_constraint_0_eq poly_2_point_0_inside_1
+ poly_2_point_0_inside_1_constraint_0_eq poly_2_point_1_inside_1
+ poly_2_point_1_inside_1_constraint_0_eq poly_2_point_2_inside_1
+ poly_2_point_2_inside_1_constraint_0_eq poly_2_point_3_inside_1
+ poly_2_point_3_inside_1_constraint_0_eq poly_2_point_4_inside_1
+ poly_2_point_4_inside_1_constraint_0_eq poly_2_point_5_inside_1
+ poly_2_point_5_inside_1_constraint_0_eq poly_2_point_6_inside_1
+ poly_2_point_6_inside_1_constraint_0_eq poly_2_point_7_inside_1
+ poly_2_point_7_inside_1_constraint_0_eq poly_2_spike_point_0_inside_1
+ poly_2_spike_point_0_inside_1_constraint_0_eq
+ poly_2_spike_point_1_inside_1
+ poly_2_spike_point_1_inside_1_constraint_0_eq
+ poly_2_spike_point_2_inside_1
+ poly_2_spike_point_2_inside_1_constraint_0_eq
+ poly_2_spike_point_3_inside_1
+ poly_2_spike_point_3_inside_1_constraint_0_eq
+ poly_2_spike_point_4_inside_1
+ poly_2_spike_point_4_inside_1_constraint_0_eq
+ poly_2_spike_point_5_inside_1
+ poly_2_spike_point_5_inside_1_constraint_0_eq
+ poly_2_spike_point_6_inside_1
+ poly_2_spike_point_6_inside_1_constraint_0_eq
+ poly_2_spike_point_7_inside_1
+ poly_2_spike_point_7_inside_1_constraint_0_eq poly_0_point_0_inside_2
+ poly_0_point_0_inside_2_constraint_0_eq poly_0_point_1_inside_2
+ poly_0_point_1_inside_2_constraint_0_eq poly_0_point_2_inside_2
+ poly_0_point_2_inside_2_constraint_0_eq poly_0_point_3_inside_2
+ poly_0_point_3_inside_2_constraint_0_eq poly_0_point_4_inside_2
+ poly_0_point_4_inside_2_constraint_0_eq poly_0_point_5_inside_2
+ poly_0_point_5_inside_2_constraint_0_eq poly_0_point_6_inside_2
+ poly_0_point_6_inside_2_constraint_0_eq poly_0_spike_point_0_inside_2
+ poly_0_spike_point_0_inside_2_constraint_0_eq
+ poly_0_spike_point_1_inside_2
+ poly_0_spike_point_1_inside_2_constraint_0_eq
+ poly_0_spike_point_2_inside_2
+ poly_0_spike_point_2_inside_2_constraint_0_eq
+ poly_0_spike_point_3_inside_2
+ poly_0_spike_point_3_inside_2_constraint_0_eq
+ poly_0_spike_point_4_inside_2
+ poly_0_spike_point_4_inside_2_constraint_0_eq
+ poly_0_spike_point_5_inside_2
+ poly_0_spike_point_5_inside_2_constraint_0_eq
+ poly_0_spike_point_6_inside_2
+ poly_0_spike_point_6_inside_2_constraint_0_eq poly_1_point_0_inside_2
+ poly_1_point_0_inside_2_constraint_0_eq poly_1_point_1_inside_2
+ poly_1_point_1_inside_2_constraint_0_eq poly_1_point_2_inside_2
+ poly_1_point_2_inside_2_constraint_0_eq poly_1_point_3_inside_2
+ poly_1_point_3_inside_2_constraint_0_eq poly_1_point_4_inside_2
+ poly_1_point_4_inside_2_constraint_0_eq poly_1_point_5_inside_2
+ poly_1_point_5_inside_2_constraint_0_eq poly_1_point_6_inside_2
+ poly_1_point_6_inside_2_constraint_0_eq poly_1_spike_point_0_inside_2
+ poly_1_spike_point_0_inside_2_constraint_0_eq
+ poly_1_spike_point_1_inside_2
+ poly_1_spike_point_1_inside_2_constraint_0_eq
+ poly_1_spike_point_2_inside_2
+ poly_1_spike_point_2_inside_2_constraint_0_eq
+ poly_1_spike_point_3_inside_2
+ poly_1_spike_point_3_inside_2_constraint_0_eq
+ poly_1_spike_point_4_inside_2
+ poly_1_spike_point_4_inside_2_constraint_0_eq
+ poly_1_spike_point_5_inside_2
+ poly_1_spike_point_5_inside_2_constraint_0_eq
+ poly_1_spike_point_6_inside_2
+ poly_1_spike_point_6_inside_2_constraint_0_eq
 End
