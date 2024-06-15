@@ -1,5 +1,5 @@
-# San Vitale challenge dataset
-data
+# San Vitale challenge dataset large images
+data/**/*.png
 
 # Environments
 .env
