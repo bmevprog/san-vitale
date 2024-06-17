@@ -10,7 +10,7 @@ def clockwiseAngle(p1, p2, p3):
   ux, uy = x1 - x2, y1 - y2
 
   dot = vx*ux + vy*uy
-  det = vx*ux - vy*uy
+  det = vx*uy - vy*ux
   angle = math.atan2(det, dot)
 
   return angle
