@@ -21,9 +21,9 @@ class Display:
     cv2.imshow("", self.img)
     cv2.waitKey(time)
 
-  def draw(self, poly: Polygon, color=None):
+  def draw(self, poly: Polygon, color=None, isClosed=False):
     color = color or [randrange(256) for _ in range(3)]
-    self.img = cv2.polylines(self.img, [np.array(poly.points, np.int32)], isClosed=False, color=color, thickness=2)
+    self.img = cv2.polylines(self.img, [np.array(poly.points, np.int32)], isClosed=isClosed, color=color, thickness=2)
 
   def debugTouching(self, A: Polygon, B: Polygon, touching: Touching, fittingStep, time=0):
     self.clear()
