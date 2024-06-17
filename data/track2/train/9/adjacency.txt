@@ -1,7 +1,0 @@
-A: B C E
-B: A C D E
-C: A B D 9
-D: B C 8
-E: A B
-8: D
-9: C
