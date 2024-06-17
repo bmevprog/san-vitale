@@ -1,6 +1,9 @@
 # San Vitale challenge dataset large images
 data/**/*.png
 
+# Gurobi models
+*.lp
+
 # Environments
 .env
 .venv
