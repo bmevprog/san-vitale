@@ -21,7 +21,7 @@ from touching import Touching
 
 load_dotenv()
 data_path = Path(os.getenv("DATASET_PATH") + sys.argv[1])
-scale = float(os.getenv("SCALE"))
+scale = 0.1#float(os.getenv("SCALE"))
 dbgBest = False
 poolCount = 10
 fittingStep = 1
@@ -36,7 +36,7 @@ def loadPolygons():
   for file in data_path.glob("*.txt"):
       if "adjacency" != file.stem:
         print(f"${file} loaded")
-        result.append(Polygon.load(file, data_path / (file.stem + ".png"), scale, file.stem))
+        result.append(Polygon.load(file, str(data_path) + "\\" + file.stem + ".png", scale, file.stem))
   return result
 
 from shapely.ops import nearest_points

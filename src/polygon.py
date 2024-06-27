@@ -168,7 +168,7 @@ class Polygon:
       center[1] += p[1]
     center = [ center[0]/len(points), center[1]/len(points) ]
 
-    img = cv2.imread(str(imgpath))
+    img = cv2.imread(imgpath)
     colors = []
 
     for p in points:
