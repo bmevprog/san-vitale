@@ -21,7 +21,7 @@ from touching import Touching
 
 load_dotenv()
 data_path = Path(os.getenv("DATASET_PATH") + sys.argv[1])
-scale = 0.1#float(os.getenv("SCALE"))
+scale = 0.1
 dbgBest = False
 poolCount = 10
 fittingStep = 1
@@ -57,7 +57,6 @@ def scorePosition(poly1: Polygon, poly2: Polygon, i, j, draw=False):
 
   union = unary_union([p1, p2])
   areaScore += union.convex_hull.area*10
-  #score += shapely.concave_hull(union, 0.5).area/fullArea/10
   
   pointScore = 0
   colorscore = 0
@@ -160,7 +159,7 @@ def mergeBest(polygons, wasMerged=False):
     cnt = 0
     for i in range(len(polygons)):
       for j in range(i+1, len(polygons)):
-        touching = task_results[cnt][0]#getBestTouchings(polygons[i], polygons[j], 1)[0]
+        touching = task_results[cnt][0]
         cnt+=1
         polygons[i].touchings[j] = touching
         polygons[j].touchings[i] = Touching(touching.j, touching.i, touching.score)
@@ -188,7 +187,7 @@ def mergeBest(polygons, wasMerged=False):
         task_results.append(getBestTouchings(task))
 
     for i in range(len(polygons)-1):
-      touching = task_results[i][0]#getBestTouchings(polygons[-1], polygons[i], 1)[0]
+      touching = task_results[i][0]
       polygons[i].touchings[-1] = touching
       polygons[-1].touchings[i] = Touching(touching.j, touching.i, touching.score)
 
