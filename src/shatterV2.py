@@ -36,7 +36,7 @@ def loadPolygons():
   for file in data_path.glob("*.txt"):
       if "adjacency" != file.stem:
         print(f"${file} loaded")
-        result.append(Polygon.load(file, str(data_path) + "\\" + file.stem + ".png", scale, file.stem))
+        result.append(Polygon.load(file, str(data_path / (file.stem + ".png")), scale, file.stem))
   return result
 
 from shapely.ops import nearest_points
