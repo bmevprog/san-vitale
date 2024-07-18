@@ -34,6 +34,13 @@ Featured test cases: test/1, train/1 train/10
 ./profile.sh test/1 1>../results/test1_1.txt 2>&1
 ```
 
+SmolLaptop's internals:
+
+```
+CPU: 11th Gen Intel Core i5-1140G7, 4 cores, 1090 MHz (avg)
+Memory: 15.33 GiB total
+```
+
 BigPC's internals:
 
 ```

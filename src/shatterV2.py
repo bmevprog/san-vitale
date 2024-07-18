@@ -25,7 +25,7 @@ load_dotenv()
 data_path = Path(os.getenv("DATASET_PATH") + sys.argv[1])
 scale = 0.1
 dbgBest = False
-poolCount = 30
+poolCount = 6
 fittingStep = 1
 maxTouchings = 1
 multitask = True
