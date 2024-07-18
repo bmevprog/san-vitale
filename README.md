@@ -33,3 +33,10 @@ Featured test cases: test/1, train/1 train/10
 ```bash
 ./profile.sh test/1 1>../results/test1_1.txt 2>&1
 ```
+
+BigPC's internals:
+
+```
+CPU: AMD Ryzen 9 5950X, 16 cores, 2296 MHz (avg)
+Memory: 125.75 GiB total
+```
