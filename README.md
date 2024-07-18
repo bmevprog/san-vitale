@@ -1,6 +1,5 @@
 # san-vitale
 
-
 Using the program:
 
 1) Install python and the libraries in requirements.txt
@@ -28,3 +27,9 @@ Comment:
 	In order to reduce the running time, further parallelization (on GPU) is possible, because currently only the comparison of pieces runs in parallel, but the scoring of all possible placements between two pieces is also an independent problem.
 
 Featured test cases: test/1, train/1 train/10
+
+## Profiling
+
+```bash
+./profile.sh test/1 1>../results/test1_1.txt 2>&1
+```

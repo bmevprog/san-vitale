@@ -19,11 +19,13 @@ from polygon import Polygon
 from display import Display
 from touching import Touching
 
+import time
+
 load_dotenv()
 data_path = Path(os.getenv("DATASET_PATH") + sys.argv[1])
 scale = 0.1
 dbgBest = False
-poolCount = 10
+poolCount = 5
 fittingStep = 1
 maxTouchings = 1
 multitask = True
@@ -218,11 +220,11 @@ def mergeBest(polygons, wasMerged=False):
 
   polygons[i].colors.merge(polygons[j].colors)
   mergedPoly = Polygon("_", points, polygons[i].colors, True, polygons[i].originalPolys + polygons[j].originalPolys)
-  display.clear()
-  display.draw(polygons[i], (0,255,255))
-  display.draw(polygons[j], (255,255,0))
-  display.draw(mergedPoly, (255,255,255))
-  display.show(500)
+  # display.clear()
+  # display.draw(polygons[i], (0,255,255))
+  # display.draw(polygons[j], (255,255,0))
+  # display.draw(mergedPoly, (255,255,255))
+  # display.show(500)
   for index in sorted([i,j], reverse=True): # remove the two polygons we just merged. (indexes from largest to smallest)
     polygons.pop(index)
 
@@ -233,19 +235,28 @@ def mergeBest(polygons, wasMerged=False):
   polygons.append(mergedPoly)
   return polygons
 
-def main():
-  polygons = []
-  polygons = loadPolygons()
+def computation(polygons):
   polyCount = len(polygons)
   for i in range(polyCount-1):
     polygons = mergeBest(polygons, i > 0)
 
   finalPolys = polygons[0].originalPolys
-  display.clear()
-  for poly in finalPolys:
-    display.draw(poly, (255,0,0), False)
-  display.show()
-  cv2.waitKey(0)
+  return finalPolys
+
+def main():
+  polygons = []
+  polygons = loadPolygons()
+
+  start_time = time.time()
+  finalPolys = computation(polygons)
+  end_time = time.time()
+  elapsed_time = end_time - start_time
+
+  #display.clear()
+  #for poly in finalPolys:
+  #  display.draw(poly, (255,0,0), False)
+  #display.show()
+  #cv2.waitKey(0)
 
   ShapelyFinalPolys = [ShapelyPolygon(x.points) for x in finalPolys]
   ##output connection graph
@@ -264,8 +275,10 @@ def main():
   for key in mtx.keys():
     print(key + ": " + " ".join(mtx[key]))
 
+  print(f"Time {elapsed_time:.4f} seconds")
+
 
 import cProfile
 if __name__ == "__main__":
   main()
-  #cProfile.run('main()')
+  # cProfile.run('main()')
