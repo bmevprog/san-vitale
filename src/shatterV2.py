@@ -25,7 +25,7 @@ load_dotenv()
 data_path = Path(os.getenv("DATASET_PATH") + sys.argv[1])
 scale = 0.1
 dbgBest = False
-poolCount = 5
+poolCount = 30
 fittingStep = 1
 maxTouchings = 1
 multitask = True
@@ -275,8 +275,7 @@ def main():
   for key in mtx.keys():
     print(key + ": " + " ".join(mtx[key]))
 
-  print(f"Time {elapsed_time:.4f} seconds")
-
+  print(f"Time {elapsed_time*1000:.4f} milliseconds")
 
 import cProfile
 if __name__ == "__main__":

@@ -1,0 +1,21 @@
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Loading data from:  ../data/track1/test/4
+$../data/track1/test/4/453.txt loaded
+$../data/track1/test/4/565.txt loaded
+$../data/track1/test/4/403.txt loaded
+$../data/track1/test/4/431.txt loaded
+$../data/track1/test/4/593.txt loaded
+$../data/track1/test/4/432.txt loaded
+565: 432
+432: 565 403
+431: 403 453
+403: 432 431 453
+453: 431 403 593
+593: 453
+Time 18024.5547 milliseconds
+Memory 213616 kbytes
